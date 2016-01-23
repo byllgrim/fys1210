@@ -7,6 +7,8 @@ $V_{S1}=\SI{15}{\volt}$,\qquad
 $V_{S2}=\SI{3}{\volt}$,\qquad
 $R_1=R_2=R_3=\SI{1}{\kilo\ohm}$
 
+
+
 \begin{circuitikz} \draw
 (0,0) to[battery, l=$V_{S1}$] (0,4)
       to[R, l=$R_2$] (4,4)
@@ -17,5 +19,41 @@ $R_1=R_2=R_3=\SI{1}{\kilo\ohm}$
       to[R, l=$R_3$] (4,4)
       ;
 \end{circuitikz}
+\\
 I denne kretsen er det to spenningskilder som begge bidrar til å
 skape spenning $V_1$ rundt motstanden $R_1$.
+
+
+
+\begin{circuitikz} \draw
+(0,0) to[battery, l=$V_{S1}$] (0,4)
+      to[R, l=$R_2$] (4,4)
+      -- (8,4)
+      to[R, l=$R_1$] (8,0)
+      -- (0,0)
+(4,0) -- (4,2)
+      to[R, l=$R_3$] (4,4)
+      ;
+\end{circuitikz}
+\\
+Vi later som den ene spenningskilden $V_{S2}$ ikke eksisterer
+og regner ut bidraget fra $V_{S1}$.
+
+
+
+\begin{circuitikz} \draw
+(0,0) to[battery, l=$V_{S1}$] (0,4)
+      to[R, l=$R_2$] (4,4)
+      to[R, l=$R_{EQ}$] (4,0)
+      -- (0,0)
+      ;
+\end{circuitikz}
+\\
+Motstandene $R_1$ og $R_3$ danner en parallellkobling som vi kan
+betrakte som én motstand $R_{EQ}$.
+Siden $R_1$ og $R_3$ er parallellkoblet får man
+$R_3$ via den \emph{inverse}.
+$$\frac{1}{R_{EQ}} = \frac{1}{R_1} + \frac{1}{R_3}$$
+Eller, siden det bare er to motstander, via forenklingen.
+$$R_{EQ} = \frac{R_1 \cdot R_3}{R_1 + R_3} = \frac{1\cdot 1}{1+1}=\frac{1}{2}$$
+%TODO: enheter
