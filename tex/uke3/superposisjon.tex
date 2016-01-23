@@ -3,6 +3,7 @@ For å finne spenningen rundt en komponent ser man på bidraget fra én spenning
 Når bidraget fra alle kildene er funnet, legger man det sammen for å få totalverdien.
 
 \subsubsection{Eksempel}
+\paragraph{Krets med to spenningskilder} \mbox{} \\
 $V_{S1}=\SI{15}{\volt}$,\qquad
 $V_{S2}=\SI{3}{\volt}$,\qquad
 $R_1=R_2=R_3=\SI{1}{\kilo\ohm}$
@@ -25,6 +26,7 @@ skape spenning $V_1$ rundt motstanden $R_1$.
 
 
 
+\paragraph{Bidrag fra første spenningskilde} \mbox{} \\
 \begin{circuitikz} \draw
 (0,0) to[battery, l=$V_{S1}$] (0,4)
       to[R, l=$R_2$] (4,4)
@@ -51,9 +53,65 @@ og regner ut bidraget fra $V_{S1}$.
 \\
 Motstandene $R_1$ og $R_3$ danner en parallellkobling som vi kan
 betrakte som én motstand $R_{EQ}$.
+\\\\
 Siden $R_1$ og $R_3$ er parallellkoblet får man
-$R_3$ via den \emph{inverse}.
+$R_{EQ}$ via den \emph{inverse}.
 $$\frac{1}{R_{EQ}} = \frac{1}{R_1} + \frac{1}{R_3}$$
 Eller, siden det bare er to motstander, via forenklingen.
 $$R_{EQ} = \frac{R_1 \cdot R_3}{R_1 + R_3} = \frac{1\cdot 1}{1+1}=\frac{1}{2}$$
 %TODO: enheter
+Spenningen over $R_1$ vil være den samme som over $R_3$, fordi de er parallellkoblet.
+Det er den samme spenningen som over hele $R_{EQ}$.
+\\
+Siden vi vil finne spenningen over $R_1$ holder det da å regne ut spenningen over $R_{EQ}$.
+$$V_{EQ} = V_{1(S1)} = \frac{R_{EQ}}{R_{EQ} + R_2} \cdot V_{S1}
+= \frac{\frac{1}{2}}{\frac{1}{2} + 1} \cdot 15 = \SI{5}{\volt}$$
+
+$V_{1(S1)}$ er da den delen av spenningen $V_1$ forårsaket av $V_{S1}$.
+
+
+
+\paragraph{Bidrag fra andre spenningskilde} \mbox{} \\
+\begin{circuitikz} \draw
+(0,0) -- (0,4)
+      to[R, l=$R_2$] (4,4)
+      -- (8,4)
+      to[R, l=$R_1$] (8,0)
+      -- (0,0)
+(4,0) to[battery, l=$V_{S2}$] (4,2)
+      to[R, l=$R_3$] (4,4)
+      ;
+\end{circuitikz}
+\\
+Denne gangen later vi som $V_{S1}$ ikke eksisterer.
+
+
+
+\begin{circuitikz} \draw
+(0,0) to[battery, l=$V_{S2}$] (0,4)
+      to[R, l=$R_3$] (4,4)
+      -- (8,4)
+      to[R, l=$R_2$] (8,0)
+      -- (0,0)
+(4,0) to[R, l=$R_1$] (4,4)
+      ;
+\end{circuitikz}
+\\
+Tegnet på en annen måte ser vi at $R_1$ og $R_2$ også
+danner en parallellkobling. Den kan vi betrakte som $R_{FQ}$
+og regne ut på samme måte.
+\\
+Totalmotstanden til $R_{FQ}$ gis på samme måte som ista.
+$$R_{FQ} = \frac{R_1 \cdot R_2}{R_1 + R_2} = \frac{1}{2}$$
+\\
+Spenningen over $R_{FQ}$ er lik spenningen over $R_1$
+som er lik spenningen over $R_2$.
+$$V_{FQ} = V_{1(S2) = \frac{R_{FQ}}{R_{FQ} + R_3} \cdot V_{S2}}
+= \frac{\frac{1}{2}}{\frac{1}{2} + 1} \cdot 3 = \SI{1}{\volt}$$
+
+
+
+\paragraph{Total spenning!} \mbox{} \\
+Nå som vi har regnet ut begge bidragene $V_{1(S1)}$ og $V_{1(S2)}$
+kan vi legge dem sammen og få den totale spenningen $V_1$.
+$$V_1 = V_{1(S1)} + V_{1(S2)} = 5 + 1 = \SI{6}{\volt}$$
