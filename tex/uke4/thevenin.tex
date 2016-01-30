@@ -1,0 +1,57 @@
+\subsubsection{Last analyse}
+Thevenins teorem er en regneteknikk hvor du kan betrakte noe komplisert som noe enkelt.
+Det brukes som regel for å regne på forksjellig last uten å måtte regne ut hele kretsen på nytt.
+
+\begin{circuitikz} \draw
+(0,0) -- (0,4)
+      node [right=3em,below=3em,anchor=west]
+           {\large{\textsc{Komplisert krets}}}
+      -- (6,4)
+      -- (6,0)
+      -- (0,0)
+(6,3) to[short, -o] (7,3)
+      to[voltmeter] (7,1)
+      to[short, o-] (6,1)
+      ;
+\draw[dashed]
+(7,3) -- (8,3)
+      to[R, label=$R_L$] (8,1)
+      -- (7,1)
+      ;
+\end{circuitikz}
+\\
+Alle topolede, lineære nettverk (krets)...
+\\\\
+
+\begin{circuitikz} \draw
+(0,0) -- (0,4)
+      -- (6,4)
+      -- (6,0)
+      -- (0,0)
+(6,3) to[short, -o] (7,3)
+      to[voltmeter] (7,1)
+      to[short, o-] (6,1)
+      -- (1,1)
+      to[battery] (1,3)
+      node[right=1em,below=2.5em,anchor=west]{$V_{TH}$}
+      to[R, label=$R_{TH}$] (6,3)
+      ;
+\draw[dashed]
+(7,3) -- (8,3)
+      to[R, label=$R_L$] (8,1)
+      -- (7,1)
+      ;
+\end{circuitikz}
+\\
+...kan erstattes med en spenningskilde $V_{TH}$ og en motstand $R_{TH}$.
+\\\\
+$V_{TH}$=Spenningen over polene uten last.\\
+$R_{TH}$=Motstand over polene når alle spenningskilder er kortsluttet og alle strømmer brutt.
+
+
+
+\subsubsection{Eksempel}
+TODO
+
+\subsubsection{Nortons Teorem}
+TODO
