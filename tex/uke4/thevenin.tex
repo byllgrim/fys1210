@@ -54,4 +54,16 @@ $R_{TH}$=Motstand over polene når alle spenningskilder er kortsluttet og alle s
 \input{./tex/uke4/eksempel}
 
 \subsubsection{Nortons Teorem}
-TODO
+Nortons teorem bygger videre på thevenins teorem.
+Det sier at enhver krets, uansett hvor kompleks,
+kan representeres med en strømkilde i parallell med en motstand.
+
+\begin{circuitikz}[american currents] \draw{}
+(0,0) to[I, label=$I_{Norton}$] (0,2)
+      -- (2,2)
+      to[R, label=$R_{Norton}$] (2,0)
+      -- (0,0)
+(2,2) to[short, -o] (4,2)
+(2,0) to[short, -o] (4,0)
+      ;
+\end{circuitikz}
