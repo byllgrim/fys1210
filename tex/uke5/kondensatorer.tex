@@ -42,5 +42,42 @@ Det vil si at vi har en spenning over kondensatoren.
 
 
 \subsubsection{Formler og enheter}
-Kapasitet(ladning), kapasitet(areal), serie, parallell \\
-TODO
+Kapasitet (C), evnen til å lagre ladning, er gitt ved følgende formel.
+$$C = \frac{Q}{V} = \frac{Ladning}{Spenning}$$
+Enheten for kapasitet er farad (F).
+\\
+En 1 farads kondensator ladet med 1 coulomb
+har en spenning på 1 volt mellom platene.
+\\\\
+Kapasiteten til en kondensator er avhengig av
+arealet til flatene, avstanden mellom dem og dielektrikumet i mellom.
+$$C = \varepsilon _0 \cdot \varepsilon _r \cdot \frac{A}{d}$$
+C = kapasitet i farad \\
+$\varepsilon _0 =$ permittiviteten til dielektrikumet i vakuum \\
+$\varepsilon _r =$ relativ permittivitet til dielektrikumet\\
+$A =$ arealet til overflatene til platene \\
+$d =$ avstand mellom platene i meter
+\\\\
+Serie- og parallellkobling fungerer motsatt
+av hvordan vi er vant med å tenke med motstander.
+Vi ser på en seriekobling \\
+\begin{circuitikz} \draw
+(0,0) to[C, label=$C_1$] (2,0)
+      to[C, label=$C_2$] (4,0)
+      to[C, label=$C_3$] (6,0)
+      ;
+\end{circuitikz} \\
+Den totale kapasiteten er gitt ved.
+$$\frac{1}{C_T} = \frac{1}{C_1} + \frac{1}{C_2} + \frac{1}{C_3}$$
+Tilsvarende for parallellkobling \\
+\begin{circuitikz} \draw
+(0,0) -- (6,0)
+      -- (6,2)
+      -- (0,2)
+(2,0) to[C, label=$C_1$] (2,2)
+(4,0) to[C, label=$C_2$] (4,2)
+(6,0) to[C, label=$C_3$] (6,2)
+      ;
+\end{circuitikz} \\
+Den totale kapasiteten er gitt ved.
+$$C_T = C_1 + C_2 + C_3$$
