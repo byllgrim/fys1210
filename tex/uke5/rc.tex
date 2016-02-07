@@ -26,6 +26,20 @@ Og tilsvarende for impedansen.
 $$Z_T = \sqrt{R^2 + X_C^2}$$
 
 
+\paragraph{Eksempel} \mbox{} \\
+Finn den totale impedansen Z
+for en seriekoblet motstand, kondensator og vekselstrømkilde.\\
+$R = \SI{25}{k\ohm}$ \qquad
+$C = \SI{6}{n\farad}$ \qquad
+$f = \SI{2}{k\hertz}$
+\\
+$$X_C = \frac{1}{2\pi \cdot f \cdot C}
+= \frac{1}{2\pi \cdot 2\cdot 10^3\cdot 6\cdot 10^{-9}} = \SI{13,3}{k\ohm}$$
+\\
+$$Z = \sqrt{R^2 + X_C^2}
+= \sqrt{(25 \cdot 10^3)^2 + (13,3 \cdot 10^3)^2} = \SI{28,3}{k\ohm}$$
+
+
 
 \paragraph{Tidskonstant} \mbox{} \\
-TODO
+\include{./tex/uke5/tidskonstant}
