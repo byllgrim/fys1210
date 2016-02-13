@@ -1,0 +1,21 @@
+Finn strømmen!\\
+(Husk at dioder har en potensialbarriere på ca 0.7 Volt)
+\\\\
+$V_S = \SI{5}{\volt} \quad
+ R = \SI{1}{k\ohm}$
+\\\\
+\begin{circuitikz} \draw
+(0,0) node[ground]{}
+      to[battery, label=$V_S$] (0,3)
+      to[R, label=$R$] (3,3)
+      to[diode, label=$D$] (3,0)
+      node[ground]{}
+      ;
+\end{circuitikz}
+
+Etter Kirchhoffs lov om spenninger vet vi at
+$$V_S = V_R + V_D$$
+Videre ser vi at
+$$V_R = V_S - V_D = 5 - 0.7 = \SI{4.3}{\volt}$$
+Strømmen er gitt ved
+$$I_R = \frac{V_R}{R} = \frac{4.3}{1\cdot 10^3} = \SI{4.3}{m\ampere}$$
