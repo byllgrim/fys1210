@@ -1,1 +1,25 @@
-TODO
+Det finnes forksjellige typer forsterkning:
+strømforsterkning, spenningsforsterkning, effektforsterkning.
+
+Vi skal se på spenningsforsterkning $A_V$.
+A står for Amplify og V står for Voltage.
+$A_V$ er gitt ved
+$$A_V = \frac{V_{ut}}{V_{inn}} = \frac{\Delta V_{RC}}{\Delta V_{BE}}
+= g_m \cdot R_C$$
+
+\paragraph{Utledning} \mbox{} \\
+Vi vet at steilhet $g_m = \sfrac{\Delta I_C}{\Delta V_{BE}}$.
+Stokket om
+$$\Delta I_C = g_m \cdot V_{BE}$$
+
+Fra ohms lov har vi også
+$$\Delta V_{RC} = \Delta I_C \cdot R_C$$
+
+Slår vi dem sammen får vi
+$$\Delta V_{RC} = g_m \cdot V_{BE} \cdot R_C$$
+
+Dette kan vi bruke i formelen for $A_V$
+$$A_V = \frac{V_{ut}}{V_{inn}}
+= \frac{\Delta V_{RC}}{\Delta V_{BE}}
+= \frac{g_m \cdot V_{BE} \cdot R_C}{\Delta V_{BE}}
+= g_m \cdot R_C$$
