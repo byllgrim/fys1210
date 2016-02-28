@@ -31,4 +31,22 @@ Hvor $V_T = 25mV$.
 
 
 \subsubsection{Dynamisk inngangsresistans}
-TODO
+Mellom base-emitter "er det" en dynamisk motstand $r_\pi$.
+Den dynamiske motstanden $r_\pi$ er gitt ved
+$$r_\pi = \frac{\Delta V_{BE}}{\Delta I_B}$$
+\\\\
+\paragraph{Et annet uttrykk} \mbox{} \\
+Vi vet at $I_C = \beta \cdot I_B$.
+Stokket om og derivert gir det
+$$\Delta I_B = \frac{\Delta I_C}{\beta}$$
+\\
+Vi vet også at $g_m = \sfrac{\Delta I_C}{\Delta V_{BE}}$.
+Stokket om gir det
+$$\Delta I_C = g_m \cdot \Delta V_{BE}$$
+\\
+Slår vi dem sammen
+$$\Delta I_B = \frac{g_m \cdot \Delta V_{BE}}{\beta}$$
+\\
+Dette kan vi bruke i formelen for dynamisk inngangsresistans.
+$$r_\pi = \frac{\Delta V_{BE}}{\Delta I_B}
+= \frac{\beta}{g_m} = \frac{\beta \cdot V_T}{I_C}$$
