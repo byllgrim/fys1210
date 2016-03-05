@@ -1,3 +1,4 @@
+\paragraph{Med avkoblet emitter} \mbox{} \\
 \begin{circuitikz} \draw
 (4,3) node[npn] (npn) {}
       (npn.base) node[anchor=east] {}
@@ -26,3 +27,49 @@
       to[short, -o, l=$out$] (8,4)
       ;
 \end{circuitikz}
+\\
+I denne kretsen er forsterkningen gitt ved
+$$A_V = -g_m \cdot R_C$$
+\\
+Eventuelt, hvis du har en last på output
+$$A_V = -gm \cdot (R_C || R_L)$$
+\\
+Hvor vi \emph{husker} at
+$$g_m = \frac{I_C}{V_T}$$
+
+
+
+\paragraph{Uten avkoblet emitter} \mbox{} \\
+Uten avkoblet emitter kan du ta vekk kondensatorene på høyre side av kretsen.
+Da blir forsterkningen (uten last)
+$$A_V = -\frac{R_C}{R_E}$$
+
+
+
+\paragraph{Småsignaler} \mbox{} \\
+Kretsen ovenfor sett ifra småsignalmodellen gir
+\\
+\begin{circuitikz} \draw
+(1,0) to[R, l=$R_{B1}$] (1,4)
+(3,0) to[R, l=$R_{B1}$] (3,4)
+(6,0) to[R, l=$R_E$] (6,2)
+      -- (5,2)
+      to[R, l=$r_\pi$] (5,4)
+      node[label=$B$] {}
+      to[short, -o] (0,4)
+      node[label=$V_{inn}$] {}
+(6,2) -- (7,2)
+      to[american controlled current source] (7,4)
+      node[label=$C$] {}
+      to[short, -o] (9,4)
+      node[label=$V_{ut}$] {}
+(8,4) to[R, l=$R_C$] (8,0)
+(9,0) to[short, o-o] (0,0)
+      ;
+\end{circuitikz}
+\\
+Motstanden som signalet ser inn mot kretsen er
+$$R_{inn} = R_{B1} || R_{B2} || r_{inn}$$
+\\
+Hvor $r_{inn}$ er motstanden etter de 2 parallell-motstandene.
+$$r_{inn} = r_\pi + (\beta + 1)R_E$$
