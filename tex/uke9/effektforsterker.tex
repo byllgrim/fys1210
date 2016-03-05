@@ -1,0 +1,28 @@
+\begin{circuitikz} \draw
+(4,3) node[npn] (npn) {}
+      (npn.base) node[anchor=east] {}
+      (npn.collector) node[anchor=south] {}
+      (npn.emitter) node[anchor=north] {}
+
+(0,3) node[label=$in$] {}
+      to[C, l=$C_1$] (2,3)
+      to[R, l=$R_1$] (2,6)
+      -- (4,6)
+      to[short, -o, l=$V_{CC}$] (4,7)
+(4,6) to[R, l=$R_C$] (npn.collector)
+
+(2,3) -- (npn.base)
+(npn.emitter) to[R, l=$R_E$] (4,0)
+      -- (1,0)
+      node[ground] {}
+(2,3) to[R, l=$R_2$] (2,0)
+
+(4,2) -- (6,2)
+      to[C, l=$C_3$] (6,0)
+      -- (4,0)
+
+(4,4) -- (5,4)
+      to[C, l=$C_2$] (7,4)
+      to[short, -o, l=$out$] (8,4)
+      ;
+\end{circuitikz}
