@@ -1,1 +1,37 @@
-TODO
+En klasse B Push-Pull forsterker lider av crossover forvrengning.
+Det gjør ikke den mer avanserte klasse AB forsterkeren.
+\\
+\begin{circuitikz} \draw
+(6,2) node[pnp] (pnp) {}
+      (pnp.base) node[anchor=east] {}
+      (pnp.collector) node[anchor=south] {}
+      (pnp.emitter) node[anchor=north] {}
+(6,6) node[npn] (npn) {}
+      (npn.base) node[anchor=east] {}
+      (npn.collector) node[anchor=south] {}
+      (npn.emitter) node[anchor=north] {}
+(0,0) node[ground] {}
+      to[vsourcesin, l=$V_{inn}$] (0,4)
+      -- (2,4)
+      -- (2,2)
+      to[C] (4,2)
+      -- (pnp.base)
+(2,4) -- (2,6)
+      to[C] (4,6)
+      -- (npn.base)
+(npn.collector) -- (6,8)
+      to[short, -o, l=$V_{CC}$] (6,9)
+(6,8) -- (4,8)
+      to[R] (4,6)
+      to[D] (4,4)
+      to[D] (4,2)
+      to[R] (4,0)
+      node[ground] {}
+(pnp.emitter) -- (6,0)
+      node[ground] {}
+(pnp.collector) -- (npn.emitter)
+(6,4) to[C, -o] (9,4)
+      to[R, l=$R_L$] (9,0)
+      node[ground] {}
+      ;
+\end{circuitikz}
