@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.1.22)  7 MAR 2016 17:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.1.22)  7 MAR 2016 18:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -272,25 +272,33 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count88
+\float@exts=\toks17
+\float@box=\box26
+\@float@everytoks=\toks18
+\@floatcapt=\box27
+)
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count88
-\lst@gtempboxa=\box26
-\lst@token=\toks17
-\lst@length=\count89
+\lst@mode=\count89
+\lst@gtempboxa=\box28
+\lst@token=\toks19
+\lst@length=\count90
 \lst@currlwidth=\dimen105
-\lst@column=\count90
-\lst@pos=\count91
+\lst@column=\count91
+\lst@pos=\count92
 \lst@lostspace=\dimen106
 \lst@width=\dimen107
-\lst@newlines=\count92
-\lst@lineno=\count93
+\lst@newlines=\count93
+\lst@lineno=\count94
 \lst@maxwidth=\dimen108
 
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
-\c@lstnumber=\count94
-\lst@skipnumbers=\count95
-\lst@framebox=\box27
+\c@lstnumber=\count95
+\lst@skipnumbers=\count96
+\lst@framebox=\box29
 )
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2014/09/06 1.5e listings configuration
@@ -299,32 +307,32 @@ Package: listings 2014/09/06 1.5e (Carsten Heinz)
  (./lab5.aux)
 \openout1 = `lab5.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count96
+\scratchcounter=\count97
 \scratchdimen=\dimen109
-\scratchbox=\box28
-\nofMPsegments=\count97
-\nofMParguments=\count98
-\everyMPshowfont=\toks18
-\MPscratchCnt=\count99
+\scratchbox=\box30
+\nofMPsegments=\count98
+\nofMParguments=\count99
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count100
 \MPscratchDim=\dimen110
-\MPnumerator=\count100
-\makeMPintoPDFobject=\count101
-\everyMPtoPDFconversion=\toks19
+\MPnumerator=\count101
+\makeMPintoPDFobject=\count102
+\everyMPtoPDFconversion=\toks21
 ) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -373,26 +381,26 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\c@lstlisting=\count102
+\c@lstlisting=\count103
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 14.
+(Font)              <12> on input line 15.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 14.
+(Font)              <8> on input line 15.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 14.
+(Font)              <6> on input line 15.
 
 (./formal.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 1--18
+Underfull \hbox (badness 10000) in paragraph at lines 1--19
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--18
+Underfull \hbox (badness 10000) in paragraph at lines 1--19
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--18
+Underfull \hbox (badness 10000) in paragraph at lines 1--19
 
  []
 
@@ -435,55 +443,74 @@ File: 2b.png Graphic file (type png)
  <use 2b.png>
 Package pdftex.def Info: 2b.png used on input line 29.
 (pdftex.def)             Requested size: 345.0pt x 278.68225pt.
- (./2b.matlab))
-(./oppg3.tex <3.jpg, id=13, 321.2pt x 240.9pt>
+ [2] (./2b.matlab))
+(./oppg3.tex <3.jpg, id=19, 321.2pt x 240.9pt>
 File: 3.jpg Graphic file (type jpg)
  <use 3.jpg>
 Package pdftex.def Info: 3.jpg used on input line 16.
 (pdftex.def)             Requested size: 345.0pt x 258.75659pt.
-)
-Underfull \hbox (badness 10000) in paragraph at lines 6--27
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--17
 
  []
 
-[2] (./oppg4.tex [3 <./2b.png>] <4a.jpg, id=24, 321.2pt x 240.9pt>
+[3 <./2b.png>]) (./oppg4.tex <4a.jpg, id=24, 321.2pt x 240.9pt>
 File: 4a.jpg Graphic file (type jpg)
-
-<use 4a.jpg>
+ <use 4a.jpg>
 Package pdftex.def Info: 4a.jpg used on input line 17.
 (pdftex.def)             Requested size: 345.0pt x 258.75659pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 8--22
+Underfull \hbox (badness 10000) in paragraph at lines 8--18
 
  []
 
-<4b.jpg, id=25, 321.2pt x 240.9pt>
+[4 <./3.jpg>] <4b.jpg, id=28, 321.2pt x 240.9pt>
 File: 4b.jpg Graphic file (type jpg)
  <use 4b.jpg>
 Package pdftex.def Info: 4b.jpg used on input line 31.
 (pdftex.def)             Requested size: 345.0pt x 258.75659pt.
-) [4 <./3.jpg>] [5 <./4a.jpg>]
-[6 <./4b.jpg>] (./lab5.aux) ) 
+ [5 <./4a.jpg>]
+<4bb.jpg, id=32, 321.2pt x 240.9pt>
+File: 4bb.jpg Graphic file (type jpg)
+ <use 4bb.jpg>
+Package pdftex.def Info: 4bb.jpg used on input line 41.
+(pdftex.def)             Requested size: 345.0pt x 258.75659pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--42
+
+ []
+
+) [6 <./4b.jpg>] (./oppg5.tex <5.jpg, id=36, 321.2pt x 240.9pt>
+File: 5.jpg Graphic file (type jpg)
+ <use 5.jpg>
+Package pdftex.def Info: 5.jpg used on input line 10.
+(pdftex.def)             Requested size: 345.0pt x 258.75659pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--11
+
+ []
+
+[7 <./4bb.jpg>]) [8 <./5.jpg>] (./lab5.aux) ) 
 Here is how much of TeX's memory you used:
- 3350 strings out of 493105
- 44615 string characters out of 6137072
- 138572 words of memory out of 5000000
- 6771 multiletter control sequences out of 15000+600000
+ 3420 strings out of 493105
+ 45472 string characters out of 6137072
+ 135994 words of memory out of 5000000
+ 6832 multiletter control sequences out of 15000+600000
  8241 words of font info for 29 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,6n,32p,237b,1065s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.
-pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on lab5.pdf (6 pages, 184755 bytes).
+ 38i,6n,32p,234b,1063s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
+7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on lab5.pdf (8 pages, 241980 bytes).
 PDF statistics:
- 61 PDF objects out of 1000 (max. 8388607)
- 39 compressed objects within 1 object stream
+ 71 PDF objects out of 1000 (max. 8388607)
+ 45 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
