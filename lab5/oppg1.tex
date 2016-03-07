@@ -1,0 +1,39 @@
+Kretsen vår er en NAND.
+Det er to input, A og B, og en output Y.
+Spenningen avgjør om signalet regnes som 1 eller 0.
+\\\\
+Et potmeter gjør at vi kan justere spenningen på A. \\
+Input B er alltid 1, men en knapp setter den til 0. \\
+En lysdiode, aktivert av strap S2, indikerer om output er 1 eller 0.
+
+\subsection{Potmeter}
+Hvor går spenningsgrensen mellom 1 og 0 i logikken?
+\\
+Hvis B alltid er på, og lampa av når begge er på, skrur vi A opp til lampa
+er av.
+Da kom vi opp til ~1.1 volt.
+Det betyr at grense mellom 1 og 0 (i port-logikken) er ca 1.1V.
+
+\subsection{Oppg 1}
+Prøv forskjellige kombinasjonene av A og B og verifiser funksjonstabellen.
+\\\\
+\begin{tabular}{l|c|r}
+  A & B & Y \\ \hline
+  0 & 0 & 1 \\ \hline
+  0 & 1 & 1 \\ \hline
+  1 & 0 & 1 \\ \hline
+  1 & 1 & 0 \\
+\end{tabular}
+\\\\
+Strap S2 er på så vi kan observere om output er 1 eller 0.
+Deretter vrir vi potmeteret for å justere A mellom 0 og 5 volt.
+\begin{itemize}
+\item Vi skrur A=0 og trykker ned B=0.
+      Dioden lyser! Akkurat som forventet.
+\item Fortsatt er A=0 og slipper opp B=1.
+      Dioden lyser! Akkurat som forventet.
+\item Vrir opp A=1 og trykker ned B=0.
+      Dioden lyser! Akkurat som forventet.
+\item Fortsatt er A=1 og slipper opp B=1.
+      Det kommer en tid i enhver diodes liv hvor lyset tar slutt.
+\end{itemize}
