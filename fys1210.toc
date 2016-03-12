@@ -175,27 +175,28 @@
 \contentsline {subsubsection}{\numberline {10.2.1}Bin\IeC {\ae }r addisjon}{70}
 \contentsline {subsubsection}{\numberline {10.2.2}Adders}{70}
 \contentsline {paragraph}{Halvadder}{70}
-\contentsline {paragraph}{Heladder}{70}
-\contentsline {paragraph}{n-bit adder}{71}
+\contentsline {paragraph}{Heladder}{71}
+\contentsline {paragraph}{n-bit adder}{72}
 \contentsline {subsection}{\numberline {10.3}Sekvensielle kretser}{72}
-\contentsline {subsubsection}{\numberline {10.3.1}Dekoder / Enkoder}{72}
-\contentsline {paragraph}{Dekoder}{72}
-\contentsline {paragraph}{Enkoder}{72}
-\contentsline {subsubsection}{\numberline {10.3.2}ROM}{72}
-\contentsline {subsubsection}{\numberline {10.3.3}Latches}{72}
-\contentsline {paragraph}{SR-latch}{72}
-\contentsline {paragraph}{Synkron SR-latch}{72}
-\contentsline {paragraph}{D-latch}{72}
-\contentsline {section}{\numberline {11}Uke 11}{73}
-\contentsline {section}{\numberline {12}Uke 12}{73}
-\contentsline {section}{\numberline {13}Uke 13}{73}
-\contentsline {section}{\numberline {14}Uke 14}{73}
-\contentsline {section}{\numberline {15}Uke 15}{73}
-\contentsline {section}{\numberline {16}Uke 16}{73}
-\contentsline {section}{\numberline {17}Uke 17}{73}
-\contentsline {section}{\numberline {18}Uke 18}{73}
-\contentsline {section}{\numberline {19}Uke 19}{73}
-\contentsline {section}{\numberline {20}Uke 20}{73}
-\contentsline {section}{\numberline {21}Uke 21}{73}
-\contentsline {section}{\numberline {22}Uke 22}{73}
-\contentsline {section}{\numberline {23}Uke 23}{73}
+\contentsline {subsubsection}{\numberline {10.3.1}Latches}{72}
+\contentsline {paragraph}{SR-latch}{73}
+\contentsline {paragraph}{$\overline {SR}$-latch}{73}
+\contentsline {paragraph}{Synkron SR-latch}{73}
+\contentsline {paragraph}{D-latch}{74}
+\contentsline {subsubsection}{\numberline {10.3.2}Dekoder / Enkoder}{74}
+\contentsline {paragraph}{Dekoder}{74}
+\contentsline {paragraph}{Enkoder}{74}
+\contentsline {subsubsection}{\numberline {10.3.3}ROM}{74}
+\contentsline {section}{\numberline {11}Uke 11}{75}
+\contentsline {section}{\numberline {12}Uke 12}{75}
+\contentsline {section}{\numberline {13}Uke 13}{75}
+\contentsline {section}{\numberline {14}Uke 14}{75}
+\contentsline {section}{\numberline {15}Uke 15}{75}
+\contentsline {section}{\numberline {16}Uke 16}{75}
+\contentsline {section}{\numberline {17}Uke 17}{75}
+\contentsline {section}{\numberline {18}Uke 18}{75}
+\contentsline {section}{\numberline {19}Uke 19}{75}
+\contentsline {section}{\numberline {20}Uke 20}{75}
+\contentsline {section}{\numberline {21}Uke 21}{75}
+\contentsline {section}{\numberline {22}Uke 22}{75}
+\contentsline {section}{\numberline {23}Uke 23}{75}
