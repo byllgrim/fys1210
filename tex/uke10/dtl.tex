@@ -1,1 +1,51 @@
-TODO: tegn og forklar en DTL-NAND (se skrivebok)
+Vi kan implementere en NAND port med dioder og transistorer (DTL).
+\\\\
+\begin{tabular}{c|c|c}
+  A & B & Y \\ \hline
+  0 & 0 & 1 \\
+  0 & 1 & 1 \\
+  1 & 0 & 1 \\
+  1 & 1 & 0
+\end{tabular}
+\\\\
+\begin{circuitikz} \draw
+(8,3) node[pnp] (pnp){}
+(pnp.B) node[anchor=east] {}
+(pnp.C) node[anchor=north] {}
+(pnp.E) node[anchor=south] {}
+
+(2,0) to[D] (0,0)
+      node[label=$B$]{}
+(2,0) to[short,-*] (2,3)
+      to[D] (0,3)
+      node[label=$A$]{}
+(2,3) to[D] (4,3)
+      to[D] (6,3)
+      -- (pnp.B)
+(6,3) to[R] (6,1)
+      -- (8,1)
+(2,3) -- (2,4)
+      node[right]{$V_{DD}$}
+      to[R] (2,6)
+      -- (10,6)
+      node[right,label=$V_{CC}$]{5V}
+(8,6) to[R] (8,4)
+      -- (pnp.E)
+(8,4) -- (10,4)
+      node[label=$Y$]{}
+(pnp.C) -- (8,0)
+      node[ground]{}
+      ;
+\end{circuitikz}
+\\\\
+Fra $V_{DD}$ kan spenningen gå til jord via A, B eller de to diodene
+og transistoren. Disse er koblet i parallel, så spenningen fra $V_{DD}$ til
+jord er lik uansett hvilken vei du tar.
+\\\\
+Når enten A eller B er null vil spenningen fra $V_{DD}$ til jord være 0.7.
+Da er den 0.7 uansett hvilken vei du tar, og veien over gjennom transistoren
+krever 2.1V for at transistoren skal lede, altså leder ikke transistoren.
+\\\\
+Når derimot både A og B er på vil all spenning fra $V_{CC}$ legge seg over de
+to diodene og transistoren, og 5V er nok til at transistoren leder.
+Når transistoren leder har Y klar bane til jord og er altså 0.
