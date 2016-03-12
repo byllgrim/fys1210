@@ -1,0 +1,189 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Forord}{4}
+\contentsline {section}{\numberline {2}Acknowledgments}{5}
+\contentsline {section}{\numberline {3}Uke 3 - Introduksjon}{5}
+\contentsline {subsection}{\numberline {3.1}Elektrisitet}{5}
+\contentsline {subsubsection}{\numberline {3.1.1}Ladning}{5}
+\contentsline {paragraph}{Atomet}{5}
+\contentsline {paragraph}{Enhet}{6}
+\contentsline {subsubsection}{\numberline {3.1.2}Str\IeC {\o }m}{6}
+\contentsline {paragraph}{Frie elektroner i bevegelse}{6}
+\contentsline {paragraph}{Enhet}{6}
+\contentsline {paragraph}{AC/DC}{6}
+\contentsline {subsubsection}{\numberline {3.1.3}Spenning}{6}
+\contentsline {paragraph}{Potensiale}{6}
+\contentsline {paragraph}{Enhet}{7}
+\contentsline {subsection}{\numberline {3.2}Leder og isolator}{7}
+\contentsline {subsubsection}{\numberline {3.2.1}Komponenter}{7}
+\contentsline {paragraph}{Motstand}{7}
+\contentsline {paragraph}{Kondensator}{7}
+\contentsline {paragraph}{Spole}{8}
+\contentsline {subsubsection}{\numberline {3.2.2}Ledere}{8}
+\contentsline {paragraph}{Leder}{8}
+\contentsline {paragraph}{Isolator}{8}
+\contentsline {paragraph}{Halvleder}{8}
+\contentsline {subsection}{\numberline {3.3}Ohms lov}{8}
+\contentsline {subsection}{\numberline {3.4}Serie- og parallellkobling}{9}
+\contentsline {subsubsection}{\numberline {3.4.1}Seriekobling}{9}
+\contentsline {subsubsection}{\numberline {3.4.2}Parallellkobling}{9}
+\contentsline {subsection}{\numberline {3.5}Kirchhoff}{9}
+\contentsline {subsubsection}{\numberline {3.5.1}Kirchhoffs lov om str\IeC {\o }mmer}{9}
+\contentsline {subsubsection}{\numberline {3.5.2}Kirchhoffs lov om spenninger}{10}
+\contentsline {subsubsection}{\numberline {3.5.3}Spenningsdeler}{10}
+\contentsline {subsection}{\numberline {3.6}Superposisjon}{10}
+\contentsline {subsubsection}{\numberline {3.6.1}Eksempel}{10}
+\contentsline {paragraph}{Krets med to spenningskilder}{10}
+\contentsline {paragraph}{Bidrag fra f\IeC {\o }rste spenningskilde}{11}
+\contentsline {paragraph}{Bidrag fra andre spenningskilde}{12}
+\contentsline {paragraph}{Total spenning!}{13}
+\contentsline {section}{\numberline {4}Uke 4 - Fysikalsk elektronikk}{13}
+\contentsline {subsection}{\numberline {4.1}Thevenins Teorem}{13}
+\contentsline {subsubsection}{\numberline {4.1.1}Last-analyse}{13}
+\contentsline {subsubsection}{\numberline {4.1.2}Eksempel}{14}
+\contentsline {subsubsection}{\numberline {4.1.3}Nortons Teorem}{15}
+\contentsline {subsection}{\numberline {4.2}Spenningskilder - Batterier}{15}
+\contentsline {subsubsection}{\numberline {4.2.1}Virkem\IeC {\r a}te}{15}
+\contentsline {subsubsection}{\numberline {4.2.2}Maksimal effektoverf\IeC {\o }ring}{16}
+\contentsline {paragraph}{Ideell spenningskilde}{16}
+\contentsline {paragraph}{Maximum power!}{16}
+\contentsline {subsubsection}{\numberline {4.2.3}Motstand og temperatur}{17}
+\contentsline {subsection}{\numberline {4.3}Fysikalsk elektronikk}{17}
+\contentsline {subsubsection}{\numberline {4.3.1}Valensb\IeC {\r a}nd}{17}
+\contentsline {paragraph}{Energigap}{18}
+\contentsline {subsubsection}{\numberline {4.3.2}Ledningsevne}{18}
+\contentsline {subsubsection}{\numberline {4.3.3}Eksitasjon}{18}
+\contentsline {subsection}{\numberline {4.4}Doping}{19}
+\contentsline {subsubsection}{\numberline {4.4.1}n-type}{19}
+\contentsline {subsubsection}{\numberline {4.4.2}p-type}{20}
+\contentsline {subsection}{\numberline {4.5}Vekselstr\IeC {\o }m}{20}
+\contentsline {subsubsection}{\numberline {4.5.1}Begreper}{20}
+\contentsline {subsubsection}{\numberline {4.5.2}Root mean square}{21}
+\contentsline {subsection}{\numberline {4.6}DC-Offset}{21}
+\contentsline {subsection}{\numberline {4.7}Pulser}{21}
+\contentsline {subsubsection}{\numberline {4.7.1}Begreper}{21}
+\contentsline {paragraph}{Uperfekt virkelighet}{22}
+\contentsline {subsubsection}{\numberline {4.7.2}Firkantb\IeC {\o }lge fra sinusb\IeC {\o }lger}{22}
+\contentsline {section}{\numberline {5}Uke 5 - Kondensatorer}{24}
+\contentsline {subsection}{\numberline {5.1}Kondensatorer}{24}
+\contentsline {subsubsection}{\numberline {5.1.1}Beskrivelse}{24}
+\contentsline {subsubsection}{\numberline {5.1.2}Virkem\IeC {\r a}te og symbol}{25}
+\contentsline {paragraph}{Spenning}{25}
+\contentsline {subsubsection}{\numberline {5.1.3}Formler og enheter}{26}
+\contentsline {subsection}{\numberline {5.2}Kondensatorer i kretser}{26}
+\contentsline {subsubsection}{\numberline {5.2.1}DC- og AC-kretser}{26}
+\contentsline {paragraph}{Kondensator i DC-kretser}{26}
+\contentsline {paragraph}{Kondensator i AC-kretser}{27}
+\contentsline {subsubsection}{\numberline {5.2.2}Reaktanse}{28}
+\contentsline {paragraph}{Serie- og parallellkobling}{28}
+\contentsline {subsubsection}{\numberline {5.2.3}Impedans}{28}
+\contentsline {subsubsection}{\numberline {5.2.4}RC-kretser}{28}
+\contentsline {paragraph}{Spenning og impedans}{29}
+\contentsline {paragraph}{Eksempel}{29}
+\contentsline {paragraph}{Tidskonstant}{29}
+\contentsline {subsection}{\numberline {5.3}Frekvensfilter}{31}
+\contentsline {paragraph}{Lavpass}{31}
+\contentsline {paragraph}{H\IeC {\o }ypass}{32}
+\contentsline {paragraph}{Eksempel}{32}
+\contentsline {subsection}{\numberline {5.4}Dioder}{33}
+\contentsline {section}{\numberline {6}Uke 6 - Dioder}{34}
+\contentsline {subsection}{\numberline {6.1}Kovalente bindinger}{34}
+\contentsline {subsubsection}{\numberline {6.1.1}Diamantstruktur}{34}
+\contentsline {subsubsection}{\numberline {6.1.2}Ledning i rene halvledere}{34}
+\contentsline {subsection}{\numberline {6.2}Doping}{35}
+\contentsline {subsubsection}{\numberline {6.2.1}Pentavalent}{35}
+\contentsline {subsubsection}{\numberline {6.2.2}Trivalent}{35}
+\contentsline {subsection}{\numberline {6.3}PN-Junction}{35}
+\contentsline {subsubsection}{\numberline {6.3.1}Diffusjon}{35}
+\contentsline {subsubsection}{\numberline {6.3.2}Sperresjikt}{36}
+\contentsline {subsubsection}{\numberline {6.3.3}Forward bias}{37}
+\contentsline {subsubsection}{\numberline {6.3.4}Reverse bias}{37}
+\contentsline {subsection}{\numberline {6.4}Dioder}{38}
+\contentsline {subsubsection}{\numberline {6.4.1}Ideell karakteristikk og Bulk resistance}{38}
+\contentsline {subsubsection}{\numberline {6.4.2}Temperatureffekt}{39}
+\contentsline {subsubsection}{\numberline {6.4.3}Eksempel}{39}
+\contentsline {subsubsection}{\numberline {6.4.4}Ulike typer dioder}{40}
+\contentsline {paragraph}{Zenerdioder}{40}
+\contentsline {paragraph}{Varicap}{40}
+\contentsline {subsection}{\numberline {6.5}Anvendelse av dioder}{40}
+\contentsline {subsubsection}{\numberline {6.5.1}Powersupply}{40}
+\contentsline {subsubsection}{\numberline {6.5.2}Likeretter}{41}
+\contentsline {paragraph}{Halvb\IeC {\o }lge}{41}
+\contentsline {paragraph}{Helb\IeC {\o }lge}{41}
+\contentsline {section}{\numberline {7}Uke 7 - Bipolar Junction Transistorer (BJT)}{42}
+\contentsline {subsection}{\numberline {7.1}Oppbygning}{42}
+\contentsline {paragraph}{Collector, Base og Emittor}{42}
+\contentsline {paragraph}{Fysisk struktur}{43}
+\contentsline {subsection}{\numberline {7.2}Virkem\IeC {\r a}te}{43}
+\contentsline {subsubsection}{\numberline {7.2.1}Operasjonsmodi}{43}
+\contentsline {subsubsection}{\numberline {7.2.2}Cutoff modus}{44}
+\contentsline {subsubsection}{\numberline {7.2.3}Metning}{44}
+\contentsline {subsubsection}{\numberline {7.2.4}Aktiv}{45}
+\contentsline {subsubsection}{\numberline {7.2.5}Modi-kvadrant}{45}
+\contentsline {subsection}{\numberline {7.3}Karakteristikk}{46}
+\contentsline {subsubsection}{\numberline {7.3.1}Str\IeC {\o }m}{46}
+\contentsline {subsubsection}{\numberline {7.3.2}Virkeomr\IeC {\r a}de}{47}
+\contentsline {section}{\numberline {8}Uke 8 - Transistorforsterkere og sm\IeC {\r a}signalmodeller}{47}
+\contentsline {subsection}{\numberline {8.1}Universal Bias}{47}
+\contentsline {subsubsection}{\numberline {8.1.1}Lastlinje}{48}
+\contentsline {subsection}{\numberline {8.2}Sm\IeC {\r a}signalmodellen}{48}
+\contentsline {subsubsection}{\numberline {8.2.1}Transkonduktans - Steilhet}{49}
+\contentsline {subsubsection}{\numberline {8.2.2}Dynamisk inngangsresistans}{50}
+\contentsline {paragraph}{Et annet uttrykk}{50}
+\contentsline {subsection}{\numberline {8.3}Spenningsforsterkning}{50}
+\contentsline {paragraph}{Utledning}{51}
+\contentsline {section}{\numberline {9}Uke 9 - Effektforsterkere og FET}{51}
+\contentsline {subsection}{\numberline {9.1}Kort repetisjon av uke8}{51}
+\contentsline {subsubsection}{\numberline {9.1.1}Forsterker}{51}
+\contentsline {paragraph}{Med avkoblet emitter}{51}
+\contentsline {paragraph}{Uten avkoblet emitter}{52}
+\contentsline {paragraph}{Sm\IeC {\r a}signaler}{52}
+\contentsline {subsubsection}{\numberline {9.1.2}Emitterf\IeC {\o }lger}{52}
+\contentsline {subsection}{\numberline {9.2}Effektforsterkere}{53}
+\contentsline {paragraph}{Klassifisering av forsterkere}{53}
+\contentsline {subsubsection}{\numberline {9.2.1}Klasse A}{54}
+\contentsline {subsubsection}{\numberline {9.2.2}Klasse B}{55}
+\contentsline {subsubsection}{\numberline {9.2.3}Klasse AB}{56}
+\contentsline {subsubsection}{\numberline {9.2.4}Klasse C}{56}
+\contentsline {subsubsection}{\numberline {9.2.5}Klasse D}{56}
+\contentsline {paragraph}{Virkem\IeC {\r a}te}{57}
+\contentsline {paragraph}{Forsterkning}{57}
+\contentsline {subsection}{\numberline {9.3}Field Effekt Transistor}{58}
+\contentsline {subsubsection}{\numberline {9.3.1}To typer}{58}
+\contentsline {paragraph}{JFET: Junction Field Effekt Transistor}{58}
+\contentsline {paragraph}{MOSFET: Metall Oksyd Semiconductor FET}{58}
+\contentsline {subsubsection}{\numberline {9.3.2}JFET}{59}
+\contentsline {subsubsection}{\numberline {9.3.3}MOSFET}{59}
+\contentsline {paragraph}{D-MOSFET}{59}
+\contentsline {paragraph}{E-MOSFET}{61}
+\contentsline {subsubsection}{\numberline {9.3.4}CMOS}{62}
+\contentsline {subsection}{\numberline {9.4}Logic Gates}{63}
+\contentsline {subsubsection}{\numberline {9.4.1}NOT, AND og OR}{63}
+\contentsline {subsubsection}{\numberline {9.4.2}Andre typer}{63}
+\contentsline {subsubsection}{\numberline {9.4.3}Sannhetstabell (truth table)}{64}
+\contentsline {section}{\numberline {10}Uke 10 - Digitale kretsfamilier}{64}
+\contentsline {subsection}{\numberline {10.1}Kretsfamilier (Logic families)}{64}
+\contentsline {paragraph}{Bipolare komponenter (BJT}{64}
+\contentsline {paragraph}{Unipolare komponenter (FET)}{64}
+\contentsline {subsubsection}{\numberline {10.1.1}NMOS}{65}
+\contentsline {subsubsection}{\numberline {10.1.2}NMOS som motstand}{65}
+\contentsline {paragraph}{NAND}{66}
+\contentsline {paragraph}{NOR}{67}
+\contentsline {subsubsection}{\numberline {10.1.3}DTL}{67}
+\contentsline {subsubsection}{\numberline {10.1.4}TTL}{67}
+\contentsline {subsection}{\numberline {10.2}Kombinatoriske kretser}{67}
+\contentsline {subsubsection}{\numberline {10.2.1}Bin\IeC {\ae }r addisjon}{68}
+\contentsline {subsubsection}{\numberline {10.2.2}Adders}{68}
+\contentsline {subsection}{\numberline {10.3}Sekvensielle kretser}{68}
+\contentsline {section}{\numberline {11}Uke 11}{68}
+\contentsline {section}{\numberline {12}Uke 12}{68}
+\contentsline {section}{\numberline {13}Uke 13}{68}
+\contentsline {section}{\numberline {14}Uke 14}{68}
+\contentsline {section}{\numberline {15}Uke 15}{68}
+\contentsline {section}{\numberline {16}Uke 16}{68}
+\contentsline {section}{\numberline {17}Uke 17}{68}
+\contentsline {section}{\numberline {18}Uke 18}{68}
+\contentsline {section}{\numberline {19}Uke 19}{68}
+\contentsline {section}{\numberline {20}Uke 20}{68}
+\contentsline {section}{\numberline {21}Uke 21}{68}
+\contentsline {section}{\numberline {22}Uke 22}{68}
+\contentsline {section}{\numberline {23}Uke 23}{68}
