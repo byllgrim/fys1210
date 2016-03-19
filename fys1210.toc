@@ -197,17 +197,19 @@
 \contentsline {subsubsection}{\numberline {11.1.5}Registere}{80}
 \contentsline {subsection}{\numberline {11.2}Op-amp}{80}
 \contentsline {subsubsection}{\numberline {11.2.1}Integrated Circuits}{80}
-\contentsline {subsubsection}{\numberline {11.2.2}Op-amp}{80}
-\contentsline {subsubsection}{\numberline {11.2.3}Inverterende Forsterker}{81}
-\contentsline {section}{\numberline {12}Uke 12}{81}
-\contentsline {section}{\numberline {13}Uke 13}{81}
-\contentsline {section}{\numberline {14}Uke 14}{81}
-\contentsline {section}{\numberline {15}Uke 15}{81}
-\contentsline {section}{\numberline {16}Uke 16}{81}
-\contentsline {section}{\numberline {17}Uke 17}{81}
-\contentsline {section}{\numberline {18}Uke 18}{81}
-\contentsline {section}{\numberline {19}Uke 19}{81}
-\contentsline {section}{\numberline {20}Uke 20}{81}
-\contentsline {section}{\numberline {21}Uke 21}{81}
-\contentsline {section}{\numberline {22}Uke 22}{81}
-\contentsline {section}{\numberline {23}Uke 23}{81}
+\contentsline {subsubsection}{\numberline {11.2.2}Op-amp}{81}
+\contentsline {paragraph}{LM741}{81}
+\contentsline {subsubsection}{\numberline {11.2.3}Tre viktige parametre}{81}
+\contentsline {subsubsection}{\numberline {11.2.4}Inverterende Forsterker}{82}
+\contentsline {section}{\numberline {12}Uke 12}{82}
+\contentsline {section}{\numberline {13}Uke 13}{82}
+\contentsline {section}{\numberline {14}Uke 14}{82}
+\contentsline {section}{\numberline {15}Uke 15}{82}
+\contentsline {section}{\numberline {16}Uke 16}{82}
+\contentsline {section}{\numberline {17}Uke 17}{82}
+\contentsline {section}{\numberline {18}Uke 18}{82}
+\contentsline {section}{\numberline {19}Uke 19}{82}
+\contentsline {section}{\numberline {20}Uke 20}{82}
+\contentsline {section}{\numberline {21}Uke 21}{82}
+\contentsline {section}{\numberline {22}Uke 22}{82}
+\contentsline {section}{\numberline {23}Uke 23}{82}

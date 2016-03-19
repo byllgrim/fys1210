@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.1.22)  19 MAR 2016 16:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.1.22)  19 MAR 2016 22:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1266,7 +1266,7 @@ File: siunitx-abbreviations.cfg 2014/10/01 v2.6c siunitx: Abbreviated units
 \tf@toc=\write5
 \openout5 = `fys1210.toc'.
 
- (./tex/abstract.tex [4]
+ [4] (./tex/abstract.tex
 Underfull \hbox (badness 10000) in paragraph at lines 5--12
 
  []
@@ -2804,7 +2804,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--11
 
  []
 
-[79 <./img/biteller.png> <./img/biteller-output.png>])
+) [79 <./img/biteller.png> <./img/biteller-output.png>]
 (./tex/uke11/registere.tex <./img/register.png, id=456, 533.995pt x 208.78pt>
 File: ./img/register.png Graphic file (type png)
 
@@ -2816,18 +2816,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--11
 
  []
 
-) (./tex/uke11/ic.tex)) [80 <./img/dekteller.png> <./img/register.png>]
-[81] (./fys1210.aux (./tex/uke5/tidskonstant.aux))
+) (./tex/uke11/ic.tex) (./tex/uke11/opamp.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--5
+
+ []
+
+[80 <./img/dekteller.png> <./img/register.png>]
+<./img/opamp-symbol.png, id=462, 425.59pt x 342.881pt>
+File: ./img/opamp-symbol.png Graphic file (type png)
+
+<use ./img/opamp-symbol.png>
+Package pdftex.def Info: ./img/opamp-symbol.png used on input line 16.
+(pdftex.def)             Requested size: 172.5pt x 138.9759pt.
+ <./img/lm741.png, id=463, 1284.8pt x 621.32124pt>
+File: ./img/lm741.png Graphic file (type png)
+
+<use ./img/lm741.png>
+Package pdftex.def Info: ./img/lm741.png used on input line 26.
+(pdftex.def)             Requested size: 172.5pt x 83.41968pt.
+) (./tex/uke11/treparam.tex [81 <./img/opamp-symbol.png> <./img/lm741.png>]) (.
+/tex/uke11/invert.tex)) [82] (./fys1210.aux
+(./tex/uke5/tidskonstant.aux))
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 3.25002pt have occurred.
 
  ) 
 Here is how much of TeX's memory you used:
- 30663 strings out of 493105
- 701197 string characters out of 6137072
- 748975 words of memory out of 5000000
- 33369 multiletter control sequences out of 15000+600000
+ 30664 strings out of 493105
+ 701117 string characters out of 6137072
+ 748504 words of memory out of 5000000
+ 33359 multiletter control sequences out of 15000+600000
  14642 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,12n,58p,10406b,834s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2848,10 +2867,10 @@ f-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf/fonts/type1/public/cm-supe
 r/sfrm1000.pfb>
-Output written on fys1210.pdf (81 pages, 3367734 bytes).
+Output written on fys1210.pdf (82 pages, 3463286 bytes).
 PDF statistics:
- 524 PDF objects out of 1000 (max. 8388607)
- 237 compressed objects within 3 object streams
+ 531 PDF objects out of 1000 (max. 8388607)
+ 239 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 488 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 498 words of extra memory for PDF output out of 10000 (max. 10000000)
 
