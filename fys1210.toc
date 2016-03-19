@@ -1,5 +1,5 @@
 \select@language {english}
-\contentsline {section}{\numberline {1}Forord}{4}
+\contentsline {section}{\numberline {1}Forord}{5}
 \contentsline {section}{\numberline {2}Acknowledgments}{5}
 \contentsline {section}{\numberline {3}Uke 3 - Introduksjon}{5}
 \contentsline {subsection}{\numberline {3.1}Elektrisitet}{5}
@@ -188,16 +188,26 @@
 \contentsline {paragraph}{Enkoder}{75}
 \contentsline {subsubsection}{\numberline {10.3.3}ROM}{76}
 \contentsline {paragraph}{7-Segment}{76}
-\contentsline {section}{\numberline {11}Uke 11}{77}
-\contentsline {section}{\numberline {12}Uke 12}{77}
-\contentsline {section}{\numberline {13}Uke 13}{77}
-\contentsline {section}{\numberline {14}Uke 14}{77}
-\contentsline {section}{\numberline {15}Uke 15}{77}
-\contentsline {section}{\numberline {16}Uke 16}{77}
-\contentsline {section}{\numberline {17}Uke 17}{77}
-\contentsline {section}{\numberline {18}Uke 18}{77}
-\contentsline {section}{\numberline {19}Uke 19}{77}
-\contentsline {section}{\numberline {20}Uke 20}{77}
-\contentsline {section}{\numberline {21}Uke 21}{77}
-\contentsline {section}{\numberline {22}Uke 22}{77}
-\contentsline {section}{\numberline {23}Uke 23}{77}
+\contentsline {section}{\numberline {11}Uke 11 - Flip-flops og operasjonsforsterkere}{77}
+\contentsline {subsection}{\numberline {11.1}Flip-flopper}{77}
+\contentsline {subsubsection}{\numberline {11.1.1}JK flip-flop}{77}
+\contentsline {subsubsection}{\numberline {11.1.2}Master/Slave flip-flop}{78}
+\contentsline {subsubsection}{\numberline {11.1.3}Bin\IeC {\ae }re tellere}{78}
+\contentsline {subsubsection}{\numberline {11.1.4}Dekadeteller}{78}
+\contentsline {subsubsection}{\numberline {11.1.5}Registere}{79}
+\contentsline {subsection}{\numberline {11.2}Op-amp}{79}
+\contentsline {subsubsection}{\numberline {11.2.1}Integrated Circuits}{79}
+\contentsline {subsubsection}{\numberline {11.2.2}Op-amp}{79}
+\contentsline {subsubsection}{\numberline {11.2.3}Inverterende Forsterker}{79}
+\contentsline {section}{\numberline {12}Uke 12}{79}
+\contentsline {section}{\numberline {13}Uke 13}{79}
+\contentsline {section}{\numberline {14}Uke 14}{79}
+\contentsline {section}{\numberline {15}Uke 15}{79}
+\contentsline {section}{\numberline {16}Uke 16}{79}
+\contentsline {section}{\numberline {17}Uke 17}{79}
+\contentsline {section}{\numberline {18}Uke 18}{79}
+\contentsline {section}{\numberline {19}Uke 19}{79}
+\contentsline {section}{\numberline {20}Uke 20}{79}
+\contentsline {section}{\numberline {21}Uke 21}{79}
+\contentsline {section}{\numberline {22}Uke 22}{79}
+\contentsline {section}{\numberline {23}Uke 23}{79}
