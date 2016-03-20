@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.1.22)  19 MAR 2016 22:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.1.22)  20 MAR 2016 17:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2834,19 +2834,32 @@ File: ./img/lm741.png Graphic file (type png)
 <use ./img/lm741.png>
 Package pdftex.def Info: ./img/lm741.png used on input line 26.
 (pdftex.def)             Requested size: 172.5pt x 83.41968pt.
-) (./tex/uke11/treparam.tex [81 <./img/opamp-symbol.png> <./img/lm741.png>]) (.
-/tex/uke11/invert.tex)) [82] (./fys1210.aux
-(./tex/uke5/tidskonstant.aux))
+) (./tex/uke11/treparam.tex [81 <./img/opamp-symbol.png> <./img/lm741.png>] <./
+img/treparam.png, id=469, 738.76pt x 355.729pt>
+File: ./img/treparam.png Graphic file (type png)
+
+<use ./img/treparam.png>
+Package pdftex.def Info: ./img/treparam.png used on input line 10.
+(pdftex.def)             Requested size: 345.0pt x 166.12334pt.
+) (./tex/uke11/invert.tex
+<./img/opamp-invert.png, id=470, 1284.8pt x 749.80125pt>
+File: ./img/opamp-invert.png Graphic file (type png)
+
+<use ./img/opamp-invert.png>
+Package pdftex.def Info: ./img/opamp-invert.png used on input line 6.
+(pdftex.def)             Requested size: 345.0pt x 201.33926pt.
+ [82 <./img/treparam.png> <./img/opamp-invert.png>])) [83] (./fys1210.aux (./te
+x/uke5/tidskonstant.aux))
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 3.25002pt have occurred.
 
  ) 
 Here is how much of TeX's memory you used:
- 30664 strings out of 493105
- 701117 string characters out of 6137072
- 748504 words of memory out of 5000000
- 33359 multiletter control sequences out of 15000+600000
+ 30691 strings out of 493105
+ 701779 string characters out of 6137072
+ 748933 words of memory out of 5000000
+ 33385 multiletter control sequences out of 15000+600000
  14642 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,12n,58p,10406b,834s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2867,10 +2880,10 @@ f-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf/fonts/type1/public/cm-supe
 r/sfrm1000.pfb>
-Output written on fys1210.pdf (82 pages, 3463286 bytes).
+Output written on fys1210.pdf (83 pages, 3563397 bytes).
 PDF statistics:
- 531 PDF objects out of 1000 (max. 8388607)
- 239 compressed objects within 3 object streams
+ 538 PDF objects out of 1000 (max. 8388607)
+ 241 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 498 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 508 words of extra memory for PDF output out of 10000 (max. 10000000)
 
