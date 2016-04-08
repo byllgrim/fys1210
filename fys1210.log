@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.1.22)  8 APR 2016 13:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.1.22)  8 APR 2016 16:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2873,17 +2873,67 @@ Package pdftex.def Info: ./img/opamp-invert.png used on input line 6.
 (pdftex.def)             Requested size: 345.0pt x 201.33926pt.
  [82 <./img/treparam.png> <./img/opamp-invert.png>])) (./tex/paskeferie.tex) (.
 /tex/paskeferie.tex) (./tex/uke14/uke14.tex
-[83]) [84] (./fys1210.aux (./tex/uke5/tidskonstant.aux))
+(./tex/uke14/ikkeinv.tex <./img/ikkeinv.png, id=476, 346.896pt x 236.082pt>
+File: ./img/ikkeinv.png Graphic file (type png)
+
+<use ./img/ikkeinv.png>
+Package pdftex.def Info: ./img/ikkeinv.png used on input line 7.
+(pdftex.def)             Requested size: 172.5pt x 117.39587pt.
+ [83 <./img/ikkeinv.png>]) (./tex/uke14/integrator.tex
+<./img/integrator.png, id=481, 403.909pt x 291.489pt>
+File: ./img/integrator.png Graphic file (type png)
+
+<use ./img/integrator.png>
+Package pdftex.def Info: ./img/integrator.png used on input line 8.
+(pdftex.def)             Requested size: 172.5pt x 124.4883pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+) [84 <./img/integrator.png>] (./tex/uke14/virtnull.tex)
+(./tex/uke14/frekfor.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--6
+
+ []
+
+<./img/frekfor.png, id=486, 728.321pt x 678.535pt>
+File: ./img/frekfor.png Graphic file (type png)
+ <use ./img/frekfor.png>
+Package pdftex.def Info: ./img/frekfor.png used on input line 10.
+(pdftex.def)             Requested size: 231.14937pt x 215.34445pt.
+
+[85]
+Underfull \hbox (badness 10000) in paragraph at lines 13--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--28
+
+ []
+
+)) [86 <./img/frekfor.png>] [87] (./fys1210.aux (./tex/uke5/tidskonstant.aux))
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 3.25002pt have occurred.
 
  ) 
 Here is how much of TeX's memory you used:
- 30633 strings out of 493105
- 701679 string characters out of 6137072
- 747258 words of memory out of 5000000
- 33318 multiletter control sequences out of 15000+600000
+ 30640 strings out of 493105
+ 701758 string characters out of 6137072
+ 746905 words of memory out of 5000000
+ 33313 multiletter control sequences out of 15000+600000
  14642 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,12n,58p,10406b,837s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2904,10 +2954,10 @@ f-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf/fonts/type1/public/cm-supe
 r/sfrm1000.pfb>
-Output written on fys1210.pdf (84 pages, 3558104 bytes).
+Output written on fys1210.pdf (87 pages, 3652498 bytes).
 PDF statistics:
- 541 PDF objects out of 1000 (max. 8388607)
- 243 compressed objects within 3 object streams
+ 557 PDF objects out of 1000 (max. 8388607)
+ 250 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 508 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 523 words of extra memory for PDF output out of 10000 (max. 10000000)
 
