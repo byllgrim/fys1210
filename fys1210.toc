@@ -206,24 +206,24 @@
 \contentsline {section}{\numberline {13}Uke 13}{83}
 \contentsline {subsection}{\numberline {13.1}P\IeC {\r a}skeferie}{83}
 \contentsline {section}{\numberline {14}Uke 14 - Anvendelse av OpAmp}{83}
-\contentsline {subsection}{\numberline {14.1}Ikke-inverterende forsterker}{83}
+\contentsline {subsection}{\numberline {14.1}Virtuelt nullpunkt}{83}
+\contentsline {subsection}{\numberline {14.2}Ikke-inverterende forsterker}{84}
 \contentsline {paragraph}{Spenningsf\IeC {\o }lger}{84}
-\contentsline {subsection}{\numberline {14.2}Integratorkobling}{84}
-\contentsline {paragraph}{Str\IeC {\o }m}{84}
-\contentsline {paragraph}{Spenning}{84}
-\contentsline {subsection}{\numberline {14.3}Addisjon med OpAmp}{85}
-\contentsline {subsection}{\numberline {14.4}Differensial forsterker}{85}
-\contentsline {subsection}{\numberline {14.5}Eksponential forsterker}{85}
-\contentsline {subsection}{\numberline {14.6}Logaritmisk forsterker}{85}
-\contentsline {subsection}{\numberline {14.7}Virtuelt nullpunkt}{85}
-\contentsline {subsection}{\numberline {14.8}Frekvensforl\IeC {\o }p}{85}
-\contentsline {paragraph}{Gain-Bandwidth Product}{86}
-\contentsline {section}{\numberline {15}Uke 15}{87}
-\contentsline {section}{\numberline {16}Uke 16}{87}
-\contentsline {section}{\numberline {17}Uke 17}{87}
-\contentsline {section}{\numberline {18}Uke 18}{87}
-\contentsline {section}{\numberline {19}Uke 19}{87}
-\contentsline {section}{\numberline {20}Uke 20}{87}
-\contentsline {section}{\numberline {21}Uke 21}{87}
-\contentsline {section}{\numberline {22}Uke 22}{87}
-\contentsline {section}{\numberline {23}Uke 23}{87}
+\contentsline {subsection}{\numberline {14.3}Integratorkobling}{84}
+\contentsline {paragraph}{Str\IeC {\o }m}{85}
+\contentsline {paragraph}{Spenning}{85}
+\contentsline {subsection}{\numberline {14.4}Addisjon med OpAmp}{85}
+\contentsline {subsection}{\numberline {14.5}Differensial forsterker}{86}
+\contentsline {subsection}{\numberline {14.6}Eksponential forsterker}{87}
+\contentsline {subsection}{\numberline {14.7}Logaritmisk forsterker}{87}
+\contentsline {subsection}{\numberline {14.8}Frekvensforl\IeC {\o }p}{87}
+\contentsline {paragraph}{Gain-Bandwidth Product}{88}
+\contentsline {section}{\numberline {15}Uke 15}{89}
+\contentsline {section}{\numberline {16}Uke 16}{89}
+\contentsline {section}{\numberline {17}Uke 17}{89}
+\contentsline {section}{\numberline {18}Uke 18}{89}
+\contentsline {section}{\numberline {19}Uke 19}{89}
+\contentsline {section}{\numberline {20}Uke 20}{89}
+\contentsline {section}{\numberline {21}Uke 21}{89}
+\contentsline {section}{\numberline {22}Uke 22}{89}
+\contentsline {section}{\numberline {23}Uke 23}{89}

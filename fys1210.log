@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.1.22)  8 APR 2016 16:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.1.22)  10 APR 2016 13:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2873,14 +2873,15 @@ Package pdftex.def Info: ./img/opamp-invert.png used on input line 6.
 (pdftex.def)             Requested size: 345.0pt x 201.33926pt.
  [82 <./img/treparam.png> <./img/opamp-invert.png>])) (./tex/paskeferie.tex) (.
 /tex/paskeferie.tex) (./tex/uke14/uke14.tex
-(./tex/uke14/ikkeinv.tex <./img/ikkeinv.png, id=476, 346.896pt x 236.082pt>
+(./tex/uke14/virtnull.tex) (./tex/uke14/ikkeinv.tex
+<./img/ikkeinv.png, id=476, 346.896pt x 236.082pt>
 File: ./img/ikkeinv.png Graphic file (type png)
-
-<use ./img/ikkeinv.png>
+ <use ./img/ikkeinv.png>
 Package pdftex.def Info: ./img/ikkeinv.png used on input line 7.
 (pdftex.def)             Requested size: 172.5pt x 117.39587pt.
- [83 <./img/ikkeinv.png>]) (./tex/uke14/integrator.tex
-<./img/integrator.png, id=481, 403.909pt x 291.489pt>
+
+[83]) (./tex/uke14/integrator.tex
+<./img/integrator.png, id=480, 403.909pt x 291.489pt>
 File: ./img/integrator.png Graphic file (type png)
 
 <use ./img/integrator.png>
@@ -2891,24 +2892,54 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--14
 
  []
 
-
+[84 <./img/ikkeinv.png> <./img/integrator.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 19--20
 
  []
 
-) [84 <./img/integrator.png>] (./tex/uke14/virtnull.tex)
+) (./tex/uke14/addisjon.tex
+<./img/addisjon.png, id=486, 835.12pt x 628.3475pt>
+File: ./img/addisjon.png Graphic file (type png)
+ <use ./img/addisjon.png>
+Package pdftex.def Info: ./img/addisjon.png used on input line 10.
+(pdftex.def)             Requested size: 231.14937pt x 173.91307pt.
+
+[85 <./img/addisjon.png>]) (./tex/uke14/diff.tex
+<./img/diffamp.png, id=492, 1284.8pt x 856.19875pt>
+File: ./img/diffamp.png Graphic file (type png)
+ <use ./img/diffamp.png>
+Package pdftex.def Info: ./img/diffamp.png used on input line 6.
+(pdftex.def)             Requested size: 172.5pt x 114.95474pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--12
+
+ []
+
+) (./tex/uke14/eksp.tex <./img/expamp.png, id=493, 1284.8pt x 642.4pt>
+File: ./img/expamp.png Graphic file (type png)
+
+<use ./img/expamp.png>
+Package pdftex.def Info: ./img/expamp.png used on input line 4.
+(pdftex.def)             Requested size: 172.5pt x 86.24974pt.
+ [86 <./img/diffamp.png>]) (./tex/uke14/loga.tex
+<./img/logamp.png, id=498, 1284.8pt x 642.4pt>
+File: ./img/logamp.png Graphic file (type png)
+ <use ./img/logamp.png>
+Package pdftex.def Info: ./img/logamp.png used on input line 7.
+(pdftex.def)             Requested size: 172.5pt x 86.24974pt.
+)
 (./tex/uke14/frekfor.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--6
 
  []
 
-<./img/frekfor.png, id=486, 728.321pt x 678.535pt>
+<./img/frekfor.png, id=499, 728.321pt x 678.535pt>
 File: ./img/frekfor.png Graphic file (type png)
  <use ./img/frekfor.png>
 Package pdftex.def Info: ./img/frekfor.png used on input line 10.
 (pdftex.def)             Requested size: 231.14937pt x 215.34445pt.
 
-[85]
+[87 <./img/expamp.png> <./img/logamp.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 13--20
 
  []
@@ -2923,17 +2954,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--28
 
  []
 
-)) [86 <./img/frekfor.png>] [87] (./fys1210.aux (./tex/uke5/tidskonstant.aux))
+)) [88 <./img/frekfor.png>] [89] (./fys1210.aux (./tex/uke5/tidskonstant.aux))
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 3.25002pt have occurred.
 
  ) 
 Here is how much of TeX's memory you used:
- 30640 strings out of 493105
- 701758 string characters out of 6137072
- 746905 words of memory out of 5000000
- 33313 multiletter control sequences out of 15000+600000
+ 30688 strings out of 493105
+ 702761 string characters out of 6137072
+ 747264 words of memory out of 5000000
+ 33347 multiletter control sequences out of 15000+600000
  14642 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,12n,58p,10406b,837s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2954,10 +2985,10 @@ f-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf/fonts/type1/public/cm-supe
 r/sfrm1000.pfb>
-Output written on fys1210.pdf (87 pages, 3652498 bytes).
+Output written on fys1210.pdf (89 pages, 3994465 bytes).
 PDF statistics:
- 557 PDF objects out of 1000 (max. 8388607)
- 250 compressed objects within 3 object streams
+ 571 PDF objects out of 1000 (max. 8388607)
+ 254 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 523 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 543 words of extra memory for PDF output out of 10000 (max. 10000000)
 
