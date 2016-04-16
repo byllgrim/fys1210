@@ -1,13 +1,13 @@
 \select@language {english}
 \contentsline {section}{\numberline {1}Forord}{5}
-\contentsline {section}{\numberline {2}Acknowledgments}{5}
+\contentsline {section}{\numberline {2}Acknowledgments}{6}
 \contentsline {section}{\numberline {3}Uke 3 - Introduksjon}{6}
 \contentsline {subsection}{\numberline {3.1}Elektrisitet}{6}
 \contentsline {subsubsection}{\numberline {3.1.1}Ladning}{6}
 \contentsline {paragraph}{Atomet}{6}
 \contentsline {paragraph}{Enhet}{6}
-\contentsline {subsubsection}{\numberline {3.1.2}Str\IeC {\o }m}{6}
-\contentsline {paragraph}{Frie elektroner i bevegelse}{6}
+\contentsline {subsubsection}{\numberline {3.1.2}Str\IeC {\o }m}{7}
+\contentsline {paragraph}{Frie elektroner i bevegelse}{7}
 \contentsline {paragraph}{Enhet}{7}
 \contentsline {paragraph}{AC/DC}{7}
 \contentsline {subsubsection}{\numberline {3.1.3}Spenning}{7}
@@ -17,58 +17,58 @@
 \contentsline {subsubsection}{\numberline {3.2.1}Komponenter}{8}
 \contentsline {paragraph}{Motstand}{8}
 \contentsline {paragraph}{Kondensator}{8}
-\contentsline {paragraph}{Spole}{8}
-\contentsline {subsubsection}{\numberline {3.2.2}Ledere}{8}
-\contentsline {paragraph}{Leder}{8}
+\contentsline {paragraph}{Spole}{9}
+\contentsline {subsubsection}{\numberline {3.2.2}Ledere}{9}
+\contentsline {paragraph}{Leder}{9}
 \contentsline {paragraph}{Isolator}{9}
 \contentsline {paragraph}{Halvleder}{9}
 \contentsline {subsection}{\numberline {3.3}Ohms lov}{9}
 \contentsline {subsection}{\numberline {3.4}Serie- og parallellkobling}{9}
 \contentsline {subsubsection}{\numberline {3.4.1}Seriekobling}{9}
-\contentsline {subsubsection}{\numberline {3.4.2}Parallellkobling}{9}
+\contentsline {subsubsection}{\numberline {3.4.2}Parallellkobling}{10}
 \contentsline {subsection}{\numberline {3.5}Kirchhoff}{10}
 \contentsline {subsubsection}{\numberline {3.5.1}Kirchhoffs lov om str\IeC {\o }mmer}{10}
 \contentsline {subsubsection}{\numberline {3.5.2}Kirchhoffs lov om spenninger}{10}
-\contentsline {subsubsection}{\numberline {3.5.3}Spenningsdeler}{10}
+\contentsline {subsubsection}{\numberline {3.5.3}Spenningsdeler}{11}
 \contentsline {subsection}{\numberline {3.6}Superposisjon}{11}
 \contentsline {subsubsection}{\numberline {3.6.1}Eksempel}{11}
 \contentsline {paragraph}{Krets med to spenningskilder}{11}
-\contentsline {paragraph}{Bidrag fra f\IeC {\o }rste spenningskilde}{11}
-\contentsline {paragraph}{Bidrag fra andre spenningskilde}{12}
+\contentsline {paragraph}{Bidrag fra f\IeC {\o }rste spenningskilde}{12}
+\contentsline {paragraph}{Bidrag fra andre spenningskilde}{13}
 \contentsline {paragraph}{Total spenning!}{13}
-\contentsline {section}{\numberline {4}Uke 4 - Fysikalsk elektronikk}{13}
-\contentsline {subsection}{\numberline {4.1}Thevenins Teorem}{13}
-\contentsline {subsubsection}{\numberline {4.1.1}Last-analyse}{13}
-\contentsline {subsubsection}{\numberline {4.1.2}Eksempel}{14}
+\contentsline {section}{\numberline {4}Uke 4 - Fysikalsk elektronikk}{14}
+\contentsline {subsection}{\numberline {4.1}Thevenins Teorem}{14}
+\contentsline {subsubsection}{\numberline {4.1.1}Last-analyse}{14}
+\contentsline {subsubsection}{\numberline {4.1.2}Eksempel}{15}
 \contentsline {subsubsection}{\numberline {4.1.3}Nortons Teorem}{15}
-\contentsline {subsection}{\numberline {4.2}Spenningskilder - Batterier}{15}
-\contentsline {subsubsection}{\numberline {4.2.1}Virkem\IeC {\r a}te}{15}
-\contentsline {subsubsection}{\numberline {4.2.2}Maksimal effektoverf\IeC {\o }ring}{16}
-\contentsline {paragraph}{Ideell spenningskilde}{16}
+\contentsline {subsection}{\numberline {4.2}Spenningskilder - Batterier}{16}
+\contentsline {subsubsection}{\numberline {4.2.1}Virkem\IeC {\r a}te}{16}
+\contentsline {subsubsection}{\numberline {4.2.2}Maksimal effektoverf\IeC {\o }ring}{17}
+\contentsline {paragraph}{Ideell spenningskilde}{17}
 \contentsline {paragraph}{Maximum power!}{17}
-\contentsline {subsubsection}{\numberline {4.2.3}Motstand og temperatur}{17}
-\contentsline {subsection}{\numberline {4.3}Fysikalsk elektronikk}{17}
-\contentsline {subsubsection}{\numberline {4.3.1}Valensb\IeC {\r a}nd}{17}
-\contentsline {paragraph}{Energigap}{18}
-\contentsline {subsubsection}{\numberline {4.3.2}Ledningsevne}{18}
+\contentsline {subsubsection}{\numberline {4.2.3}Motstand og temperatur}{18}
+\contentsline {subsection}{\numberline {4.3}Fysikalsk elektronikk}{18}
+\contentsline {subsubsection}{\numberline {4.3.1}Valensb\IeC {\r a}nd}{18}
+\contentsline {paragraph}{Energigap}{19}
+\contentsline {subsubsection}{\numberline {4.3.2}Ledningsevne}{19}
 \contentsline {subsubsection}{\numberline {4.3.3}Eksitasjon}{19}
-\contentsline {subsection}{\numberline {4.4}Doping}{19}
+\contentsline {subsection}{\numberline {4.4}Doping}{20}
 \contentsline {subsubsection}{\numberline {4.4.1}n-type}{20}
-\contentsline {subsubsection}{\numberline {4.4.2}p-type}{20}
+\contentsline {subsubsection}{\numberline {4.4.2}p-type}{21}
 \contentsline {subsection}{\numberline {4.5}Vekselstr\IeC {\o }m}{21}
 \contentsline {subsubsection}{\numberline {4.5.1}Begreper}{21}
-\contentsline {subsubsection}{\numberline {4.5.2}Root mean square}{21}
+\contentsline {subsubsection}{\numberline {4.5.2}Root mean square}{22}
 \contentsline {subsection}{\numberline {4.6}DC-Offset}{22}
 \contentsline {subsection}{\numberline {4.7}Pulser}{22}
 \contentsline {subsubsection}{\numberline {4.7.1}Begreper}{22}
-\contentsline {paragraph}{Uperfekt virkelighet}{22}
+\contentsline {paragraph}{Uperfekt virkelighet}{23}
 \contentsline {subsubsection}{\numberline {4.7.2}Firkantb\IeC {\o }lge fra sinusb\IeC {\o }lger}{23}
 \contentsline {section}{\numberline {5}Uke 5 - Kondensatorer}{25}
 \contentsline {subsection}{\numberline {5.1}Kondensatorer}{25}
 \contentsline {subsubsection}{\numberline {5.1.1}Beskrivelse}{25}
-\contentsline {subsubsection}{\numberline {5.1.2}Virkem\IeC {\r a}te og symbol}{25}
+\contentsline {subsubsection}{\numberline {5.1.2}Virkem\IeC {\r a}te og symbol}{26}
 \contentsline {paragraph}{Spenning}{26}
-\contentsline {subsubsection}{\numberline {5.1.3}Formler og enheter}{26}
+\contentsline {subsubsection}{\numberline {5.1.3}Formler og enheter}{27}
 \contentsline {subsection}{\numberline {5.2}Kondensatorer i kretser}{27}
 \contentsline {subsubsection}{\numberline {5.2.1}DC- og AC-kretser}{27}
 \contentsline {paragraph}{Kondensator i DC-kretser}{27}
@@ -233,12 +233,18 @@
 \contentsline {paragraph}{Bessel}{91}
 \contentsline {paragraph}{Chebyshev}{91}
 \contentsline {subsection}{\numberline {15.3}Implementasjoner}{91}
-\contentsline {subsection}{\numberline {15.4}Tilbakekobling (feedback)}{91}
-\contentsline {section}{\numberline {16}Uke 16}{92}
-\contentsline {section}{\numberline {17}Uke 17}{92}
-\contentsline {section}{\numberline {18}Uke 18}{92}
-\contentsline {section}{\numberline {19}Uke 19}{92}
-\contentsline {section}{\numberline {20}Uke 20}{92}
-\contentsline {section}{\numberline {21}Uke 21}{92}
-\contentsline {section}{\numberline {22}Uke 22}{92}
-\contentsline {section}{\numberline {23}Uke 23}{92}
+\contentsline {subsubsection}{\numberline {15.3.1}Lavpass (Butterworth)}{91}
+\contentsline {subsubsection}{\numberline {15.3.2}Lavpass (Butterworth 2. orden)}{91}
+\contentsline {subsubsection}{\numberline {15.3.3}H\IeC {\o }ypass (Butterworth)}{91}
+\contentsline {subsubsection}{\numberline {15.3.4}H\IeC {\o }ypass (Butterworth 2. orden)}{91}
+\contentsline {subsubsection}{\numberline {15.3.5}B\IeC {\r a}ndpass (Kombinerer h\IeC {\o }ypass/lavpass)}{91}
+\contentsline {subsubsection}{\numberline {15.3.6}Notch/B\IeC {\r a}ndstopp}{91}
+\contentsline {subsection}{\numberline {15.4}Tilbakekobling (feedback)}{92}
+\contentsline {section}{\numberline {16}Uke 16}{93}
+\contentsline {section}{\numberline {17}Uke 17}{93}
+\contentsline {section}{\numberline {18}Uke 18}{93}
+\contentsline {section}{\numberline {19}Uke 19}{93}
+\contentsline {section}{\numberline {20}Uke 20}{93}
+\contentsline {section}{\numberline {21}Uke 21}{93}
+\contentsline {section}{\numberline {22}Uke 22}{93}
+\contentsline {section}{\numberline {23}Uke 23}{93}
