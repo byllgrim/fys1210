@@ -1,0 +1,44 @@
+\paragraph{} \mbox{Båndbredde} \\
+Ved filtre som båndpass og båndstopp er båndbredden gitt fra grensefrekvensene.
+Fra $V_{pk}$ til en reduksjon på -3dB finner man grensefrekvensene.
+Båndbredden er avstanden mellom disse frekvensene.
+$$BW = f_{c2} - f_{c1}$$
+
+
+
+\paragraph{} \mbox{Q-Verdi} \\
+Q-Verdien sier noe om hvor bratt et filter avtar.
+En høy Q betyr brattere filter.
+
+Q-Verdien er gitt ved den geometriske senterfrekvensen $f_0$.
+$f_0$ er nesten som gjennomsnitt, men tar høyde for logaritmisk skala.
+$$f_0 = \sqrt{f_{c1} \cdot f_{c2}}$$
+
+Q-Verdien er forholdet mellom senterfrekvensen og båndbredden.
+$$Q = \frac{f_0}{BW}$$
+
+
+
+\paragraph{} \mbox{Pol} \\
+Når vi lager filtre med opamper bruker vi RC kretser.
+En pol er én RC krets.
+Det vil bli mer tydelig i seksjonen med implementasjonseksempler.
+
+
+
+\paragraph{} \mbox{Orden} \\
+Antall poler i et filter avgjør filterets orden.
+Det bestemmer også hvor fort signalet avtar.
+
+1. Ordens filter
+Har én pol.
+Avtar med 20dB per dekade.
+
+2. Ordens filter
+Har to poler.
+Avtar med 40dB per dekade.
+
+3. Ordens filter
+Har tre poler.
+Avtar med 60dB per dekade.
+osv...

@@ -1,7 +1,7 @@
 \select@language {english}
 \contentsline {section}{\numberline {1}Forord}{5}
 \contentsline {section}{\numberline {2}Acknowledgments}{5}
-\contentsline {section}{\numberline {3}Uke 3 - Introduksjon}{5}
+\contentsline {section}{\numberline {3}Uke 3 - Introduksjon}{6}
 \contentsline {subsection}{\numberline {3.1}Elektrisitet}{6}
 \contentsline {subsubsection}{\numberline {3.1.1}Ladning}{6}
 \contentsline {paragraph}{Atomet}{6}
@@ -12,7 +12,7 @@
 \contentsline {paragraph}{AC/DC}{7}
 \contentsline {subsubsection}{\numberline {3.1.3}Spenning}{7}
 \contentsline {paragraph}{Potensiale}{7}
-\contentsline {paragraph}{Enhet}{7}
+\contentsline {paragraph}{Enhet}{8}
 \contentsline {subsection}{\numberline {3.2}Leder og isolator}{8}
 \contentsline {subsubsection}{\numberline {3.2.1}Komponenter}{8}
 \contentsline {paragraph}{Motstand}{8}
@@ -218,12 +218,27 @@
 \contentsline {subsection}{\numberline {14.7}Logaritmisk forsterker}{87}
 \contentsline {subsection}{\numberline {14.8}Frekvensforl\IeC {\o }p}{87}
 \contentsline {paragraph}{Gain-Bandwidth Product}{88}
-\contentsline {section}{\numberline {15}Uke 15}{89}
-\contentsline {section}{\numberline {16}Uke 16}{89}
-\contentsline {section}{\numberline {17}Uke 17}{89}
-\contentsline {section}{\numberline {18}Uke 18}{89}
-\contentsline {section}{\numberline {19}Uke 19}{89}
-\contentsline {section}{\numberline {20}Uke 20}{89}
-\contentsline {section}{\numberline {21}Uke 21}{89}
-\contentsline {section}{\numberline {22}Uke 22}{89}
-\contentsline {section}{\numberline {23}Uke 23}{89}
+\contentsline {section}{\numberline {15}Uke 15 - Aktive Frekvensfiltre m/OpAmper}{88}
+\contentsline {subsection}{\numberline {15.1}Enheter}{89}
+\contentsline {subsubsection}{\numberline {15.1.1}Slew Rate}{89}
+\contentsline {subsubsection}{\numberline {15.1.2}Common-mode Rejection Ratio}{89}
+\contentsline {subsection}{\numberline {15.2}Aktive Frekvensfiltre med Operasjonsforsterkere}{89}
+\contentsline {subsubsection}{\numberline {15.2.1}Parametre}{89}
+\contentsline {paragraph}{}{89}
+\contentsline {paragraph}{}{90}
+\contentsline {paragraph}{}{90}
+\contentsline {paragraph}{}{90}
+\contentsline {subsubsection}{\numberline {15.2.2}Typer}{90}
+\contentsline {paragraph}{Butterorth (Maximally flat)}{90}
+\contentsline {paragraph}{Bessel}{91}
+\contentsline {paragraph}{Chebyshev}{91}
+\contentsline {subsection}{\numberline {15.3}Implementasjoner}{91}
+\contentsline {subsection}{\numberline {15.4}Tilbakekobling (feedback)}{91}
+\contentsline {section}{\numberline {16}Uke 16}{92}
+\contentsline {section}{\numberline {17}Uke 17}{92}
+\contentsline {section}{\numberline {18}Uke 18}{92}
+\contentsline {section}{\numberline {19}Uke 19}{92}
+\contentsline {section}{\numberline {20}Uke 20}{92}
+\contentsline {section}{\numberline {21}Uke 21}{92}
+\contentsline {section}{\numberline {22}Uke 22}{92}
+\contentsline {section}{\numberline {23}Uke 23}{92}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.1.22)  10 APR 2016 13:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.1.22)  16 APR 2016 21:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1301,31 +1301,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--12
  []
 
 (./tex/ack.tex)
-Overfull \hbox (4.83401pt too wide) in paragraph at lines 1--15
+Overfull \hbox (4.83401pt too wide) in paragraph at lines 1--14
 \OT1/cmr/m/n/10 Takk til Dawid Kuleczko som skrev noen av sek-sjonene, Kai Mor-
 gan Kj^^\lerbakken
  []
 
-(./tex/uke3/uke3.tex (./tex/uke3/ladning.tex
-<./img/Li.jpg, id=23, 135.8676pt x 188.3838pt>
+(./tex/uke3/uke3.tex [5] (./tex/uke3/ladning.tex
+<./img/Li.jpg, id=26, 135.8676pt x 188.3838pt>
 File: ./img/Li.jpg Graphic file (type jpg)
  <use ./img/Li.jpg>
 Package pdftex.def Info: ./img/Li.jpg used on input line 11.
 (pdftex.def)             Requested size: 135.86725pt x 188.38333pt.
- [5])
+)
 (./tex/uke3/strom.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--7
 
  []
 
-<./img/current.png, id=27, 374.198pt x 65.846pt>
+[6 <./img/Li.jpg>] <./img/current.png, id=34, 374.198pt x 65.846pt>
 File: ./img/current.png Graphic file (type png)
- <use ./img/current.png>
+
+<use ./img/current.png>
 Package pdftex.def Info: ./img/current.png used on input line 12.
 (pdftex.def)             Requested size: 187.09854pt x 32.9229pt.
-
-[6 <./img/Li.jpg> <./img/current.png>]) (./tex/uke3/spenning.tex
-<./img/charge.png, id=37, 321.2pt x 240.9pt>
+) (./tex/uke3/spenning.tex
+<./img/charge.png, id=36, 321.2pt x 240.9pt>
 File: ./img/charge.png Graphic file (type png)
  <use ./img/charge.png>
 Package pdftex.def Info: ./img/charge.png used on input line 9.
@@ -1335,26 +1335,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--11
 
  []
 
-<./img/battery.png, id=38, 201.553pt x 169.433pt>
+<./img/battery.png, id=37, 201.553pt x 169.433pt>
 File: ./img/battery.png Graphic file (type png)
  <use ./img/battery.png>
 Package pdftex.def Info: ./img/battery.png used on input line 17.
 (pdftex.def)             Requested size: 100.77625pt x 84.71628pt.
 )
-(./tex/uke3/komponenter.tex <./img/resistor.png, id=39, 1284.8pt x 726.715pt>
+[7 <./img/current.png> <./img/charge.png> <./img/battery.png>]
+(./tex/uke3/komponenter.tex <./img/resistor.png, id=45, 1284.8pt x 726.715pt>
 File: ./img/resistor.png Graphic file (type png)
 
 <use ./img/resistor.png>
 Package pdftex.def Info: ./img/resistor.png used on input line 9.
 (pdftex.def)             Requested size: 113.85063pt x 64.39244pt.
- [7 <./img/charge.png> <./img/battery.png>]
-<./img/kondensator.jpg, id=46, 963.6pt x 1284.8pt>
+ <./img/kondensator.jpg, id=46, 963.6pt x 1284.8pt>
 File: ./img/kondensator.jpg Graphic file (type jpg)
- <use ./img/kondensator.jpg>
+
+<use ./img/kondensator.jpg>
 Package pdftex.def Info: ./img/kondensator.jpg used on input line 15.
 (pdftex.def)             Requested size: 113.85063pt x 151.79721pt.
-) (./tex/uke3/ledere.tex [8 <./img/resistor.png> <./img/kondensator.jpg>])
-(./tex/uke3/ohm.tex
+) (./tex/uke3/ledere.tex [8 <./img/resistor.png> <./img/kondensator.jpg>]) (./t
+ex/uke3/ohm.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--4
 
  []
@@ -1366,12 +1367,12 @@ File: ./img/kcl.png Graphic file (type png)
  <use ./img/kcl.png>
 Package pdftex.def Info: ./img/kcl.png used on input line 6.
 (pdftex.def)             Requested size: 86.25pt x 77.4076pt.
-) [10 <./img/kcl.png>] (./tex/uke3/superposisjon.tex
+ [10 <./img/kcl.png>]) (./tex/uke3/superposisjon.tex [11]
 Underfull \hbox (badness 10000) in paragraph at lines 52--59
 
  []
 
-[11] [12])) (./tex/uke4/uke4.tex (./tex/uke4/thevenin.tex
+[12])) (./tex/uke4/uke4.tex (./tex/uke4/thevenin.tex
 Underfull \hbox (badness 10000) in paragraph at lines 21--25
 
  []
@@ -1648,7 +1649,7 @@ File: ./img/harmoni-1357.png Graphic file (type png)
 Package pdftex.def Info: ./img/harmoni-1357.png used on input line 36.
 (pdftex.def)             Requested size: 345.0pt x 263.2956pt.
 ))
-Underfull \hbox (badness 10000) in paragraph at lines 23--21
+Underfull \hbox (badness 10000) in paragraph at lines 23--18
 
  []
 
@@ -2037,22 +2038,22 @@ File: ./img/likeretter-rev.png Graphic file (type png)
 Package pdftex.def Info: ./img/likeretter-rev.png used on input line 38.
 (pdftex.def)             Requested size: 345.0pt x 111.54848pt.
 ))
-Underfull \hbox (badness 10000) in paragraph at lines 31--27
+Underfull \hbox (badness 10000) in paragraph at lines 31--22
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--27
+Underfull \hbox (badness 10000) in paragraph at lines 31--22
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--27
+Underfull \hbox (badness 10000) in paragraph at lines 31--22
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--27
+Underfull \hbox (badness 10000) in paragraph at lines 31--22
 
  []
 
@@ -2200,17 +2201,17 @@ File: ./img/npn-virkeomrade.png Graphic file (type png)
 Package pdftex.def Info: ./img/npn-virkeomrade.png used on input line 9.
 (pdftex.def)             Requested size: 345.0pt x 232.60217pt.
 ))
-Underfull \hbox (badness 10000) in paragraph at lines 6--30
+Underfull \hbox (badness 10000) in paragraph at lines 6--24
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6--30
+Underfull \hbox (badness 10000) in paragraph at lines 6--24
 
  []
 
 [48 <./img/npn-strom.png>]
-Overfull \hbox (32.09137pt too wide) in paragraph at lines 31--31
+Overfull \hbox (32.09137pt too wide) in paragraph at lines 24--24
 []\OT1/cmr/bx/n/14.4 Uke 8 - Tran-sis-tor-forsterkere og sm^^Wasignalmodeller 
  []
 
@@ -2517,12 +2518,12 @@ File: ./img/truthtable.png Graphic file (type png)
 Package pdftex.def Info: ./img/truthtable.png used on input line 41.
 (pdftex.def)             Requested size: 345.0pt x 78.63574pt.
 ))
-Underfull \hbox (badness 10000) in paragraph at lines 38--36
+Underfull \hbox (badness 10000) in paragraph at lines 38--28
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 38--36
+Underfull \hbox (badness 10000) in paragraph at lines 38--28
 
  []
 
@@ -2954,17 +2955,40 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--28
 
  []
 
-)) [88 <./img/frekfor.png>] [89] (./fys1210.aux (./tex/uke5/tidskonstant.aux))
+)) (./tex/uke15/uke15.tex (./tex/uke15/slewrate.tex [88 <./img/frekfor.png>])
+(./tex/uke15/cmrr.tex) (./tex/uke15/aktiv.tex) (./tex/uke15/param.tex
+Overfull \hbox (0.22284pt too wide) in paragraph at lines 1--5
+\OT1/cmr/m/n/10 Ved fil-tre som b^^Wandpass og b^^Wandstopp er b^^Wandbredden g
+itt fra grense-frekvensene.
+ []
+
+[89]) (./tex/uke15/typer.tex
+<./img/filtertyper.png, id=512, 342.881pt x 220.825pt>
+File: ./img/filtertyper.png Graphic file (type png)
+
+<use ./img/filtertyper.png>
+Package pdftex.def Info: ./img/filtertyper.png used on input line 8.
+(pdftex.def)             Requested size: 231.14937pt x 148.86847pt.
+ [90 <./img/filtertyper.png>])
+(./tex/uke15/implem.tex) (./tex/uke15/feedback.tex
+<./img/negfeedback.png, id=517, 291.489pt x 130.889pt>
+File: ./img/negfeedback.png Graphic file (type png)
+
+<use ./img/negfeedback.png>
+Package pdftex.def Info: ./img/negfeedback.png used on input line 8.
+(pdftex.def)             Requested size: 231.14937pt x 103.79463pt.
+)) [91 <./img/negfeedback.png>] [92] (./fys1210.aux
+(./tex/uke5/tidskonstant.aux))
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 3.25002pt have occurred.
 
  ) 
 Here is how much of TeX's memory you used:
- 30688 strings out of 493105
- 702761 string characters out of 6137072
- 747264 words of memory out of 5000000
- 33347 multiletter control sequences out of 15000+600000
+ 30739 strings out of 493105
+ 703837 string characters out of 6137072
+ 747668 words of memory out of 5000000
+ 33373 multiletter control sequences out of 15000+600000
  14642 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,12n,58p,10406b,837s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2985,10 +3009,10 @@ f-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf/fonts/type1/public/cm-supe
 r/sfrm1000.pfb>
-Output written on fys1210.pdf (89 pages, 3994465 bytes).
+Output written on fys1210.pdf (92 pages, 4037465 bytes).
 PDF statistics:
- 571 PDF objects out of 1000 (max. 8388607)
- 254 compressed objects within 3 object streams
+ 585 PDF objects out of 1000 (max. 8388607)
+ 261 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 543 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 553 words of extra memory for PDF output out of 10000 (max. 10000000)
 
