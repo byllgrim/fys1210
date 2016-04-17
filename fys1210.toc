@@ -234,17 +234,21 @@
 \contentsline {paragraph}{Chebyshev}{91}
 \contentsline {subsection}{\numberline {15.3}Implementasjoner}{91}
 \contentsline {subsubsection}{\numberline {15.3.1}Lavpass (Butterworth)}{91}
-\contentsline {subsubsection}{\numberline {15.3.2}Lavpass (Butterworth 2. orden)}{91}
-\contentsline {subsubsection}{\numberline {15.3.3}H\IeC {\o }ypass (Butterworth)}{91}
-\contentsline {subsubsection}{\numberline {15.3.4}H\IeC {\o }ypass (Butterworth 2. orden)}{91}
-\contentsline {subsubsection}{\numberline {15.3.5}B\IeC {\r a}ndpass (Kombinerer h\IeC {\o }ypass/lavpass)}{91}
-\contentsline {subsubsection}{\numberline {15.3.6}Notch/B\IeC {\r a}ndstopp}{91}
-\contentsline {subsection}{\numberline {15.4}Tilbakekobling (feedback)}{92}
-\contentsline {section}{\numberline {16}Uke 16}{93}
-\contentsline {section}{\numberline {17}Uke 17}{93}
-\contentsline {section}{\numberline {18}Uke 18}{93}
-\contentsline {section}{\numberline {19}Uke 19}{93}
-\contentsline {section}{\numberline {20}Uke 20}{93}
-\contentsline {section}{\numberline {21}Uke 21}{93}
-\contentsline {section}{\numberline {22}Uke 22}{93}
-\contentsline {section}{\numberline {23}Uke 23}{93}
+\contentsline {paragraph}{Variable-gain}{91}
+\contentsline {paragraph}{Unity-gain}{91}
+\contentsline {subsubsection}{\numberline {15.3.2}Lavpass (Butterworth 2. orden)}{92}
+\contentsline {paragraph}{Variable-gain}{92}
+\contentsline {paragraph}{Unity-gain}{93}
+\contentsline {subsubsection}{\numberline {15.3.3}H\IeC {\o }ypass (Butterworth)}{93}
+\contentsline {subsubsection}{\numberline {15.3.4}H\IeC {\o }ypass (Butterworth 2. orden)}{93}
+\contentsline {subsubsection}{\numberline {15.3.5}B\IeC {\r a}ndpass (Kombinerer h\IeC {\o }ypass/lavpass)}{94}
+\contentsline {subsubsection}{\numberline {15.3.6}Notch/B\IeC {\r a}ndstopp}{95}
+\contentsline {subsection}{\numberline {15.4}Tilbakekobling (feedback)}{96}
+\contentsline {section}{\numberline {16}Uke 16}{97}
+\contentsline {section}{\numberline {17}Uke 17}{97}
+\contentsline {section}{\numberline {18}Uke 18}{97}
+\contentsline {section}{\numberline {19}Uke 19}{97}
+\contentsline {section}{\numberline {20}Uke 20}{97}
+\contentsline {section}{\numberline {21}Uke 21}{97}
+\contentsline {section}{\numberline {22}Uke 22}{97}
+\contentsline {section}{\numberline {23}Uke 23}{97}

@@ -1,0 +1,27 @@
+$$f_c = \frac{1}{2\pi \sqrt{R_1R_2C_1C_2}}$$
+
+\begin{circuitikz} \draw
+(6,5) node[op amp, yscale=-1] (opamp) {}
+(opamp.+) node[left] {}
+(opamp.-) node[left] {}
+(opamp.out) node[right] {}
+
+(0,5.5) to[C, l=$C_1$] (2,5.5)
+      to[C, l=$C_2$] (3,5.5)
+      -- (opamp.+)
+(3,5.5) to[R, l=$R_1$] (3,3.5)
+      node[ground] {}
+
+(2,5.5) -- (2,7)
+      to[R, l=$R_2$] (7.5,7)
+      -- (7.5,5)
+(opamp.out) -- (9,5)
+
+(opamp.-) -- (4.5,4.5)
+      -- (4.5,3)
+      -- (7.5,3)
+      to[R, l=$R_{f1}$] (7.5,5)
+(7.5,3) to[R, l=$R_{f2}$] (7.5,1)
+      node[ground] {}
+      ;
+\end{circuitikz}

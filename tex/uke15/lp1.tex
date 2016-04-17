@@ -1,0 +1,58 @@
+I de 2 følgende kretsene er
+$$f_c = \frac{1}{2 \cdot \pi \cdot R_1 \cdot C_1}$$
+
+\paragraph{Variable-gain} \mbox{} \\
+I denne kretsen kan gain justeres med motstanden $R_{f2}$.
+$$A_{vf} = \frac{R_{f1}}{R_{f2}} + 1$$
+
+\begin{circuitikz} \draw
+(5,4.5) node[op amp, yscale=-1] (opamp) {}
+(opamp.+) node[left] {}
+(opamp.-) node[left] {}
+(opamp.out) node[right] {}
+
+(-1,5) node[label=$V_{inn}$] {}
+      -- (0,5)
+      to[R, l=$R_1$] (2,5)
+      to[C, l=$C_1$] (2,3)
+      node[ground] {}
+(2,5) -- (opamp.+)
+
+(6.5,0) node[ground] {}
+      to[R, l=$R_{f2}$] (6.5,2)
+      -- (3.5,2)
+      -- (3.5,4)
+      -- (opamp.-)
+(6.5,2) to[R, l=$R_{f1}$] (6.5,4.5)
+(opamp.out) -- (8, 4.5)
+      node[label=$V_{ut}$] {}
+      ;
+\end{circuitikz}
+
+
+
+\paragraph{Unity-gain} \mbox{} \\
+$$A_v = 1$$
+
+\begin{circuitikz} \draw
+(5,4.5) node[op amp, yscale=-1] (opamp) {}
+(opamp.+) node[left] {}
+(opamp.-) node[left] {}
+(opamp.out) node[right] {}
+
+(-1,5) node[label=$V_{inn}$] {}
+      -- (0,5)
+      to[R, l=$R_1$] (2,5)
+      to[C, l=$C_1$] (2,3)
+      node[ground] {}
+(2,5) -- (opamp.+)
+
+(6.5,2) -- (3.5,2)
+      -- (3.5,4)
+      -- (opamp.-)
+(6.5,2) to[R, l=$R_f$] (6.5,4.5)
+(opamp.out) -- (8, 4.5)
+      node[label=$V_{ut}$] {}
+      ;
+\end{circuitikz}
+
