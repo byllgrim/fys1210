@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.1.22)  17 APR 2016 16:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.1.22)  24 APR 2016 08:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1300,34 +1300,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--12
 
  []
 
-(./tex/ack.tex)
+[5] (./tex/ack.tex)
 Overfull \hbox (4.83401pt too wide) in paragraph at lines 1--14
 \OT1/cmr/m/n/10 Takk til Dawid Kuleczko som skrev noen av sek-sjonene, Kai Mor-
 gan Kj^^\lerbakken
  []
 
-[5] (./tex/uke3/uke3.tex (./tex/uke3/ladning.tex
+(./tex/uke3/uke3.tex (./tex/uke3/ladning.tex
 <./img/Li.jpg, id=26, 135.8676pt x 188.3838pt>
 File: ./img/Li.jpg Graphic file (type jpg)
  <use ./img/Li.jpg>
 Package pdftex.def Info: ./img/Li.jpg used on input line 11.
 (pdftex.def)             Requested size: 135.86725pt x 188.38333pt.
 )
-(./tex/uke3/strom.tex
+(./tex/uke3/strom.tex [6 <./img/Li.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 2--7
 
  []
 
-[6 <./img/Li.jpg>] <./img/current.png, id=34, 374.198pt x 65.846pt>
+<./img/current.png, id=33, 374.198pt x 65.846pt>
 File: ./img/current.png Graphic file (type png)
-
-<use ./img/current.png>
+ <use ./img/current.png>
 Package pdftex.def Info: ./img/current.png used on input line 12.
 (pdftex.def)             Requested size: 187.09854pt x 32.9229pt.
-) (./tex/uke3/spenning.tex
-<./img/charge.png, id=36, 321.2pt x 240.9pt>
+)
+(./tex/uke3/spenning.tex <./img/charge.png, id=35, 321.2pt x 240.9pt>
 File: ./img/charge.png Graphic file (type png)
- <use ./img/charge.png>
+
+<use ./img/charge.png>
 Package pdftex.def Info: ./img/charge.png used on input line 9.
 (pdftex.def)             Requested size: 160.59961pt x 120.44969pt.
 
@@ -1335,7 +1335,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--11
 
  []
 
-<./img/battery.png, id=37, 201.553pt x 169.433pt>
+<./img/battery.png, id=36, 201.553pt x 169.433pt>
 File: ./img/battery.png Graphic file (type png)
  <use ./img/battery.png>
 Package pdftex.def Info: ./img/battery.png used on input line 17.
@@ -1353,26 +1353,26 @@ File: ./img/kondensator.jpg Graphic file (type jpg)
  <use ./img/kondensator.jpg>
 Package pdftex.def Info: ./img/kondensator.jpg used on input line 15.
 (pdftex.def)             Requested size: 113.85063pt x 151.79721pt.
-) (./tex/uke3/ledere.tex [8 <./img/battery.png> <./img/resistor.png> <./img/kon
-densator.jpg>]) (./tex/uke3/ohm.tex
+
+[8 <./img/battery.png> <./img/resistor.png>]) (./tex/uke3/ledere.tex)
+(./tex/uke3/ohm.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--4
 
  []
 
-) (./tex/uke3/kobling.tex (./tex/uke3/serie.tex) [9] (./tex/uke3/parallell.tex)
-) (./tex/uke3/kirchhoff.tex <./img/kcl.png, id=56, 566.82353pt x 508.72412pt>
+) (./tex/uke3/kobling.tex (./tex/uke3/serie.tex [9 <./img/kondensator.jpg>])
+(./tex/uke3/parallell.tex)) (./tex/uke3/kirchhoff.tex
+<./img/kcl.png, id=55, 566.82353pt x 508.72412pt>
 File: ./img/kcl.png Graphic file (type png)
-
-<use ./img/kcl.png>
+ <use ./img/kcl.png>
 Package pdftex.def Info: ./img/kcl.png used on input line 6.
 (pdftex.def)             Requested size: 86.25pt x 77.4076pt.
- [10 <./img/kcl.png>]) (./tex/uke3/superposisjon.tex
-[11]
+ [10 <./img/kcl.png>]) (./tex/uke3/superposisjon.tex [11]
 Underfull \hbox (badness 10000) in paragraph at lines 52--59
 
  []
 
-[12])) (./tex/uke4/uke4.tex [13] (./tex/uke4/thevenin.tex
+[12] [13])) (./tex/uke4/uke4.tex (./tex/uke4/thevenin.tex
 Underfull \hbox (badness 10000) in paragraph at lines 21--25
 
  []
@@ -1393,22 +1393,22 @@ Overfull \hbox (12.28345pt too wide) in paragraph at lines 44--50
 ngskilder er ko-rt-slut-tet og alle str^^\mmer
  []
 
-(./tex/uke4/eksempel.tex
+[14] (./tex/uke4/eksempel.tex
 Underfull \hbox (badness 10000) in paragraph at lines 12--16
 
  []
 
-[14]
+
 Underfull \hbox (badness 10000) in paragraph at lines 35--37
 
  []
 
-
+[15]
 Underfull \hbox (badness 10000) in paragraph at lines 42--44
 
  []
 
-) [15]) (./tex/uke4/batterier.tex
+)) (./tex/uke4/batterier.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--4
 
  []
@@ -3011,7 +3011,68 @@ File: ./img/negfeedback.png Graphic file (type png)
 <use ./img/negfeedback.png>
 Package pdftex.def Info: ./img/negfeedback.png used on input line 8.
 (pdftex.def)             Requested size: 231.14937pt x 103.79463pt.
-)) [96 <./img/negfeedback.png>] [97] (./fys1210.aux
+)) (./tex/uke16/uke16.tex (./tex/uke16/feedback.tex
+<./img/fadingsignal.png, id=540, 418.363pt x 128.48pt>
+File: ./img/fadingsignal.png Graphic file (type png)
+
+<use ./img/fadingsignal.png>
+Package pdftex.def Info: ./img/fadingsignal.png used on input line 10.
+(pdftex.def)             Requested size: 172.5pt x 52.97511pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--11
+
+ []
+
+[96 <./img/negfeedback.png>]
+<./img/gainingsignal.png, id=545, 418.363pt x 130.086pt>
+File: ./img/gainingsignal.png Graphic file (type png)
+
+<use ./img/gainingsignal.png>
+Package pdftex.def Info: ./img/gainingsignal.png used on input line 17.
+(pdftex.def)             Requested size: 172.5pt x 53.6373pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--18
+
+ []
+
+<./img/stabiltsignal.png, id=546, 418.363pt x 128.48pt>
+File: ./img/stabiltsignal.png Graphic file (type png)
+
+<use ./img/stabiltsignal.png>
+Package pdftex.def Info: ./img/stabiltsignal.png used on input line 24.
+(pdftex.def)             Requested size: 172.5pt x 52.97511pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--25
+
+ []
+
+) (./tex/uke16/miller.tex <./img/miller.png, id=547, 302.731pt x 221.628pt>
+File: ./img/miller.png Graphic file (type png)
+
+<use ./img/miller.png>
+Package pdftex.def Info: ./img/miller.png used on input line 10.
+(pdftex.def)             Requested size: 172.5pt x 126.28868pt.
+ [97 <./img/fadingsignal.png> <./img/gainingsignal.png> <./img/stabiltsignal.pn
+g>]
+<./img/millercutoff.png, id=555, 245.718pt x 179.069pt>
+File: ./img/millercutoff.png Graphic file (type png)
+
+<use ./img/millercutoff.png>
+Package pdftex.def Info: ./img/millercutoff.png used on input line 27.
+(pdftex.def)             Requested size: 172.5pt x 125.71631pt.
+) (./tex/uke16/oscillator.tex) [98 <./img/miller.png> <./img/millercutoff.png>]
+ (./tex/uke16/faseskift.tex
+Overfull \hbox (3.60254pt too wide) in paragraph at lines 1--5
+\OT1/cmr/m/n/10 Faseskift-oscillatoren pro-duserer en si-nusb^^\lge. Fordi fase
+-forskyvnin-gen avhenger
+ []
+
+
+Overfull \hbox (5.87979pt too wide) in paragraph at lines 39--40
+[][] 
+ []
+
+) (./tex/uke16/avstemte.tex)) [99] [100] (./fys1210.aux
 (./tex/uke5/tidskonstant.aux))
 
 LaTeX Font Warning: Size substitutions with differences
@@ -3019,10 +3080,10 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 31576 strings out of 493105
- 723643 string characters out of 6137072
- 783168 words of memory out of 5000000
- 34194 multiletter control sequences out of 15000+600000
+ 31679 strings out of 493105
+ 726029 string characters out of 6137072
+ 781983 words of memory out of 5000000
+ 34275 multiletter control sequences out of 15000+600000
  14642 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,12n,58p,10406b,837s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3043,10 +3104,10 @@ f-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf/fonts/type1/public/cm-supe
 r/sfrm1000.pfb>
-Output written on fys1210.pdf (97 pages, 4071518 bytes).
+Output written on fys1210.pdf (100 pages, 4178484 bytes).
 PDF statistics:
- 607 PDF objects out of 1000 (max. 8388607)
- 272 compressed objects within 3 object streams
+ 626 PDF objects out of 1000 (max. 8388607)
+ 278 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 568 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 593 words of extra memory for PDF output out of 10000 (max. 10000000)
 
