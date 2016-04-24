@@ -253,14 +253,14 @@
 \contentsline {subsection}{\numberline {16.3}Oscillatorer}{98}
 \contentsline {subsubsection}{\numberline {16.3.1}Faseskift-oscillatorer}{99}
 \contentsline {subsubsection}{\numberline {16.3.2}Wien brigde-oscillatorer}{99}
-\contentsline {paragraph}{Positiv}{99}
-\contentsline {paragraph}{Negativ}{99}
-\contentsline {subsubsection}{\numberline {16.3.3}Avstemte oscillatorer}{100}
-\contentsline {subsubsection}{\numberline {16.3.4}Krystall-oscillatorer}{100}
-\contentsline {section}{\numberline {17}Uke 17}{101}
-\contentsline {section}{\numberline {18}Uke 18}{101}
-\contentsline {section}{\numberline {19}Uke 19}{101}
-\contentsline {section}{\numberline {20}Uke 20}{101}
-\contentsline {section}{\numberline {21}Uke 21}{101}
-\contentsline {section}{\numberline {22}Uke 22}{101}
-\contentsline {section}{\numberline {23}Uke 23}{101}
+\contentsline {paragraph}{Positiv}{100}
+\contentsline {paragraph}{Negativ}{101}
+\contentsline {subsubsection}{\numberline {16.3.3}Avstemte oscillatorer}{101}
+\contentsline {subsubsection}{\numberline {16.3.4}Krystall-oscillatorer}{101}
+\contentsline {section}{\numberline {17}Uke 17}{103}
+\contentsline {section}{\numberline {18}Uke 18}{103}
+\contentsline {section}{\numberline {19}Uke 19}{103}
+\contentsline {section}{\numberline {20}Uke 20}{103}
+\contentsline {section}{\numberline {21}Uke 21}{103}
+\contentsline {section}{\numberline {22}Uke 22}{103}
+\contentsline {section}{\numberline {23}Uke 23}{103}
