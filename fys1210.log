@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.1.22)  24 APR 2016 08:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.1.22)  24 APR 2016 09:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3072,21 +3072,38 @@ Overfull \hbox (5.87979pt too wide) in paragraph at lines 39--40
 [][] 
  []
 
-) (./tex/uke16/avstemte.tex)) [99] [100] (./fys1210.aux
-(./tex/uke5/tidskonstant.aux))
+) (./tex/uke16/wien.tex)
+Overfull \hbox (2.89687pt too wide) in paragraph at lines 14--14
+\OT1/cmr/m/n/10 Den neg-a-tive tilbakekoblin-gen kon-trollerer closed loop gain
+ $\OML/cmm/m/it/10 A[]$\OT1/cmr/m/n/10 . TODO beskriv-
+ []
+
+(./tex/uke16/avstemte.tex [99]) (./tex/uke16/krystall.tex
+Overfull \hbox (4.22292pt too wide) in paragraph at lines 1--7
+\OT1/cmr/m/n/10 Krystall-oscillatorer er teknolo-gien bak mange klokker og mest
+eparten av teknolo-
+ []
+
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 6 in font nullfont!
+)) [100] [101] (./fys1210.aux (./tex/uke5/tidskonstant.aux))
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 3.25002pt have occurred.
 
  ) 
 Here is how much of TeX's memory you used:
- 31679 strings out of 493105
- 726029 string characters out of 6137072
- 781983 words of memory out of 5000000
- 34275 multiletter control sequences out of 15000+600000
+ 31866 strings out of 493105
+ 730995 string characters out of 6137072
+ 783187 words of memory out of 5000000
+ 34457 multiletter control sequences out of 15000+600000
  14642 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,12n,58p,10406b,837s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 69i,12n,58p,10406b,843s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dis
@@ -3104,10 +3121,10 @@ f-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf/fonts/type1/public/cm-supe
 r/sfrm1000.pfb>
-Output written on fys1210.pdf (100 pages, 4178484 bytes).
+Output written on fys1210.pdf (101 pages, 4180970 bytes).
 PDF statistics:
- 626 PDF objects out of 1000 (max. 8388607)
- 278 compressed objects within 3 object streams
+ 629 PDF objects out of 1000 (max. 8388607)
+ 280 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  593 words of extra memory for PDF output out of 10000 (max. 10000000)
 
