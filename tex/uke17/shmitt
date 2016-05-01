@@ -1,0 +1,11 @@
+Shmitt-trigger fungerer som en komparator med hysterese.
+\marginpar{Hysterese: Logikken er sekvensiell.
+           dvs. at beslutning tas basert på tidligere resultat.}
+Output blir høy (1) når signalet overstiger en gitt spenning (upper trip point),
+men den blir ikke lav før den går under en gitt lavterskel (lower trip point);
+
+\begin{figure}[H]
+  \centering
+  \caption{Shmitt-trigger endrer verdi når den passerer utp elle ltp}
+  \includegraphics[width=0.67\textwidth]{./img/shmitt}
+\end{figure}

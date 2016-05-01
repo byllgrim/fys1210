@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.1.22)  24 APR 2016 18:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.1.22)  1 MAY 2016 09:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1290,7 +1290,7 @@ File: siunitx-abbreviations.cfg 2014/10/01 v2.6c siunitx: Abbreviated units
 \tf@toc=\write5
 \openout5 = `fys1210.toc'.
 
- (./tex/abstract.tex
+ (./tex/abstract.tex [5]
 Underfull \hbox (badness 10000) in paragraph at lines 5--12
 
  []
@@ -1300,7 +1300,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--12
 
  []
 
-[5] (./tex/ack.tex)
+(./tex/ack.tex)
 Overfull \hbox (4.83401pt too wide) in paragraph at lines 1--14
 \OT1/cmr/m/n/10 Takk til Dawid Kuleczko som skrev noen av sek-sjonene, Kai Mor-
 gan Kj^^\lerbakken
@@ -1312,8 +1312,8 @@ File: ./img/Li.jpg Graphic file (type jpg)
  <use ./img/Li.jpg>
 Package pdftex.def Info: ./img/Li.jpg used on input line 11.
 (pdftex.def)             Requested size: 135.86725pt x 188.38333pt.
-)
-(./tex/uke3/strom.tex [6 <./img/Li.jpg>]
+ [6])
+(./tex/uke3/strom.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--7
 
  []
@@ -1335,39 +1335,39 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--11
 
  []
 
-<./img/battery.png, id=36, 201.553pt x 169.433pt>
+[7 <./img/Li.jpg> <./img/current.png>]
+<./img/battery.png, id=42, 201.553pt x 169.433pt>
 File: ./img/battery.png Graphic file (type png)
  <use ./img/battery.png>
 Package pdftex.def Info: ./img/battery.png used on input line 17.
 (pdftex.def)             Requested size: 100.77625pt x 84.71628pt.
-
-[7 <./img/current.png> <./img/charge.png>]) (./tex/uke3/komponenter.tex
-<./img/resistor.png, id=44, 1284.8pt x 726.715pt>
+)
+(./tex/uke3/komponenter.tex <./img/resistor.png, id=43, 1284.8pt x 726.715pt>
 File: ./img/resistor.png Graphic file (type png)
- <use ./img/resistor.png>
+
+<use ./img/resistor.png>
 Package pdftex.def Info: ./img/resistor.png used on input line 9.
 (pdftex.def)             Requested size: 113.85063pt x 64.39244pt.
-
-<./img/kondensator.jpg, id=45, 963.6pt x 1284.8pt>
+ [8 <./img/charge.png> <./img/battery.png>]
+<./img/kondensator.jpg, id=49, 963.6pt x 1284.8pt>
 File: ./img/kondensator.jpg Graphic file (type jpg)
  <use ./img/kondensator.jpg>
 Package pdftex.def Info: ./img/kondensator.jpg used on input line 15.
 (pdftex.def)             Requested size: 113.85063pt x 151.79721pt.
-
-[8 <./img/battery.png> <./img/resistor.png>]) (./tex/uke3/ledere.tex)
-(./tex/uke3/ohm.tex
+) (./tex/uke3/ledere.tex) (./tex/uke3/ohm.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--4
 
  []
 
-) (./tex/uke3/kobling.tex (./tex/uke3/serie.tex [9 <./img/kondensator.jpg>])
-(./tex/uke3/parallell.tex)) (./tex/uke3/kirchhoff.tex
+[9 <./img/resistor.png> <./img/kondensator.jpg>]) (./tex/uke3/kobling.tex
+(./tex/uke3/serie.tex) (./tex/uke3/parallell.tex)) (./tex/uke3/kirchhoff.tex
 <./img/kcl.png, id=55, 566.82353pt x 508.72412pt>
 File: ./img/kcl.png Graphic file (type png)
  <use ./img/kcl.png>
 Package pdftex.def Info: ./img/kcl.png used on input line 6.
 (pdftex.def)             Requested size: 86.25pt x 77.4076pt.
- [10 <./img/kcl.png>]) (./tex/uke3/superposisjon.tex [11]
+ [10])
+(./tex/uke3/superposisjon.tex [11 <./img/kcl.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 52--59
 
  []
@@ -1382,7 +1382,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--25
 
  []
 
-
+[14]
 Underfull \hbox (badness 10000) in paragraph at lines 44--50
 
  []
@@ -1393,7 +1393,7 @@ Overfull \hbox (12.28345pt too wide) in paragraph at lines 44--50
 ngskilder er ko-rt-slut-tet og alle str^^\mmer
  []
 
-[14] (./tex/uke4/eksempel.tex
+(./tex/uke4/eksempel.tex
 Underfull \hbox (badness 10000) in paragraph at lines 12--16
 
  []
@@ -1418,19 +1418,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--12
 
  []
 
-<./img/batteri.png, id=79, 803.0pt x 602.25pt>
+[16] <./img/batteri.png, id=82, 803.0pt x 602.25pt>
 File: ./img/batteri.png Graphic file (type png)
  <use ./img/batteri.png>
 Package pdftex.def Info: ./img/batteri.png used on input line 24.
 (pdftex.def)             Requested size: 345.0pt x 258.75108pt.
- [16]
+
 (./tex/uke4/maksimal.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--11
 
  []
 
-) (./tex/uke4/temperatur.tex
-<./img/temperatur.png, id=83, 186.296pt x 153.373pt>
+[17 <./img/batteri.png>]) (./tex/uke4/temperatur.tex
+<./img/temperatur.png, id=87, 186.296pt x 153.373pt>
 File: ./img/temperatur.png Graphic file (type png)
 
 <use ./img/temperatur.png>
@@ -1446,10 +1446,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--13
 
  []
 
-[17 <./img/batteri.png>] (./tex/uke4/fysikalsk.tex
-<./img/bohr-Cu.png, id=88, 324.412pt x 330.836pt>
+(./tex/uke4/fysikalsk.tex <./img/bohr-Cu.png, id=88, 324.412pt x 330.836pt>
 File: ./img/bohr-Cu.png Graphic file (type png)
- <use ./img/bohr-Cu.png>
+
+<use ./img/bohr-Cu.png>
 Package pdftex.def Info: ./img/bohr-Cu.png used on input line 4.
 (pdftex.def)             Requested size: 86.25pt x 87.95886pt.
 
@@ -1457,13 +1457,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--13
 
  []
 
-<./img/valence-Cu.png, id=89, 361.35pt x 330.033pt>
+[18 <./img/temperatur.png> <./img/bohr-Cu.png>]
+<./img/valence-Cu.png, id=94, 361.35pt x 330.033pt>
 File: ./img/valence-Cu.png Graphic file (type png)
  <use ./img/valence-Cu.png>
 Package pdftex.def Info: ./img/valence-Cu.png used on input line 21.
 (pdftex.def)             Requested size: 172.5pt x 157.54785pt.
 
-[18 <./img/temperatur.png> <./img/bohr-Cu.png>] (./tex/uke4/ledningsevne.tex
+(./tex/uke4/ledningsevne.tex
 <./img/energigap.png, id=95, 576.554pt x 264.99pt>
 File: ./img/energigap.png Graphic file (type png)
  <use ./img/energigap.png>
@@ -1479,7 +1480,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--27
 
  []
 
-(./tex/uke4/eksitasjon.tex
+[19 <./img/valence-Cu.png>] (./tex/uke4/eksitasjon.tex
 Overfull \hbox (7.86182pt too wide) in paragraph at lines 1--7
 \OT1/cmr/m/n/10 For at elek-troner skal hoppe fra valensb^^Wandet, over en-ergi
 -gapet, til led-ningsb^^Wandet,
@@ -1490,7 +1491,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--7
 
  []
 
-[19 <./img/valence-Cu.png> <./img/energigap.png>]
+
 Underfull \hbox (badness 10000) in paragraph at lines 7--13
 
  []
@@ -1530,7 +1531,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--6
 \OT1/cmr/m/n/10 8 valense-lek-
  []
 
-<./img/kovalent-Si.png, id=102, 434.423pt x 434.423pt>
+<./img/kovalent-Si.png, id=101, 434.423pt x 434.423pt>
 File: ./img/kovalent-Si.png Graphic file (type png)
 
 <use ./img/kovalent-Si.png>
@@ -1546,9 +1547,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--11
 
  []
 
-<./img/ntype.png, id=103, 554.873pt x 434.423pt>
+[20 <./img/energigap.png>] <./img/ntype.png, id=106, 554.873pt x 434.423pt>
 File: ./img/ntype.png Graphic file (type png)
- <use ./img/ntype.png>
+
+<use ./img/ntype.png>
 Package pdftex.def Info: ./img/ntype.png used on input line 22.
 (pdftex.def)             Requested size: 172.5pt x 135.0542pt.
 
@@ -1561,10 +1563,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--25
 
  []
 
-[20 <./img/kovalent-Si.png>] <./img/ptype.png, id=108, 574.948pt x 434.423pt>
+<./img/ptype.png, id=107, 574.948pt x 434.423pt>
 File: ./img/ptype.png Graphic file (type png)
-
-<use ./img/ptype.png>
+ <use ./img/ptype.png>
 Package pdftex.def Info: ./img/ptype.png used on input line 33.
 (pdftex.def)             Requested size: 172.5pt x 130.33453pt.
 )
@@ -1572,10 +1573,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--19
 
  []
 
-(./tex/uke4/veksel.tex <./img/veksel.png, id=109, 374.198pt x 188.705pt>
+[21 <./img/kovalent-Si.png> <./img/ntype.png>] (./tex/uke4/veksel.tex
+<./img/veksel.png, id=113, 374.198pt x 188.705pt>
 File: ./img/veksel.png Graphic file (type png)
-
-<use ./img/veksel.png>
+ <use ./img/veksel.png>
 Package pdftex.def Info: ./img/veksel.png used on input line 7.
 (pdftex.def)             Requested size: 345.0pt x 173.98502pt.
 
@@ -1583,26 +1584,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--8
 
  []
 
-[21 <./img/ntype.png> <./img/ptype.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 10--18
-
- []
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 10--18
 
  []
 
-) (./tex/uke4/dcoff.tex <./img/dcoffset.png, id=115, 411.939pt x 129.283pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--18
+
+ []
+
+[22 <./img/ptype.png> <./img/veksel.png>]) (./tex/uke4/dcoff.tex
+<./img/dcoffset.png, id=119, 411.939pt x 129.283pt>
 File: ./img/dcoffset.png Graphic file (type png)
-
-<use ./img/dcoffset.png>
+ <use ./img/dcoffset.png>
 Package pdftex.def Info: ./img/dcoffset.png used on input line 7.
 (pdftex.def)             Requested size: 172.5pt x 54.13672pt.
-) (./tex/uke4/pulser.tex
-<./img/pulstog.png, id=116, 421.575pt x 160.6pt>
+)
+(./tex/uke4/pulser.tex <./img/pulstog.png, id=120, 421.575pt x 160.6pt>
 File: ./img/pulstog.png Graphic file (type png)
- <use ./img/pulstog.png>
+
+<use ./img/pulstog.png>
 Package pdftex.def Info: ./img/pulstog.png used on input line 8.
 (pdftex.def)             Requested size: 172.5pt x 65.71408pt.
 
@@ -1615,8 +1617,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--9
 
  []
 
-[22 <./img/veksel.png> <./img/dcoffset.png>]
-<./img/pulstog2.png, id=122, 618.31pt x 280.247pt>
+<./img/pulstog2.png, id=121, 618.31pt x 280.247pt>
 File: ./img/pulstog2.png Graphic file (type png)
  <use ./img/pulstog2.png>
 Package pdftex.def Info: ./img/pulstog2.png used on input line 18.
@@ -1626,21 +1627,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--19
 
  []
 
-<./img/harmoni-ab.png, id=123, 447.17062pt x 314.67563pt>
+[23 <./img/dcoffset.png> <./img/pulstog.png>]
+<./img/harmoni-ab.png, id=127, 447.17062pt x 314.67563pt>
 File: ./img/harmoni-ab.png Graphic file (type png)
 
 <use ./img/harmoni-ab.png>
 Package pdftex.def Info: ./img/harmoni-ab.png used on input line 26.
 (pdftex.def)             Requested size: 345.0pt x 242.78113pt.
 
-<./img/harmoni-abc.png, id=124, 446.41782pt x 317.68687pt>
+<./img/harmoni-abc.png, id=128, 446.41782pt x 317.68687pt>
 File: ./img/harmoni-abc.png Graphic file (type png)
 
 <use ./img/harmoni-abc.png>
 Package pdftex.def Info: ./img/harmoni-abc.png used on input line 31.
 (pdftex.def)             Requested size: 345.0pt x 245.51642pt.
 
-<./img/harmoni-1357.png, id=125, 371.88937pt x 283.81032pt>
+<./img/harmoni-1357.png, id=129, 371.88937pt x 283.81032pt>
 File: ./img/harmoni-1357.png Graphic file (type png)
 
 <use ./img/harmoni-1357.png>
@@ -1651,16 +1653,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--18
 
  []
 
-[23 <./img/pulstog.png> <./img/pulstog2.png>] [24 <./img/harmoni-ab.png> <./img
-/harmoni-abc.png>] (./tex/uke5/uke5.tex (./tex/uke5/kondensatorer.tex
-<./img/kondensator-basic.png, id=136, 338.063pt x 184.69pt>
+[24 <./img/pulstog2.png> <./img/harmoni-ab.png>] [25 <./img/harmoni-abc.png>]
+(./tex/uke5/uke5.tex (./tex/uke5/kondensatorer.tex
+<./img/kondensator-basic.png, id=140, 338.063pt x 184.69pt>
 File: ./img/kondensator-basic.png Graphic file (type png)
 
 <use ./img/kondensator-basic.png>
 Package pdftex.def Info: ./img/kondensator-basic.png used on input line 15.
 (pdftex.def)             Requested size: 172.5pt x 94.24136pt.
 
-<./img/kondensator-symboler.png, id=137, 353.32pt x 188.705pt>
+<./img/kondensator-symboler.png, id=141, 353.32pt x 188.705pt>
 File: ./img/kondensator-symboler.png Graphic file (type png)
 
 <use ./img/kondensator-symboler.png>
@@ -1676,8 +1678,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--21
 
  []
 
-[25 <./img/harmoni-1357.png>]
-<./img/kondensator-ladning.png, id=143, 346.093pt x 178.266pt>
+[26 <./img/harmoni-1357.png>]
+<./img/kondensator-ladning.png, id=146, 346.093pt x 178.266pt>
 File: ./img/kondensator-ladning.png Graphic file (type png)
 
 <use ./img/kondensator-ladning.png>
@@ -1688,26 +1690,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--41
 
  []
 
-[26 <./img/kondensator-basic.png> <./img/kondensator-symboler.png> <./img/konde
-nsator-ladning.png>]
+
 Underfull \hbox (badness 10000) in paragraph at lines 46--54
 
  []
 
-
+[27 <./img/kondensator-basic.png> <./img/kondensator-symboler.png> <./img/konde
+nsator-ladning.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 54--71
 
  []
 
-) (./tex/uke5/kretser.tex [27]
-<./img/kondensator-spenning.png, id=153, 216.81pt x 199.144pt>
+) (./tex/uke5/kretser.tex [28]
+<./img/kondensator-spenning.png, id=156, 216.81pt x 199.144pt>
 File: ./img/kondensator-spenning.png Graphic file (type png)
 
 <use ./img/kondensator-spenning.png>
 Package pdftex.def Info: ./img/kondensator-spenning.png used on input line 12.
 (pdftex.def)             Requested size: 172.5pt x 158.45241pt.
 
-<./img/kondensator-power.png, id=154, 779.91376pt x 385.44pt>
+<./img/kondensator-power.png, id=157, 779.91376pt x 385.44pt>
 File: ./img/kondensator-power.png Graphic file (type png)
 
 <use ./img/kondensator-power.png>
@@ -1723,7 +1725,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--20
 
  []
 
-(./tex/uke5/reaktans.tex [28 <./img/kondensator-spenning.png> <./img/kondensato
+(./tex/uke5/reaktans.tex [29 <./img/kondensator-spenning.png> <./img/kondensato
 r-power.png (PNG copy)>]
 Underfull \hbox (badness 10000) in paragraph at lines 4--10
 
@@ -1739,13 +1741,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--30
 
  []
 
-(./tex/uke5/rc.tex <./img/spenningRC.png, id=159, 148.555pt x 105.996pt>
+(./tex/uke5/rc.tex <./img/spenningRC.png, id=162, 148.555pt x 105.996pt>
 File: ./img/spenningRC.png Graphic file (type png)
 
 <use ./img/spenningRC.png>
 Package pdftex.def Info: ./img/spenningRC.png used on input line 21.
 (pdftex.def)             Requested size: 86.25pt x 61.5424pt.
- [29]
+ [30]
 Underfull \hbox (badness 10000) in paragraph at lines 29--36
 
  []
@@ -1760,7 +1762,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 44--45
 
  []
 
-[30 <./img/spenningRC.png>]
+[31 <./img/spenningRC.png>]
 \openout2 = `./tex/uke5/tidskonstant.aux'.
 
  (./tex/uke5/tidskonstant.tex
@@ -1793,7 +1795,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--28
 
  []
 
-<./img/tidskonstant.png, id=168, 454.498pt x 285.868pt>
+<./img/tidskonstant.png, id=172, 454.498pt x 285.868pt>
 File: ./img/tidskonstant.png Graphic file (type png)
 
 <use ./img/tidskonstant.png>
@@ -1804,20 +1806,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--45
 
  []
 
-[31
+[32
 
  <./img/tidskonstant.png>])) (./tex/uke5/filter.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--20
 
  []
 
-<./img/lowpass.png, id=175, 1284.8pt x 963.6pt>
+<./img/lowpass.png, id=178, 1284.8pt x 963.6pt>
 File: ./img/lowpass.png Graphic file (type png)
  <use ./img/lowpass.png>
 Package pdftex.def Info: ./img/lowpass.png used on input line 23.
 (pdftex.def)             Requested size: 345.0pt x 258.74925pt.
 
-<./img/hpf.png, id=176, 222.431pt x 156.585pt>
+<./img/hpf.png, id=179, 222.431pt x 156.585pt>
 File: ./img/hpf.png Graphic file (type png)
  <use ./img/hpf.png>
 Package pdftex.def Info: ./img/hpf.png used on input line 49.
@@ -1832,15 +1834,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--50
 
  []
 
-[32
+[33
 
  <./img/lowpass.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 53--94
 
  []
 
-[33 <./img/hpf.png>]) (./tex/uke5/dioder.tex
-<./img/diode-symbol.png, id=185, 1284.8pt x 551.05875pt>
+[34 <./img/hpf.png>]) (./tex/uke5/dioder.tex
+<./img/diode-symbol.png, id=188, 1284.8pt x 551.05875pt>
 File: ./img/diode-symbol.png Graphic file (type png)
 
 <use ./img/diode-symbol.png>
@@ -1851,21 +1853,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--11
 
  []
 
-)) (./tex/uke6/uke6.tex [34 <./img/diode-symbol.png>]
-(./tex/uke6/halvledere.tex <./img/krystall.png, id=190, 493.845pt x 493.845pt>
+)) (./tex/uke6/uke6.tex [35 <./img/diode-symbol.png>]
+(./tex/uke6/halvledere.tex <./img/krystall.png, id=193, 493.845pt x 493.845pt>
 File: ./img/krystall.png Graphic file (type png)
 
 <use ./img/krystall.png>
 Package pdftex.def Info: ./img/krystall.png used on input line 8.
 (pdftex.def)             Requested size: 172.5pt x 172.49416pt.
 
-<./img/krystall-ledning.png, id=191, 1117.776pt x 493.845pt>
+<./img/krystall-ledning.png, id=194, 1117.776pt x 493.845pt>
 File: ./img/krystall-ledning.png Graphic file (type png)
 
 <use ./img/krystall-ledning.png>
 Package pdftex.def Info: ./img/krystall-ledning.png used on input line 16.
 (pdftex.def)             Requested size: 345.0pt x 152.42723pt.
-) (./tex/uke6/doping.tex [35 <./img/krystall.png> <./img/krystall-ledning.png>]
+) (./tex/uke6/doping.tex [36 <./img/krystall.png> <./img/krystall-ledning.png>]
 
 Underfull \hbox (badness 10000) in paragraph at lines 4--14
 
@@ -1876,21 +1878,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--9
 
  []
 
-(./tex/uke6/pn.tex <./img/krystall-pn.png, id=197, 1109.746pt x 623.128pt>
+(./tex/uke6/pn.tex <./img/krystall-pn.png, id=200, 1109.746pt x 623.128pt>
 File: ./img/krystall-pn.png Graphic file (type png)
 
 <use ./img/krystall-pn.png>
 Package pdftex.def Info: ./img/krystall-pn.png used on input line 7.
 (pdftex.def)             Requested size: 345.0pt x 193.71915pt.
- [36]
-<./img/pn-junction.png, id=201, 515.526pt x 246.521pt>
+ [37]
+<./img/pn-junction.png, id=205, 515.526pt x 246.521pt>
 File: ./img/pn-junction.png Graphic file (type png)
 
 <use ./img/pn-junction.png>
 Package pdftex.def Info: ./img/pn-junction.png used on input line 14.
 (pdftex.def)             Requested size: 231.14937pt x 110.53468pt.
 
-<./img/pn-sperresjikt.png, id=202, 515.526pt x 289.08pt>
+<./img/pn-sperresjikt.png, id=206, 515.526pt x 289.08pt>
 File: ./img/pn-sperresjikt.png Graphic file (type png)
 
 <use ./img/pn-sperresjikt.png>
@@ -1911,8 +1913,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--26
 
  []
 
-[37 <./img/krystall-pn.png> <./img/pn-junction.png>]
-<./img/pn-forward.png, id=209, 579.766pt x 403.106pt>
+[38 <./img/krystall-pn.png> <./img/pn-junction.png>]
+<./img/pn-forward.png, id=212, 579.766pt x 403.106pt>
 File: ./img/pn-forward.png Graphic file (type png)
 
 <use ./img/pn-forward.png>
@@ -1923,7 +1925,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--38
 
  []
 
-<./img/pn-reverse.png, id=210, 579.766pt x 338.063pt>
+<./img/pn-reverse.png, id=213, 579.766pt x 338.063pt>
 File: ./img/pn-reverse.png Graphic file (type png)
 
 <use ./img/pn-reverse.png>
@@ -1934,8 +1936,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--12
 
  []
 
-[38 <./img/pn-sperresjikt.png> <./img/pn-forward.png>] (./tex/uke6/dioder.tex
-<./img/dioder.png, id=216, 1179.40625pt x 509.905pt>
+[39 <./img/pn-sperresjikt.png> <./img/pn-forward.png>] (./tex/uke6/dioder.tex
+<./img/dioder.png, id=219, 1179.40625pt x 509.905pt>
 File: ./img/dioder.png Graphic file (type png)
  <use ./img/dioder.png>
 Package pdftex.def Info: ./img/dioder.png used on input line 4.
@@ -1945,14 +1947,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--5
 
  []
 
-<./img/diodestrom.png, id=217, 305.14pt x 328.427pt>
+<./img/diodestrom.png, id=220, 305.14pt x 328.427pt>
 File: ./img/diodestrom.png Graphic file (type png)
 
 <use ./img/diodestrom.png>
 Package pdftex.def Info: ./img/diodestrom.png used on input line 10.
 (pdftex.def)             Requested size: 172.5pt x 185.67184pt.
 
-<./img/diodereell.png, id=218, 367.774pt x 320.397pt>
+<./img/diodereell.png, id=221, 367.774pt x 320.397pt>
 File: ./img/diodereell.png Graphic file (type png)
 
 <use ./img/diodereell.png>
@@ -1973,8 +1975,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--18
 
  []
 
-[39 <./img/pn-reverse.png> <./img/dioder.png (PNG copy)> <./img/diodestrom.png>
-] <./img/diodetemp.png, id=224, 305.14pt x 320.397pt>
+[40 <./img/pn-reverse.png> <./img/dioder.png (PNG copy)> <./img/diodestrom.png>
+] <./img/diodetemp.png, id=227, 305.14pt x 320.397pt>
 File: ./img/diodetemp.png Graphic file (type png)
 
 <use ./img/diodetemp.png>
@@ -1995,8 +1997,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--15
 
  []
 
-[40 <./img/diodereell.png> <./img/diodetemp.png>]) (./tex/uke6/typer.tex))
-(./tex/uke6/anvendelse.tex <./img/psu.png, id=230, 654.445pt x 28.908pt>
+[41 <./img/diodereell.png> <./img/diodetemp.png>]) (./tex/uke6/typer.tex))
+(./tex/uke6/anvendelse.tex <./img/psu.png, id=233, 654.445pt x 28.908pt>
 File: ./img/psu.png Graphic file (type png)
 
 <use ./img/psu.png>
@@ -2012,7 +2014,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--18
 
  []
 
-[41] <./img/halvbolge.png, id=234, 1284.8pt x 216.81pt>
+[42] <./img/halvbolge.png, id=237, 1284.8pt x 216.81pt>
 File: ./img/halvbolge.png Graphic file (type png)
 
 <use ./img/halvbolge.png>
@@ -2023,13 +2025,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--30
 
  []
 
-<./img/likeretter.png, id=235, 722.7pt x 233.673pt>
+<./img/likeretter.png, id=238, 722.7pt x 233.673pt>
 File: ./img/likeretter.png Graphic file (type png)
  <use ./img/likeretter.png>
 Package pdftex.def Info: ./img/likeretter.png used on input line 34.
 (pdftex.def)             Requested size: 345.0pt x 111.54848pt.
 
-<./img/likeretter-rev.png, id=236, 722.7pt x 233.673pt>
+<./img/likeretter-rev.png, id=239, 722.7pt x 233.673pt>
 File: ./img/likeretter-rev.png Graphic file (type png)
 
 <use ./img/likeretter-rev.png>
@@ -2055,22 +2057,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--22
 
  []
 
-[42 <./img/psu.png> <./img/halvbolge.png> <./img/likeretter.png>]
+[43 <./img/psu.png> <./img/halvbolge.png> <./img/likeretter.png>]
 (./tex/uke7/uke7.tex (./tex/uke7/oppbygning.tex (./tex/uke7/cbe.tex
-<./img/npn.png, id=243, 399.091pt x 550.055pt>
+<./img/npn.png, id=247, 399.091pt x 550.055pt>
 File: ./img/npn.png Graphic file (type png)
  <use ./img/npn.png>
 Package pdftex.def Info: ./img/npn.png used on input line 4.
 (pdftex.def)             Requested size: 172.5pt x 237.75282pt.
 
-<./img/npn-symbol.png, id=244, 1027.84pt x 1027.84pt>
+<./img/npn-symbol.png, id=248, 1027.84pt x 1027.84pt>
 File: ./img/npn-symbol.png Graphic file (type png)
 
 <use ./img/npn-symbol.png>
 Package pdftex.def Info: ./img/npn-symbol.png used on input line 7.
 (pdftex.def)             Requested size: 86.25pt x 86.24387pt.
 
-<./img/pnp-symbol.png, id=245, 1027.84pt x 1027.84pt>
+<./img/pnp-symbol.png, id=249, 1027.84pt x 1027.84pt>
 File: ./img/pnp-symbol.png Graphic file (type png)
 
 <use ./img/pnp-symbol.png>
@@ -2096,8 +2098,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--7
 
  []
 
-[43 <./img/likeretter-rev.png>]
-<./img/npn-real.png, id=251, 322.003pt x 101.178pt>
+[44 <./img/likeretter-rev.png>]
+<./img/npn-real.png, id=254, 322.003pt x 101.178pt>
 File: ./img/npn-real.png Graphic file (type png)
  <use ./img/npn-real.png>
 Package pdftex.def Info: ./img/npn-real.png used on input line 11.
@@ -2107,8 +2109,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--6
 
  []
 
-[44 <./img/npn.png> <./img/npn-symbol.png> <./img/pnp-symbol.png>]
-(./tex/uke7/modi.tex <./img/npn-bias.png, id=258, 385.44pt x 289.883pt>
+[45 <./img/npn.png> <./img/npn-symbol.png> <./img/pnp-symbol.png>]
+(./tex/uke7/modi.tex <./img/npn-bias.png, id=261, 385.44pt x 289.883pt>
 File: ./img/npn-bias.png Graphic file (type png)
 
 <use ./img/npn-bias.png>
@@ -2129,7 +2131,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--10
 
  []
 
-(./tex/uke7/cutoff.tex <./img/npn-cutoff.png, id=259, 471.361pt x 566.918pt>
+(./tex/uke7/cutoff.tex <./img/npn-cutoff.png, id=262, 471.361pt x 566.918pt>
 File: ./img/npn-cutoff.png Graphic file (type png)
 
 <use ./img/npn-cutoff.png>
@@ -2140,8 +2142,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--12
 
  []
 
-[45 <./img/npn-real.png> <./img/npn-bias.png>] (./tex/uke7/metning.tex
-<./img/npn-metning.png, id=265, 471.361pt x 599.038pt>
+[46 <./img/npn-real.png> <./img/npn-bias.png>] (./tex/uke7/metning.tex
+<./img/npn-metning.png, id=268, 471.361pt x 599.038pt>
 File: ./img/npn-metning.png Graphic file (type png)
 
 <use ./img/npn-metning.png>
@@ -2152,9 +2154,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--14
 
  []
 
-(./tex/uke7/aktiv.tex [46 <./img/npn-cutoff.png> <./img/npn-metning.png>])
+(./tex/uke7/aktiv.tex [47 <./img/npn-cutoff.png> <./img/npn-metning.png>])
 (./tex/uke7/kvadrant.tex
-<./img/modi-kvadrant.png, id=271, 456.104pt x 436.832pt>
+<./img/modi-kvadrant.png, id=274, 456.104pt x 436.832pt>
 File: ./img/modi-kvadrant.png Graphic file (type png)
 
 <use ./img/modi-kvadrant.png>
@@ -2175,7 +2177,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--18
 
  []
 
-(./tex/uke7/strom.tex <./img/npn-strom.png, id=272, 217.613pt x 395.076pt>
+(./tex/uke7/strom.tex <./img/npn-strom.png, id=275, 217.613pt x 395.076pt>
 File: ./img/npn-strom.png Graphic file (type png)
 
 <use ./img/npn-strom.png>
@@ -2191,8 +2193,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--11
 
  []
 
-[47 <./img/modi-kvadrant.png>]) (./tex/uke7/virkeomrade.tex
-<./img/npn-virkeomrade.png, id=277, 391.864pt x 264.187pt>
+[48 <./img/modi-kvadrant.png>]) (./tex/uke7/virkeomrade.tex
+<./img/npn-virkeomrade.png, id=280, 391.864pt x 264.187pt>
 File: ./img/npn-virkeomrade.png Graphic file (type png)
 
 <use ./img/npn-virkeomrade.png>
@@ -2208,13 +2210,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--24
 
  []
 
-[48 <./img/npn-strom.png>]
+[49 <./img/npn-strom.png>]
 Overfull \hbox (32.09137pt too wide) in paragraph at lines 24--24
 []\OT1/cmr/bx/n/14.4 Uke 8 - Tran-sis-tor-forsterkere og sm^^Wasignalmodeller 
  []
 
 (./tex/uke8/uke8.tex (./tex/uke8/ub.tex (./tex/uke8/lastlinje.tex
-<./img/lastlinje.png, id=282, 275.429pt x 228.855pt>
+<./img/lastlinje.png, id=286, 275.429pt x 228.855pt>
 File: ./img/lastlinje.png Graphic file (type png)
  <use ./img/lastlinje.png>
 Package pdftex.def Info: ./img/lastlinje.png used on input line 6.
@@ -2234,8 +2236,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--8
 
  []
 
-[49 <./img/npn-virkeomrade.png>])) (./tex/uke8/smasignal.tex
-<./img/smasignal.png, id=288, 436.832pt x 451.286pt>
+[50 <./img/npn-virkeomrade.png>])) (./tex/uke8/smasignal.tex
+<./img/smasignal.png, id=292, 436.832pt x 451.286pt>
 File: ./img/smasignal.png Graphic file (type png)
  <use ./img/smasignal.png>
 Package pdftex.def Info: ./img/smasignal.png used on input line 8.
@@ -2255,8 +2257,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--10
 
  []
 
-[50 <./img/lastlinje.png> <./img/smasignal.png>]
-<./img/steilhet.png, id=295, 229.658pt x 250.536pt>
+[51 <./img/lastlinje.png> <./img/smasignal.png>]
+<./img/steilhet.png, id=298, 229.658pt x 250.536pt>
 File: ./img/steilhet.png Graphic file (type png)
  <use ./img/steilhet.png>
 Package pdftex.def Info: ./img/steilhet.png used on input line 20.
@@ -2298,20 +2300,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--38
 
  []
 
-[51 <./img/steilhet.png>]) (./tex/uke8/forsterkning.tex
+[52 <./img/steilhet.png>]) (./tex/uke8/forsterkning.tex
 Overfull \hbox (1.05627pt too wide) in paragraph at lines 1--3
 \OT1/cmr/m/n/10 Det finnes fork-sjel-lige typer forsterkn-ing: str^^\mforsterkn
 ing, spen-nings-forsterkn-
  []
 
-)) (./tex/uke9/uke9.tex [52] (./tex/uke9/effektforsterker.tex [53])
+)) (./tex/uke9/uke9.tex [53] (./tex/uke9/effektforsterker.tex [54])
 (./tex/uke9/emitterfolger.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--6
 
  []
 
-) (./tex/uke9/forsterkere.tex [54] (./tex/uke9/klasseA.tex
-<./img/typeALastlinje.png, id=309, 245.718pt x 256.157pt>
+) (./tex/uke9/forsterkere.tex [55] (./tex/uke9/klasseA.tex
+<./img/typeALastlinje.png, id=313, 245.718pt x 256.157pt>
 File: ./img/typeALastlinje.png Graphic file (type png)
 
 <use ./img/typeALastlinje.png>
@@ -2327,22 +2329,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--22
 
  []
 
-[55 <./img/typeALastlinje.png>] (./tex/uke9/klasseB.tex
-<./img/typeBLastlinje.png, id=316, 245.718pt x 256.157pt>
+[56 <./img/typeALastlinje.png>] (./tex/uke9/klasseB.tex
+<./img/typeBLastlinje.png, id=319, 245.718pt x 256.157pt>
 File: ./img/typeBLastlinje.png Graphic file (type png)
 
 <use ./img/typeBLastlinje.png>
 Package pdftex.def Info: ./img/typeBLastlinje.png used on input line 3.
 (pdftex.def)             Requested size: 172.5pt x 179.83632pt.
 
-<./img/klasseBSignal.png, id=317, 497.86pt x 152.57pt>
+<./img/klasseBSignal.png, id=320, 497.86pt x 152.57pt>
 File: ./img/klasseBSignal.png Graphic file (type png)
 
 <use ./img/klasseBSignal.png>
 Package pdftex.def Info: ./img/klasseBSignal.png used on input line 9.
 (pdftex.def)             Requested size: 231.14937pt x 70.83722pt.
 
-<./img/crossover.png, id=318, 497.86pt x 152.57pt>
+<./img/crossover.png, id=321, 497.86pt x 152.57pt>
 File: ./img/crossover.png Graphic file (type png)
  <use ./img/crossover.png>
 Package pdftex.def Info: ./img/crossover.png used on input line 34.
@@ -2367,9 +2369,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--25
 
  []
 
-[56 <./img/typeBLastlinje.png> <./img/klasseBSignal.png>]
-(./tex/uke9/klasseAB.tex) [57 <./img/crossover.png>] (./tex/uke9/klasseC.tex)
-(./tex/uke9/klasseD.tex <./img/pwm.png, id=328, 1233.60875pt x 1027.84pt>
+[57 <./img/typeBLastlinje.png> <./img/klasseBSignal.png>]
+(./tex/uke9/klasseAB.tex) [58 <./img/crossover.png>] (./tex/uke9/klasseC.tex)
+(./tex/uke9/klasseD.tex <./img/pwm.png, id=331, 1233.60875pt x 1027.84pt>
 File: ./img/pwm.png Graphic file (type png)
 
 <use ./img/pwm.png>
@@ -2390,7 +2392,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--19
 
  []
 
-[58] <./img/Damp.png, id=332, 562.903pt x 193.523pt>
+[59] <./img/Damp.png, id=335, 562.903pt x 193.523pt>
 File: ./img/Damp.png Graphic file (type png)
  <use ./img/Damp.png>
 Package pdftex.def Info: ./img/Damp.png used on input line 26.
@@ -2405,7 +2407,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--12
 
  []
 
-[59 <./img/pwm.png>] (./tex/uke9/fet.tex
+[60 <./img/pwm.png>] (./tex/uke9/fet.tex
 Underfull \hbox (badness 10000) in paragraph at lines 19--21
 
  []
@@ -2415,7 +2417,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--26
 
  []
 
-(./tex/uke9/jfet.tex <./img/jfet.png, id=337, 1284.8pt x 895.345pt>
+(./tex/uke9/jfet.tex <./img/jfet.png, id=340, 1284.8pt x 895.345pt>
 File: ./img/jfet.png Graphic file (type png)
 
 <use ./img/jfet.png>
@@ -2431,14 +2433,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--36
 
  []
 
-[60 <./img/Damp.png>] (./tex/uke9/mosfet.tex
-<./img/dmosfet.png, id=342, 289.883pt x 449.68pt>
+[61 <./img/Damp.png>] (./tex/uke9/mosfet.tex
+<./img/dmosfet.png, id=346, 289.883pt x 449.68pt>
 File: ./img/dmosfet.png Graphic file (type png)
  <use ./img/dmosfet.png>
 Package pdftex.def Info: ./img/dmosfet.png used on input line 7.
 (pdftex.def)             Requested size: 172.5pt x 267.5938pt.
 
-<./img/dmosfet-depleted.png, id=343, 305.943pt x 478.588pt>
+<./img/dmosfet-depleted.png, id=347, 305.943pt x 478.588pt>
 File: ./img/dmosfet-depleted.png Graphic file (type png)
 
 <use ./img/dmosfet-depleted.png>
@@ -2464,8 +2466,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--15
 
  []
 
-[61 <./img/jfet.png>] [62 <./img/dmosfet.png>]
-<./img/emosfet.png, id=353, 289.883pt x 449.68pt>
+[62 <./img/jfet.png>] [63 <./img/dmosfet.png>]
+<./img/emosfet.png, id=356, 289.883pt x 449.68pt>
 File: ./img/emosfet.png Graphic file (type png)
  <use ./img/emosfet.png>
 Package pdftex.def Info: ./img/emosfet.png used on input line 23.
@@ -2475,8 +2477,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--39
 
  []
 
-[63 <./img/dmosfet-depleted.png>] (./tex/uke9/cmos.tex
-<./img/cmos-inverter.png, id=358, 1027.84pt x 1027.84pt>
+[64 <./img/dmosfet-depleted.png>] (./tex/uke9/cmos.tex
+<./img/cmos-inverter.png, id=361, 1027.84pt x 1027.84pt>
 File: ./img/cmos-inverter.png Graphic file (type png)
 
 <use ./img/cmos-inverter.png>
@@ -2487,8 +2489,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--15
 
  []
 
-(./tex/uke9/gates.tex [64 <./img/emosfet.png> <./img/cmos-inverter.png>]
-<./img/notandor.png, id=364, 458.513pt x 104.39pt>
+(./tex/uke9/gates.tex [65 <./img/emosfet.png> <./img/cmos-inverter.png>]
+<./img/notandor.png, id=367, 458.513pt x 104.39pt>
 File: ./img/notandor.png Graphic file (type png)
  <use ./img/notandor.png>
 Package pdftex.def Info: ./img/notandor.png used on input line 13.
@@ -2498,7 +2500,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--22
 
  []
 
-<./img/gatesymbols.png, id=365, 602.25pt x 722.7pt>
+<./img/gatesymbols.png, id=368, 602.25pt x 722.7pt>
 File: ./img/gatesymbols.png Graphic file (type png)
 
 <use ./img/gatesymbols.png>
@@ -2509,7 +2511,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--34
 
  []
 
-<./img/truthtable.png, id=366, 426.09187pt x 97.11281pt>
+<./img/truthtable.png, id=369, 426.09187pt x 97.11281pt>
 File: ./img/truthtable.png Graphic file (type png)
 
 <use ./img/truthtable.png>
@@ -2525,7 +2527,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--28
 
  []
 
-[65 <./img/notandor.png> <./img/gatesymbols.png>] (./tex/uke10/uke10.tex
+[66 <./img/notandor.png> <./img/gatesymbols.png>] (./tex/uke10/uke10.tex
 (./tex/uke10/kretsfamilier.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--8
 
@@ -2572,8 +2574,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--5
 
  []
 
-[66 <./img/truthtable.png>] (./tex/uke10/nmos.tex
-<./img/nmos-resistor.png, id=376, 209.78375pt x 240.9pt>
+[67 <./img/truthtable.png>] (./tex/uke10/nmos.tex
+<./img/nmos-resistor.png, id=380, 209.78375pt x 240.9pt>
 File: ./img/nmos-resistor.png Graphic file (type png)
 
 <use ./img/nmos-resistor.png>
@@ -2589,19 +2591,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--9
 
  []
 
-<./img/nmos-nand.png, id=377, 684.5575pt x 1026.83624pt>
+<./img/nmos-nand.png, id=381, 684.5575pt x 1026.83624pt>
 File: ./img/nmos-nand.png Graphic file (type png)
 
 <use ./img/nmos-nand.png>
 Package pdftex.def Info: ./img/nmos-nand.png used on input line 17.
 (pdftex.def)             Requested size: 172.5pt x 258.7453pt.
- [67 <./img/nmos-resistor.png>]
-<./img/nmos-nor.png, id=383, 237.2865pt x 271.0125pt>
+ [68 <./img/nmos-resistor.png>]
+<./img/nmos-nor.png, id=386, 237.2865pt x 271.0125pt>
 File: ./img/nmos-nor.png Graphic file (type png)
  <use ./img/nmos-nor.png>
 Package pdftex.def Info: ./img/nmos-nor.png used on input line 28.
 (pdftex.def)             Requested size: 172.5pt x 197.01868pt.
-) [68 <./img/nmos-nand.png> <./img/nmos-nor.png>] (./tex/uke10/dtl.tex)
+) [69 <./img/nmos-nand.png> <./img/nmos-nor.png>] (./tex/uke10/dtl.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 1--11
 
  []
@@ -2646,8 +2648,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--14
 
  []
 
-[69] (./tex/uke10/kombinatorisk.tex) (./tex/uke10/addisjon.tex)
-(./tex/uke10/adders.tex <./img/half-adder.png, id=391, 1284.8pt x 713.66624pt>
+[70] (./tex/uke10/kombinatorisk.tex) (./tex/uke10/addisjon.tex)
+(./tex/uke10/adders.tex <./img/half-adder.png, id=394, 1284.8pt x 713.66624pt>
 File: ./img/half-adder.png Graphic file (type png)
 
 <use ./img/half-adder.png>
@@ -2668,7 +2670,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--25
 
  []
 
-[70] <./img/full-adder.png, id=395, 308.352pt x 128.48pt>
+[71] <./img/full-adder.png, id=398, 308.352pt x 128.48pt>
 File: ./img/full-adder.png Graphic file (type png)
 
 <use ./img/full-adder.png>
@@ -2689,13 +2691,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--47
 
  []
 
-<./img/1bit-adder.png, id=396, 1194.4625pt x 1027.84pt>
+<./img/1bit-adder.png, id=399, 1194.4625pt x 1027.84pt>
 File: ./img/1bit-adder.png Graphic file (type png)
 
 <use ./img/1bit-adder.png>
 Package pdftex.def Info: ./img/1bit-adder.png used on input line 54.
 (pdftex.def)             Requested size: 172.5pt x 148.42917pt.
- <./img/4bit-adder.png, id=397, 1284.8pt x 513.92pt>
+ <./img/4bit-adder.png, id=400, 1284.8pt x 513.92pt>
 File: ./img/4bit-adder.png Graphic file (type png)
 
 <use ./img/4bit-adder.png>
@@ -2721,79 +2723,79 @@ Underfull \hbox (badness 10000) in paragraph at lines 50--23
 
  []
 
-[71 <./img/half-adder.png> <./img/full-adder.png>] (./tex/uke10/sekvensiell.tex
-) (./tex/uke10/latches.tex <./img/sr-latch.png, id=403, 431.211pt x 131.692pt>
+[72 <./img/half-adder.png> <./img/full-adder.png>] (./tex/uke10/sekvensiell.tex
+) (./tex/uke10/latches.tex <./img/sr-latch.png, id=406, 431.211pt x 131.692pt>
 File: ./img/sr-latch.png Graphic file (type png)
 
 <use ./img/sr-latch.png>
 Package pdftex.def Info: ./img/sr-latch.png used on input line 12.
 (pdftex.def)             Requested size: 172.5pt x 52.68188pt.
- [72 <./img/1bit-adder.png> <./img/4bit-adder.png>]
-<./img/not-sr.png, id=409, 1284.8pt x 803.0pt>
+ [73 <./img/1bit-adder.png> <./img/4bit-adder.png>]
+<./img/not-sr.png, id=413, 1284.8pt x 803.0pt>
 File: ./img/not-sr.png Graphic file (type png)
  <use ./img/not-sr.png>
 Package pdftex.def Info: ./img/not-sr.png used on input line 25.
 (pdftex.def)             Requested size: 172.5pt x 107.81218pt.
 
-<./img/klokket-sr.png, id=410, 1284.8pt x 621.32124pt>
+<./img/klokket-sr.png, id=414, 1284.8pt x 621.32124pt>
 File: ./img/klokket-sr.png Graphic file (type png)
 
 <use ./img/klokket-sr.png>
 Package pdftex.def Info: ./img/klokket-sr.png used on input line 51.
 (pdftex.def)             Requested size: 231.14937pt x 111.77611pt.
- [73 <./img/sr-latch.png> <./img/not-sr.png>]
-<./img/klokket-dlatch.png, id=417, 1284.8pt x 642.4pt>
+ [74 <./img/sr-latch.png> <./img/not-sr.png>]
+<./img/klokket-dlatch.png, id=420, 1284.8pt x 642.4pt>
 File: ./img/klokket-dlatch.png Graphic file (type png)
 
 <use ./img/klokket-dlatch.png>
 Package pdftex.def Info: ./img/klokket-dlatch.png used on input line 62.
 (pdftex.def)             Requested size: 231.14937pt x 115.56819pt.
 ) (./tex/uke10/koder.tex
-<./img/2to4.png, id=418, 290.686pt x 130.086pt>
+<./img/2to4.png, id=421, 290.686pt x 130.086pt>
 File: ./img/2to4.png Graphic file (type png)
  <use ./img/2to4.png>
 Package pdftex.def Info: ./img/2to4.png used on input line 8.
 (pdftex.def)             Requested size: 172.5pt x 77.19865pt.
- [74 <./img/klokket-sr.png> <./img/klokket-dlatch.png> <./img/2to4.png>]
+ [75 <./img/klokket-sr.png> <./img/klokket-dlatch.png> <./img/2to4.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 29--37
 
  []
 
-<./img/kp-enkoder.png, id=425, 199.947pt x 382.228pt>
+<./img/kp-enkoder.png, id=428, 199.947pt x 382.228pt>
 File: ./img/kp-enkoder.png Graphic file (type png)
 
 <use ./img/kp-enkoder.png>
 Package pdftex.def Info: ./img/kp-enkoder.png used on input line 41.
 (pdftex.def)             Requested size: 172.5pt x 329.77115pt.
-) (./tex/uke10/rom.tex [75 <./img/kp-enkoder.png>]
-<./img/7-segment.png, id=430, 359.744pt x 289.883pt>
+) (./tex/uke10/rom.tex [76 <./img/kp-enkoder.png>]
+<./img/7-segment.png, id=433, 359.744pt x 289.883pt>
 File: ./img/7-segment.png Graphic file (type png)
  <use ./img/7-segment.png>
 Package pdftex.def Info: ./img/7-segment.png used on input line 12.
 (pdftex.def)             Requested size: 172.5pt x 139.0007pt.
 
-<./img/7-segment-rom.png, id=431, 818.257pt x 289.883pt>
+<./img/7-segment-rom.png, id=434, 818.257pt x 289.883pt>
 File: ./img/7-segment-rom.png Graphic file (type png)
 
 <use ./img/7-segment-rom.png>
 Package pdftex.def Info: ./img/7-segment-rom.png used on input line 20.
 (pdftex.def)             Requested size: 345.0pt x 122.22331pt.
-)) [76 <./img/7-segment.png> <./img/7-segment-rom.png>] (./tex/uke11/uke11.tex 
+)) [77 <./img/7-segment.png> <./img/7-segment-rom.png>] (./tex/uke11/uke11.tex 
 (./tex/uke11/flipflop.tex) (./tex/uke11/jk.tex
-<./img/jk.png, id=437, 528.374pt x 257.763pt>
+<./img/jk.png, id=440, 528.374pt x 257.763pt>
 File: ./img/jk.png Graphic file (type png)
  <use ./img/jk.png>
 Package pdftex.def Info: ./img/jk.png used on input line 7.
 (pdftex.def)             Requested size: 345.0pt x 168.31093pt.
-) [77 <./img/jk.png>] (./tex/uke11/master-slave.tex
-<./img/master-slave.png, id=442, 608.674pt x 289.883pt>
+) [78 <./img/jk.png>] (./tex/uke11/master-slave.tex
+<./img/master-slave.png, id=445, 608.674pt x 289.883pt>
 File: ./img/master-slave.png Graphic file (type png)
 
 <use ./img/master-slave.png>
 Package pdftex.def Info: ./img/master-slave.png used on input line 8.
 (pdftex.def)             Requested size: 345.0pt x 164.31055pt.
 ) (./tex/uke11/bitellere.tex
-<./img/biteller.png, id=443, 686.565pt x 132.495pt>
+<./img/biteller.png, id=446, 686.565pt x 132.495pt>
 File: ./img/biteller.png Graphic file (type png)
  <use ./img/biteller.png>
 Package pdftex.def Info: ./img/biteller.png used on input line 11.
@@ -2803,8 +2805,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--12
 
  []
 
-[78 <./img/master-slave.png>]
-<./img/biteller-output.png, id=448, 705.837pt x 301.928pt>
+[79 <./img/master-slave.png>]
+<./img/biteller-output.png, id=452, 705.837pt x 301.928pt>
 File: ./img/biteller-output.png Graphic file (type png)
 
 <use ./img/biteller-output.png>
@@ -2816,7 +2818,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--24
  []
 
 ) (./tex/uke11/dektellere.tex
-<./img/dekteller.png, id=449, 770.077pt x 177.463pt>
+<./img/dekteller.png, id=453, 770.077pt x 177.463pt>
 File: ./img/dekteller.png Graphic file (type png)
  <use ./img/dekteller.png>
 Package pdftex.def Info: ./img/dekteller.png used on input line 10.
@@ -2826,8 +2828,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--11
 
  []
 
-) [79 <./img/biteller.png> <./img/biteller-output.png>]
-(./tex/uke11/registere.tex <./img/register.png, id=456, 533.995pt x 208.78pt>
+) [80 <./img/biteller.png> <./img/biteller-output.png>]
+(./tex/uke11/registere.tex <./img/register.png, id=459, 533.995pt x 208.78pt>
 File: ./img/register.png Graphic file (type png)
 
 <use ./img/register.png>
@@ -2843,44 +2845,44 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--5
 
  []
 
-[80 <./img/dekteller.png> <./img/register.png>]
-<./img/opamp-symbol.png, id=462, 425.59pt x 342.881pt>
+[81 <./img/dekteller.png> <./img/register.png>]
+<./img/opamp-symbol.png, id=465, 425.59pt x 342.881pt>
 File: ./img/opamp-symbol.png Graphic file (type png)
 
 <use ./img/opamp-symbol.png>
 Package pdftex.def Info: ./img/opamp-symbol.png used on input line 16.
 (pdftex.def)             Requested size: 172.5pt x 138.9759pt.
- <./img/lm741.png, id=463, 1284.8pt x 621.32124pt>
+ <./img/lm741.png, id=466, 1284.8pt x 621.32124pt>
 File: ./img/lm741.png Graphic file (type png)
 
 <use ./img/lm741.png>
 Package pdftex.def Info: ./img/lm741.png used on input line 26.
 (pdftex.def)             Requested size: 172.5pt x 83.41968pt.
-) (./tex/uke11/treparam.tex [81 <./img/opamp-symbol.png> <./img/lm741.png>] <./
-img/treparam.png, id=469, 738.76pt x 355.729pt>
+) (./tex/uke11/treparam.tex [82 <./img/opamp-symbol.png> <./img/lm741.png>] <./
+img/treparam.png, id=472, 738.76pt x 355.729pt>
 File: ./img/treparam.png Graphic file (type png)
 
 <use ./img/treparam.png>
 Package pdftex.def Info: ./img/treparam.png used on input line 10.
 (pdftex.def)             Requested size: 345.0pt x 166.12334pt.
 ) (./tex/uke11/invert.tex
-<./img/opamp-invert.png, id=470, 1284.8pt x 749.80125pt>
+<./img/opamp-invert.png, id=473, 1284.8pt x 749.80125pt>
 File: ./img/opamp-invert.png Graphic file (type png)
 
 <use ./img/opamp-invert.png>
 Package pdftex.def Info: ./img/opamp-invert.png used on input line 6.
 (pdftex.def)             Requested size: 345.0pt x 201.33926pt.
- [82 <./img/treparam.png> <./img/opamp-invert.png>])) (./tex/paskeferie.tex) (.
+ [83 <./img/treparam.png> <./img/opamp-invert.png>])) (./tex/paskeferie.tex) (.
 /tex/paskeferie.tex) (./tex/uke14/uke14.tex
 (./tex/uke14/virtnull.tex) (./tex/uke14/ikkeinv.tex
-<./img/ikkeinv.png, id=476, 346.896pt x 236.082pt>
+<./img/ikkeinv.png, id=479, 346.896pt x 236.082pt>
 File: ./img/ikkeinv.png Graphic file (type png)
  <use ./img/ikkeinv.png>
 Package pdftex.def Info: ./img/ikkeinv.png used on input line 7.
 (pdftex.def)             Requested size: 172.5pt x 117.39587pt.
 
-[83]) (./tex/uke14/integrator.tex
-<./img/integrator.png, id=480, 403.909pt x 291.489pt>
+[84]) (./tex/uke14/integrator.tex
+<./img/integrator.png, id=483, 403.909pt x 291.489pt>
 File: ./img/integrator.png Graphic file (type png)
 
 <use ./img/integrator.png>
@@ -2891,20 +2893,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--14
 
  []
 
-[84 <./img/ikkeinv.png> <./img/integrator.png>]
+[85 <./img/ikkeinv.png> <./img/integrator.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 19--20
 
  []
 
 ) (./tex/uke14/addisjon.tex
-<./img/addisjon.png, id=486, 835.12pt x 628.3475pt>
+<./img/addisjon.png, id=490, 835.12pt x 628.3475pt>
 File: ./img/addisjon.png Graphic file (type png)
  <use ./img/addisjon.png>
 Package pdftex.def Info: ./img/addisjon.png used on input line 10.
 (pdftex.def)             Requested size: 231.14937pt x 173.91307pt.
 
-[85 <./img/addisjon.png>]) (./tex/uke14/diff.tex
-<./img/diffamp.png, id=492, 1284.8pt x 856.19875pt>
+[86 <./img/addisjon.png>]) (./tex/uke14/diff.tex
+<./img/diffamp.png, id=495, 1284.8pt x 856.19875pt>
 File: ./img/diffamp.png Graphic file (type png)
  <use ./img/diffamp.png>
 Package pdftex.def Info: ./img/diffamp.png used on input line 6.
@@ -2914,14 +2916,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--12
 
  []
 
-) (./tex/uke14/eksp.tex <./img/expamp.png, id=493, 1284.8pt x 642.4pt>
+) (./tex/uke14/eksp.tex <./img/expamp.png, id=496, 1284.8pt x 642.4pt>
 File: ./img/expamp.png Graphic file (type png)
 
 <use ./img/expamp.png>
 Package pdftex.def Info: ./img/expamp.png used on input line 4.
 (pdftex.def)             Requested size: 172.5pt x 86.24974pt.
- [86 <./img/diffamp.png>]) (./tex/uke14/loga.tex
-<./img/logamp.png, id=498, 1284.8pt x 642.4pt>
+ [87 <./img/diffamp.png>]) (./tex/uke14/loga.tex
+<./img/logamp.png, id=501, 1284.8pt x 642.4pt>
 File: ./img/logamp.png Graphic file (type png)
  <use ./img/logamp.png>
 Package pdftex.def Info: ./img/logamp.png used on input line 7.
@@ -2932,13 +2934,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--6
 
  []
 
-<./img/frekfor.png, id=499, 728.321pt x 678.535pt>
+<./img/frekfor.png, id=502, 728.321pt x 678.535pt>
 File: ./img/frekfor.png Graphic file (type png)
  <use ./img/frekfor.png>
 Package pdftex.def Info: ./img/frekfor.png used on input line 10.
 (pdftex.def)             Requested size: 231.14937pt x 215.34445pt.
 
-[87 <./img/expamp.png> <./img/logamp.png>]
+[88 <./img/expamp.png> <./img/logamp.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 13--20
 
  []
@@ -2953,27 +2955,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--28
 
  []
 
-)) (./tex/uke15/uke15.tex (./tex/uke15/slewrate.tex [88 <./img/frekfor.png>])
+)) (./tex/uke15/uke15.tex (./tex/uke15/slewrate.tex [89 <./img/frekfor.png>])
 (./tex/uke15/cmrr.tex) (./tex/uke15/aktiv.tex) (./tex/uke15/param.tex
 Overfull \hbox (0.22284pt too wide) in paragraph at lines 1--5
 \OT1/cmr/m/n/10 Ved fil-tre som b^^Wandpass og b^^Wandstopp er b^^Wandbredden g
 itt fra grense-frekvensene.
  []
 
-[89]) (./tex/uke15/typer.tex
-<./img/filtertyper.png, id=512, 342.881pt x 220.825pt>
+[90]) (./tex/uke15/typer.tex
+<./img/filtertyper.png, id=515, 342.881pt x 220.825pt>
 File: ./img/filtertyper.png Graphic file (type png)
 
 <use ./img/filtertyper.png>
 Package pdftex.def Info: ./img/filtertyper.png used on input line 8.
 (pdftex.def)             Requested size: 231.14937pt x 148.86847pt.
- [90 <./img/filtertyper.png>]) (./tex/uke15/lp1.tex
+ [91 <./img/filtertyper.png>]) (./tex/uke15/lp1.tex
 Underfull \hbox (badness 10000) in paragraph at lines 34--35
 
  []
 
-) [91] (./tex/uke15/lp2.tex) [92] (./tex/uke15/hp1.tex) (./tex/uke15/hp2.tex)
-[93] (./tex/uke15/bp.tex <./img/bp.png, id=527, 226.446pt x 150.161pt>
+) [92] (./tex/uke15/lp2.tex) [93] (./tex/uke15/hp1.tex) (./tex/uke15/hp2.tex)
+[94] (./tex/uke15/bp.tex <./img/bp.png, id=530, 226.446pt x 150.161pt>
 File: ./img/bp.png Graphic file (type png)
 
 <use ./img/bp.png>
@@ -2989,30 +2991,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--25
 
  []
 
-[94 <./img/bp.png>] (./tex/uke15/notch.tex
-<./img/notch-kobling.png, id=532, 241.703pt x 65.846pt>
+[95 <./img/bp.png>] (./tex/uke15/notch.tex
+<./img/notch-kobling.png, id=535, 241.703pt x 65.846pt>
 File: ./img/notch-kobling.png Graphic file (type png)
 
 <use ./img/notch-kobling.png>
 Package pdftex.def Info: ./img/notch-kobling.png used on input line 8.
 (pdftex.def)             Requested size: 231.14937pt x 62.97429pt.
 
-<./img/notch-frekvens.png, id=533, 313.17pt x 157.388pt>
+<./img/notch-frekvens.png, id=536, 313.17pt x 157.388pt>
 File: ./img/notch-frekvens.png Graphic file (type png)
 
 <use ./img/notch-frekvens.png>
 Package pdftex.def Info: ./img/notch-frekvens.png used on input line 16.
 (pdftex.def)             Requested size: 231.14937pt x 116.16989pt.
-) (./tex/uke15/feedback.tex [95 <./img/notch-kobling.png> <./img/notch-frekvens
+) (./tex/uke15/feedback.tex [96 <./img/notch-kobling.png> <./img/notch-frekvens
 .png>]
-<./img/negfeedback.png, id=539, 291.489pt x 130.889pt>
+<./img/negfeedback.png, id=542, 291.489pt x 130.889pt>
 File: ./img/negfeedback.png Graphic file (type png)
 
 <use ./img/negfeedback.png>
 Package pdftex.def Info: ./img/negfeedback.png used on input line 8.
 (pdftex.def)             Requested size: 231.14937pt x 103.79463pt.
 )) (./tex/uke16/uke16.tex (./tex/uke16/feedback.tex
-<./img/fadingsignal.png, id=540, 418.363pt x 128.48pt>
+<./img/fadingsignal.png, id=543, 418.363pt x 128.48pt>
 File: ./img/fadingsignal.png Graphic file (type png)
 
 <use ./img/fadingsignal.png>
@@ -3023,8 +3025,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--11
 
  []
 
-[96 <./img/negfeedback.png>]
-<./img/gainingsignal.png, id=545, 418.363pt x 130.086pt>
+[97 <./img/negfeedback.png>]
+<./img/gainingsignal.png, id=549, 418.363pt x 130.086pt>
 File: ./img/gainingsignal.png Graphic file (type png)
 
 <use ./img/gainingsignal.png>
@@ -3035,7 +3037,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--18
 
  []
 
-<./img/stabiltsignal.png, id=546, 418.363pt x 128.48pt>
+<./img/stabiltsignal.png, id=550, 418.363pt x 128.48pt>
 File: ./img/stabiltsignal.png Graphic file (type png)
 
 <use ./img/stabiltsignal.png>
@@ -3046,21 +3048,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--25
 
  []
 
-) (./tex/uke16/miller.tex <./img/miller.png, id=547, 302.731pt x 221.628pt>
+) (./tex/uke16/miller.tex <./img/miller.png, id=551, 302.731pt x 221.628pt>
 File: ./img/miller.png Graphic file (type png)
 
 <use ./img/miller.png>
 Package pdftex.def Info: ./img/miller.png used on input line 10.
 (pdftex.def)             Requested size: 172.5pt x 126.28868pt.
- [97 <./img/fadingsignal.png> <./img/gainingsignal.png> <./img/stabiltsignal.pn
+ [98 <./img/fadingsignal.png> <./img/gainingsignal.png> <./img/stabiltsignal.pn
 g>]
-<./img/millercutoff.png, id=555, 245.718pt x 179.069pt>
+<./img/millercutoff.png, id=558, 245.718pt x 179.069pt>
 File: ./img/millercutoff.png Graphic file (type png)
 
 <use ./img/millercutoff.png>
 Package pdftex.def Info: ./img/millercutoff.png used on input line 27.
 (pdftex.def)             Requested size: 172.5pt x 125.71631pt.
-) (./tex/uke16/oscillator.tex) [98 <./img/miller.png> <./img/millercutoff.png>]
+) (./tex/uke16/oscillator.tex) [99 <./img/miller.png> <./img/millercutoff.png>]
  (./tex/uke16/faseskift.tex
 Overfull \hbox (3.60254pt too wide) in paragraph at lines 1--5
 \OT1/cmr/m/n/10 Faseskift-oscillatoren pro-duserer en si-nusb^^\lge. Fordi fase
@@ -3077,13 +3079,13 @@ Overfull \hbox (14.99892pt too wide) in paragraph at lines 4--43
 [][] 
  []
 
-[99] <./img/wien.png, id=564, 244.915pt x 203.962pt>
+[100] <./img/wien.png, id=568, 244.915pt x 203.962pt>
 File: ./img/wien.png Graphic file (type png)
  <use ./img/wien.png>
 Package pdftex.def Info: ./img/wien.png used on input line 53.
 (pdftex.def)             Requested size: 172.5pt x 143.6594pt.
 
-[100 <./img/wien.png>] <./img/wienclipp.png, id=570, 282.656pt x 149.358pt>
+[101 <./img/wien.png>] <./img/wienclipp.png, id=573, 282.656pt x 149.358pt>
 File: ./img/wienclipp.png Graphic file (type png)
 
 <use ./img/wienclipp.png>
@@ -3101,25 +3103,58 @@ Missing character: There is no 5 in font nullfont!
 Missing character: There is no = in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no 6 in font nullfont!
-[101 <./img/wienclipp.png>]
-<./img/krystallresonans.png, id=575, 282.656pt x 260.975pt>
+[102 <./img/wienclipp.png>]
+<./img/krystallresonans.png, id=578, 282.656pt x 260.975pt>
 File: ./img/krystallresonans.png Graphic file (type png)
 
 <use ./img/krystallresonans.png>
 Package pdftex.def Info: ./img/krystallresonans.png used on input line 41.
 (pdftex.def)             Requested size: 172.5pt x 159.27415pt.
-)) [102 <./img/krystallresonans.png>] [103]
-(./fys1210.aux (./tex/uke5/tidskonstant.aux))
+)) (./tex/uke17/uke17.tex
+(./tex/uke17/komparator.tex [103 <./img/krystallresonans.png>]
+<./img/komparator.png, id=584, 408.727pt x 240.9pt>
+File: ./img/komparator.png Graphic file (type png)
+ <use ./img/komparator.png>
+Package pdftex.def Info: ./img/komparator.png used on input line 16.
+(pdftex.def)             Requested size: 231.14937pt x 136.2374pt.
+) (./tex/uke17/shmitt
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+[]\OT1/cmr/m/n/10 Hysterese:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+\OT1/cmr/m/n/10 Logikken er
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+\OT1/cmr/m/n/10 sekven-siell.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+\OT1/cmr/m/n/10 p^^Wa tidligere
+ []
+
+<./img/shmitt.png, id=585, 256.96pt x 146.146pt>
+File: ./img/shmitt.png Graphic file (type png)
+ <use ./img/shmitt.png>
+Package pdftex.def Info: ./img/shmitt.png used on input line 10.
+(pdftex.def)             Requested size: 231.14937pt x 131.46773pt.
+)
+[104 <./img/komparator.png> <./img/shmitt.png>]) [105] (./fys1210.aux
+(./tex/uke5/tidskonstant.aux))
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 3.25002pt have occurred.
 
  ) 
 Here is how much of TeX's memory you used:
- 32175 strings out of 493105
- 738466 string characters out of 6137072
- 799887 words of memory out of 5000000
- 34764 multiletter control sequences out of 15000+600000
+ 32193 strings out of 493105
+ 738819 string characters out of 6137072
+ 799499 words of memory out of 5000000
+ 34772 multiletter control sequences out of 15000+600000
  14642 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,12n,58p,10406b,843s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3140,10 +3175,10 @@ f-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf/fonts/type1/public/cm-supe
 r/sfrm1000.pfb>
-Output written on fys1210.pdf (103 pages, 4257767 bytes).
+Output written on fys1210.pdf (105 pages, 4293356 bytes).
 PDF statistics:
- 642 PDF objects out of 1000 (max. 8388607)
- 285 compressed objects within 3 object streams
+ 652 PDF objects out of 1000 (max. 8388607)
+ 289 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 608 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 618 words of extra memory for PDF output out of 10000 (max. 10000000)
 
