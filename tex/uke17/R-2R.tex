@@ -1,0 +1,27 @@
+Med et trappesystem av motstander kan man konvertere et binært digitalt input
+til et analogt output.
+
+Q1 er den minst signifikante bit (LSB).
+
+\begin{circuitikz} \draw
+(0,2) node[ground] {}
+      to[R, l=$2R$] (2,2)
+      to[R, l=$R$] (4,2)
+      to[R, l=$R$] (6,2)
+      to[R, l=$R$] (8,2)
+      -- (8,4)
+      to[short, l=$V_{out}$, -o] (10,4)
+(2,0) node[anchor=north] {Q1}
+      to[R, l=$2R$, -*] (2,2)
+(4,0) node[anchor=north] {Q2}
+      to[R, l=$2R$, -*] (4,2)
+(6,0) node[anchor=north] {Q3}
+      to[R, l=$2R$, -*] (6,2)
+(8,0) node[anchor=north] {Q4}
+      to[R, l=$2R$, -*] (8,2)
+      to[R, l=$2R$] (10,2)
+      node[ground] {}
+      ;
+\end{circuitikz}
+
+$$V_{ut} = \frac{V_1}{16} + \frac{V_2}{8} + \frac{V_3}{4} + \frac{V_4}{2}$$

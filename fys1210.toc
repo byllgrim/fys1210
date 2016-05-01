@@ -266,12 +266,13 @@
 \contentsline {subsubsection}{\numberline {17.2.2}OpAmp Addisjon}{105}
 \contentsline {subsection}{\numberline {17.3}Analog/Digital}{105}
 \contentsline {subsubsection}{\numberline {17.3.1}Samplingsteorem}{105}
-\contentsline {subsubsection}{\numberline {17.3.2}Sample-Hold}{105}
-\contentsline {subsubsection}{\numberline {17.3.3}Counting A/D}{105}
-\contentsline {subsubsection}{\numberline {17.3.4}Successive Approximation A/D}{105}
-\contentsline {section}{\numberline {18}Uke 18}{105}
-\contentsline {section}{\numberline {19}Uke 19}{105}
-\contentsline {section}{\numberline {20}Uke 20}{105}
-\contentsline {section}{\numberline {21}Uke 21}{105}
-\contentsline {section}{\numberline {22}Uke 22}{105}
-\contentsline {section}{\numberline {23}Uke 23}{105}
+\contentsline {subsubsection}{\numberline {17.3.2}Sample-Hold}{106}
+\contentsline {subsubsection}{\numberline {17.3.3}Counting A/D}{106}
+\contentsline {subsubsection}{\numberline {17.3.4}Successive Approximation A/D}{107}
+\contentsline {subsubsection}{\numberline {17.3.5}Flash konverter}{108}
+\contentsline {section}{\numberline {18}Uke 18}{109}
+\contentsline {section}{\numberline {19}Uke 19}{109}
+\contentsline {section}{\numberline {20}Uke 20}{109}
+\contentsline {section}{\numberline {21}Uke 21}{109}
+\contentsline {section}{\numberline {22}Uke 22}{109}
+\contentsline {section}{\numberline {23}Uke 23}{109}

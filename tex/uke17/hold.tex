@@ -1,0 +1,45 @@
+For å kunne lese av en spenningsverdi når vi sampler, må vi kunne låse fast
+signalet så det ikke endrer seg under avlesning.
+Da bruker man en sample-hold.
+
+\begin{circuitikz} \draw
+%OpAmp 1
+(2,2) node[op amp, yscale=-1] (opamp) {}
+(opamp.+) node[left] {Vinn}
+(opamp.-) node[left] {}
+(opamp.out) node[right] {}
+(opamp.out) -- (3.5,2)
+      -- (3.5,0.5)
+      -- (0,0.5)
+      -- (0,1.5)
+      -- (opamp.-)
+
+%Fet
+(5,2) node[pjfet, rotate=90] (pjfet) {}
+(pjfet.G) node[anchor=north] {}
+(pjfet.D) node[anchor=west] {}
+(pjfet.S) node[anchor=east] {}
+      (3.5,2) -- (pjfet.S)
+      (pjfet.G) -- (4.75,0)
+      -- (4,0)
+      node[anchor=north] {Gate kontroll}
+
+%Capasitor
+(pjfet.D) -- (7,2)
+      to[C] (7,0)
+      node[ground] {}
+
+%OpAmp 2
+(10,1.5) node[op amp, yscale=-1] (opamp) {}
+(opamp.+) node[] {}
+(opamp.-) node[] {}
+(opamp.out) node[] {}
+(opamp.out) -- (11.5,1.5)
+      -- (11.5,0)
+      -- (8,0)
+      -- (8,1)
+      -- (opamp.-)
+(7,2) -- (opamp.+)
+(opamp.out) to[short, -o, l=$V_{out}$] (12.5,1.5)
+      ;
+\end{circuitikz}

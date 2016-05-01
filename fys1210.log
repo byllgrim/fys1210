@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.1.22)  1 MAY 2016 09:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.1.22)  1 MAY 2016 14:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3143,7 +3143,93 @@ File: ./img/shmitt.png Graphic file (type png)
 Package pdftex.def Info: ./img/shmitt.png used on input line 10.
 (pdftex.def)             Requested size: 231.14937pt x 131.46773pt.
 )
-[104 <./img/komparator.png> <./img/shmitt.png>]) [105] (./fys1210.aux
+(./tex/uke17/R-2R.tex [104 <./img/komparator.png> <./img/shmitt.png>])
+(./tex/uke17/sampling.tex <./img/samplerate.png, id=591, 452.089pt x 87.527pt>
+File: ./img/samplerate.png Graphic file (type png)
+
+<use ./img/samplerate.png>
+Package pdftex.def Info: ./img/samplerate.png used on input line 23.
+(pdftex.def)             Requested size: 345.0pt x 66.79765pt.
+) [105] (./tex/uke17/hold.tex)
+Overfull \hbox (32.66034pt too wide) in paragraph at lines 45--18
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--18
+
+ []
+
+(./tex/uke17/counting.tex
+Overfull \hbox (15.55371pt too wide) in paragraph at lines 1--4
+\OT1/cmr/m/n/10 En count-ing ADC bruker en bin^^Zrteller for ^^Wa \OT1/cmr/m/it
+/10 'n^^Zrme seg' \OT1/cmr/m/n/10 rik-tig verdi. Bin^^Zrtelleren
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--7
+[]\OT1/cmr/m/n/10 Endianness:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--7
+\OT1/cmr/m/n/10 Om vi leser
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--7
+\OT1/cmr/m/n/10 bin^^Zre tall
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--8
+[]\OT1/cmr/m/n/10 MSB: Most
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--8
+\OT1/cmr/m/n/10 sig-nif-i-cant
+ []
+
+
+LaTeX Warning: Marginpar on page 106 moved.
+
+
+LaTeX Warning: Marginpar on page 106 moved.
+
+<./img/countingADC.png, id=595, 563.706pt x 407.121pt>
+File: ./img/countingADC.png Graphic file (type png)
+
+<use ./img/countingADC.png>
+Package pdftex.def Info: ./img/countingADC.png used on input line 14.
+(pdftex.def)             Requested size: 231.14937pt x 166.93933pt.
+
+<./img/countingout.png, id=596, 293.898pt x 214.401pt>
+File: ./img/countingout.png Graphic file (type png)
+
+<use ./img/countingout.png>
+Package pdftex.def Info: ./img/countingout.png used on input line 22.
+(pdftex.def)             Requested size: 172.5pt x 125.84119pt.
+ [106 <./img/samplerate.png> <./img/countingADC.png>]) (./tex/uke17/approx.tex
+<./img/oppnedout.png, id=602, 199.144pt x 167.024pt>
+File: ./img/oppnedout.png Graphic file (type png)
+ <use ./img/oppnedout.png>
+Package pdftex.def Info: ./img/oppnedout.png used on input line 11.
+(pdftex.def)             Requested size: 172.5pt x 144.67766pt.
+
+<./img/oppnedADC.png, id=603, 411.939pt x 407.121pt>
+File: ./img/oppnedADC.png Graphic file (type png)
+ <use ./img/oppnedADC.png>
+Package pdftex.def Info: ./img/oppnedADC.png used on input line 17.
+(pdftex.def)             Requested size: 172.5pt x 170.48026pt.
+) [107 <./img/countingout.png> <./img/oppnedout.png>] (./tex/uke17/flash.tex
+<./img/flashadc.png, id=609, 521.95pt x 503.8825pt>
+File: ./img/flashadc.png Graphic file (type png)
+ <use ./img/flashadc.png>
+Package pdftex.def Info: ./img/flashadc.png used on input line 10.
+(pdftex.def)             Requested size: 231.14937pt x 223.14676pt.
+))
+[108 <./img/oppnedADC.png> <./img/flashadc.png>] [109] (./fys1210.aux
 (./tex/uke5/tidskonstant.aux))
 
 LaTeX Font Warning: Size substitutions with differences
@@ -3151,10 +3237,10 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 32193 strings out of 493105
- 738819 string characters out of 6137072
- 799499 words of memory out of 5000000
- 34772 multiletter control sequences out of 15000+600000
+ 32465 strings out of 493105
+ 745021 string characters out of 6137072
+ 798677 words of memory out of 5000000
+ 35021 multiletter control sequences out of 15000+600000
  14642 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,12n,58p,10406b,843s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3175,10 +3261,10 @@ f-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf/fonts/type1/public/cm-supe
 r/sfrm1000.pfb>
-Output written on fys1210.pdf (105 pages, 4293356 bytes).
+Output written on fys1210.pdf (109 pages, 4402543 bytes).
 PDF statistics:
- 652 PDF objects out of 1000 (max. 8388607)
- 289 compressed objects within 3 object streams
+ 677 PDF objects out of 1000 (max. 8388607)
+ 299 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 618 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 648 words of extra memory for PDF output out of 10000 (max. 10000000)
 
