@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.1.22)  1 MAY 2016 14:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.1.22)  8 MAY 2016 13:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1286,11 +1286,11 @@ File: siunitx-abbreviations.cfg 2014/10/01 v2.6c siunitx: Abbreviated units
 (./fys1210.toc [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
-[3] [4])
+[3] [4] [5])
 \tf@toc=\write5
 \openout5 = `fys1210.toc'.
 
- (./tex/abstract.tex [5]
+ (./tex/abstract.tex
 Underfull \hbox (badness 10000) in paragraph at lines 5--12
 
  []
@@ -1324,10 +1324,10 @@ File: ./img/current.png Graphic file (type png)
 Package pdftex.def Info: ./img/current.png used on input line 12.
 (pdftex.def)             Requested size: 187.09854pt x 32.9229pt.
 )
-(./tex/uke3/spenning.tex <./img/charge.png, id=35, 321.2pt x 240.9pt>
+(./tex/uke3/spenning.tex [7 <./img/Li.jpg> <./img/current.png>]
+<./img/charge.png, id=41, 321.2pt x 240.9pt>
 File: ./img/charge.png Graphic file (type png)
-
-<use ./img/charge.png>
+ <use ./img/charge.png>
 Package pdftex.def Info: ./img/charge.png used on input line 9.
 (pdftex.def)             Requested size: 160.59961pt x 120.44969pt.
 
@@ -1335,7 +1335,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--11
 
  []
 
-[7 <./img/Li.jpg> <./img/current.png>]
 <./img/battery.png, id=42, 201.553pt x 169.433pt>
 File: ./img/battery.png Graphic file (type png)
  <use ./img/battery.png>
@@ -3229,7 +3228,53 @@ File: ./img/flashadc.png Graphic file (type png)
 Package pdftex.def Info: ./img/flashadc.png used on input line 10.
 (pdftex.def)             Requested size: 231.14937pt x 223.14676pt.
 ))
-[108 <./img/oppnedADC.png> <./img/flashadc.png>] [109] (./fys1210.aux
+[108 <./img/oppnedADC.png> <./img/flashadc.png>] (./tex/uke18/uke18.tex
+(./tex/uke18/begreper.tex) (./tex/uke18/deltasigma.tex
+<./img/deltasigma.png, id=614, 322.003pt x 133.298pt>
+File: ./img/deltasigma.png Graphic file (type png)
+
+<use ./img/deltasigma.png>
+Package pdftex.def Info: ./img/deltasigma.png used on input line 6.
+(pdftex.def)             Requested size: 172.5pt x 71.4083pt.
+) (./tex/uke18/multivib.tex) (./tex/uke18/astabil.tex <./img/astabil.png, id=61
+5, 448.877pt x 97.966pt>
+File: ./img/astabil.png Graphic file (type png)
+ <use ./img/astabil.png>
+Package pdftex.def Info: ./img/astabil.png used on input line 5.
+(pdftex.def)             Requested size: 172.5pt x 37.6475pt.
+)
+[109 <./img/deltasigma.png>] (./tex/uke18/monostabil.tex
+<./img/monostabil.png, id=621, 449.68pt x 97.966pt>
+File: ./img/monostabil.png Graphic file (type png)
+ <use ./img/monostabil.png>
+Package pdftex.def Info: ./img/monostabil.png used on input line 6.
+(pdftex.def)             Requested size: 172.5pt x 37.58025pt.
+) (./tex/uke18/bistabil.tex <./img/bistabil.png, id=622, 449.68pt x 113.223pt>
+File: ./img/bistabil.png Graphic file (type png)
+
+<use ./img/bistabil.png>
+Package pdftex.def Info: ./img/bistabil.png used on input line 5.
+(pdftex.def)             Requested size: 172.5pt x 43.4329pt.
+) (./tex/uke18/def.tex) (./tex/uke18/presisjon.tex
+Overfull \hbox (20.94507pt too wide) in paragraph at lines 1--3
+\OT1/cmr/m/n/10 N^^War vi spe-si-fis-erer egen-skapene til en sen-sor skiller v
+i mel-lom pre-sisjon og n^^\yaktighet. 
+ []
+
+<./img/presisjon.png, id=623, 354.926pt x 141.328pt>
+File: ./img/presisjon.png Graphic file (type png)
+ <use ./img/presisjon.png>
+Package pdftex.def Info: ./img/presisjon.png used on input line 13.
+(pdftex.def)             Requested size: 231.14937pt x 92.04108pt.
+
+[110 <./img/astabil.png> <./img/monostabil.png> <./img/bistabil.png>]
+<./img/avvik.png, id=630, 215.204pt x 272.217pt>
+File: ./img/avvik.png Graphic file (type png)
+ <use ./img/avvik.png>
+Package pdftex.def Info: ./img/avvik.png used on input line 22.
+(pdftex.def)             Requested size: 113.85063pt x 144.01262pt.
+))
+[111 <./img/presisjon.png> <./img/avvik.png>] (./fys1210.aux
 (./tex/uke5/tidskonstant.aux))
 
 LaTeX Font Warning: Size substitutions with differences
@@ -3237,10 +3282,10 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 32465 strings out of 493105
- 745021 string characters out of 6137072
- 798677 words of memory out of 5000000
- 35021 multiletter control sequences out of 15000+600000
+ 32553 strings out of 493105
+ 746989 string characters out of 6137072
+ 799514 words of memory out of 5000000
+ 35081 multiletter control sequences out of 15000+600000
  14642 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,12n,58p,10406b,843s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3261,10 +3306,10 @@ f-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf/fonts/type1/public/cm-supe
 r/sfrm1000.pfb>
-Output written on fys1210.pdf (109 pages, 4402543 bytes).
+Output written on fys1210.pdf (111 pages, 4500323 bytes).
 PDF statistics:
- 677 PDF objects out of 1000 (max. 8388607)
- 299 compressed objects within 3 object streams
+ 696 PDF objects out of 1000 (max. 8388607)
+ 303 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
- 648 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 678 words of extra memory for PDF output out of 10000 (max. 10000000)
 

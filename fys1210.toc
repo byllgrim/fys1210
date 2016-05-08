@@ -270,9 +270,22 @@
 \contentsline {subsubsection}{\numberline {17.3.3}Counting A/D}{106}
 \contentsline {subsubsection}{\numberline {17.3.4}Successive Approximation A/D}{107}
 \contentsline {subsubsection}{\numberline {17.3.5}Flash konverter}{108}
-\contentsline {section}{\numberline {18}Uke 18}{109}
-\contentsline {section}{\numberline {19}Uke 19}{109}
-\contentsline {section}{\numberline {20}Uke 20}{109}
-\contentsline {section}{\numberline {21}Uke 21}{109}
-\contentsline {section}{\numberline {22}Uke 22}{109}
-\contentsline {section}{\numberline {23}Uke 23}{109}
+\contentsline {section}{\numberline {18}Uke 18 - Signalbehandling fortsatt}{109}
+\contentsline {subsection}{\numberline {18.1}Sampling}{109}
+\contentsline {subsubsection}{\numberline {18.1.1}Begreper}{109}
+\contentsline {paragraph}{Oppl\IeC {\o }sning}{109}
+\contentsline {paragraph}{Konverteringstid}{109}
+\contentsline {paragraph}{Kvantiseringsfeil}{109}
+\contentsline {subsubsection}{\numberline {18.1.2}Delta-sigma konverter}{109}
+\contentsline {subsection}{\numberline {18.2}Multivibratorer}{109}
+\contentsline {subsubsection}{\numberline {18.2.1}Astabil}{109}
+\contentsline {subsubsection}{\numberline {18.2.2}Monostabil}{110}
+\contentsline {subsubsection}{\numberline {18.2.3}Bistabil}{110}
+\contentsline {subsection}{\numberline {18.3}Sensorer}{110}
+\contentsline {subsubsection}{\numberline {18.3.1}Definisjon}{110}
+\contentsline {subsubsection}{\numberline {18.3.2}Presisjon vs n\IeC {\o }yaktighet}{110}
+\contentsline {section}{\numberline {19}Uke 19}{111}
+\contentsline {section}{\numberline {20}Uke 20}{111}
+\contentsline {section}{\numberline {21}Uke 21}{111}
+\contentsline {section}{\numberline {22}Uke 22}{111}
+\contentsline {section}{\numberline {23}Uke 23}{111}
