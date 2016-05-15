@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.1.22)  8 MAY 2016 13:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.1.22)  15 MAY 2016 15:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1318,13 +1318,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--7
 
  []
 
-<./img/current.png, id=33, 374.198pt x 65.846pt>
+<./img/current.png, id=30, 374.198pt x 65.846pt>
 File: ./img/current.png Graphic file (type png)
  <use ./img/current.png>
 Package pdftex.def Info: ./img/current.png used on input line 12.
 (pdftex.def)             Requested size: 187.09854pt x 32.9229pt.
-)
-(./tex/uke3/spenning.tex [7 <./img/Li.jpg> <./img/current.png>]
+
+[7 <./img/Li.jpg> <./img/current.png>]) (./tex/uke3/spenning.tex
 <./img/charge.png, id=41, 321.2pt x 240.9pt>
 File: ./img/charge.png Graphic file (type png)
  <use ./img/charge.png>
@@ -1353,20 +1353,20 @@ File: ./img/kondensator.jpg Graphic file (type jpg)
  <use ./img/kondensator.jpg>
 Package pdftex.def Info: ./img/kondensator.jpg used on input line 15.
 (pdftex.def)             Requested size: 113.85063pt x 151.79721pt.
-) (./tex/uke3/ledere.tex) (./tex/uke3/ohm.tex
+) (./tex/uke3/ledere.tex [9 <./img/resistor.png> <./img/kondensator.jpg>])
+(./tex/uke3/ohm.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--4
 
  []
 
-[9 <./img/resistor.png> <./img/kondensator.jpg>]) (./tex/uke3/kobling.tex
-(./tex/uke3/serie.tex) (./tex/uke3/parallell.tex)) (./tex/uke3/kirchhoff.tex
-<./img/kcl.png, id=55, 566.82353pt x 508.72412pt>
+) (./tex/uke3/kobling.tex (./tex/uke3/serie.tex) (./tex/uke3/parallell.tex
+[10])) (./tex/uke3/kirchhoff.tex
+<./img/kcl.png, id=59, 566.82353pt x 508.72412pt>
 File: ./img/kcl.png Graphic file (type png)
  <use ./img/kcl.png>
 Package pdftex.def Info: ./img/kcl.png used on input line 6.
 (pdftex.def)             Requested size: 86.25pt x 77.4076pt.
- [10])
-(./tex/uke3/superposisjon.tex [11 <./img/kcl.png>]
+) [11 <./img/kcl.png>] (./tex/uke3/superposisjon.tex
 Underfull \hbox (badness 10000) in paragraph at lines 52--59
 
  []
@@ -3274,18 +3274,49 @@ File: ./img/avvik.png Graphic file (type png)
 Package pdftex.def Info: ./img/avvik.png used on input line 22.
 (pdftex.def)             Requested size: 113.85063pt x 144.01262pt.
 ))
-[111 <./img/presisjon.png> <./img/avvik.png>] (./fys1210.aux
-(./tex/uke5/tidskonstant.aux))
+(./tex/uke19/uke19.tex (./tex/uke19/psu.tex) (./tex/uke19/serie.tex
+<./img/serie-boks.png, id=631, 327.624pt x 80.3pt>
+File: ./img/serie-boks.png Graphic file (type png)
+ <use ./img/serie-boks.png>
+Package pdftex.def Info: ./img/serie-boks.png used on input line 5.
+(pdftex.def)             Requested size: 231.14937pt x 56.6556pt.
+
+[111 <./img/presisjon.png> <./img/avvik.png>]) (./tex/uke19/shunt.tex
+<./img/parallell-boks.png, id=637, 401.5pt x 126.874pt>
+File: ./img/parallell-boks.png Graphic file (type png)
+
+<use ./img/parallell-boks.png>
+Package pdftex.def Info: ./img/parallell-boks.png used on input line 3.
+(pdftex.def)             Requested size: 231.14937pt x 73.04488pt.
+) (./tex/uke19/am.tex
+<./img/am.png, id=638, 531.586pt x 449.68pt>
+File: ./img/am.png Graphic file (type png)
+ <use ./img/am.png>
+Package pdftex.def Info: ./img/am.png used on input line 12.
+(pdftex.def)             Requested size: 231.14937pt x 195.53374pt.
+) [112 <./img/serie-boks.png> <./img/parallell-boks.png>] (./tex/uke19/fm.tex
+<./img/fm.png, id=644, 531.586pt x 449.68pt>
+File: ./img/fm.png Graphic file (type png)
+ <use ./img/fm.png>
+Package pdftex.def Info: ./img/fm.png used on input line 8.
+(pdftex.def)             Requested size: 231.14937pt x 195.53374pt.
+ [113 <./img/am.png> <./img/fm.png>]) (./tex/uke19/psk.tex
+<./img/psk.png, id=650, 547.646pt x 449.68pt>
+File: ./img/psk.png Graphic file (type png)
+ <use ./img/psk.png>
+Package pdftex.def Info: ./img/psk.png used on input line 10.
+(pdftex.def)             Requested size: 231.14937pt x 189.79747pt.
+)) [114 <./img/psk.png>] [115] (./fys1210.aux (./tex/uke5/tidskonstant.aux))
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 3.25002pt have occurred.
 
  ) 
 Here is how much of TeX's memory you used:
- 32553 strings out of 493105
- 746989 string characters out of 6137072
- 799514 words of memory out of 5000000
- 35081 multiletter control sequences out of 15000+600000
+ 32695 strings out of 493105
+ 750094 string characters out of 6137072
+ 799878 words of memory out of 5000000
+ 35201 multiletter control sequences out of 15000+600000
  14642 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,12n,58p,10406b,843s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3306,10 +3337,10 @@ f-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf/fonts/type1/public/cm-supe
 r/sfrm1000.pfb>
-Output written on fys1210.pdf (111 pages, 4500323 bytes).
+Output written on fys1210.pdf (115 pages, 4754671 bytes).
 PDF statistics:
- 696 PDF objects out of 1000 (max. 8388607)
- 303 compressed objects within 4 object streams
+ 719 PDF objects out of 1000 (max. 8388607)
+ 312 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
- 678 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 703 words of extra memory for PDF output out of 10000 (max. 10000000)
 
